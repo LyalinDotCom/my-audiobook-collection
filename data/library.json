@@ -40,7 +40,9 @@
       "catalog_source": "https://api.audible.com/1.0/catalog/products/B0CR4N3KKD?response_groups=product_desc,product_attrs,series,contributors,media",
       "evidence_seconds": 0.0,
       "edition_status": "catalog-match",
-      "notes": ""
+      "notes": "",
+      "primary_category": "Science fiction",
+      "fiction_or_nonfiction": "Fiction"
     },
     {
       "id": "book-002",
@@ -73,7 +75,9 @@
       "catalog_source": "https://api.audible.com/1.0/catalog/products/B075NMRZTR?response_groups=product_desc,product_attrs,series,contributors,media",
       "evidence_seconds": 0.0,
       "edition_status": "catalog-match",
-      "notes": ""
+      "notes": "",
+      "primary_category": "Science fiction",
+      "fiction_or_nonfiction": "Fiction"
     },
     {
       "id": "book-003",
@@ -106,7 +110,9 @@
       "catalog_source": "https://api.audible.com/1.0/catalog/products/B0H8SY9QMX?response_groups=product_desc,product_attrs,series,contributors,media",
       "evidence_seconds": 0.0,
       "edition_status": "catalog-match",
-      "notes": ""
+      "notes": "",
+      "primary_category": "Science fiction",
+      "fiction_or_nonfiction": "Fiction"
     },
     {
       "id": "book-004",
@@ -139,7 +145,9 @@
       "catalog_source": "https://api.audible.com/1.0/catalog/products/1774241625?response_groups=product_desc,product_attrs,series,contributors,media",
       "evidence_seconds": 0.0,
       "edition_status": "catalog-match",
-      "notes": ""
+      "notes": "",
+      "primary_category": "Science fiction",
+      "fiction_or_nonfiction": "Fiction"
     },
     {
       "id": "book-005",
@@ -172,7 +180,9 @@
       "catalog_source": "https://api.audible.com/1.0/catalog/products/B07KZQZQDT?response_groups=product_desc,product_attrs,series,contributors,media",
       "evidence_seconds": 0.0,
       "edition_status": "catalog-match",
-      "notes": ""
+      "notes": "",
+      "primary_category": "Health, nutrition & fitness",
+      "fiction_or_nonfiction": "Nonfiction"
     },
     {
       "id": "book-006",
@@ -205,7 +215,9 @@
       "catalog_source": "https://api.audible.com/1.0/catalog/products/B072YT17GJ?response_groups=product_desc,product_attrs,series,contributors,media",
       "evidence_seconds": 0.0,
       "edition_status": "catalog-match",
-      "notes": ""
+      "notes": "",
+      "primary_category": "Science fiction",
+      "fiction_or_nonfiction": "Fiction"
     },
     {
       "id": "book-007",
@@ -231,7 +243,9 @@
       "catalog_source": "https://api.audible.com/1.0/catalog/products/B002UP1L9W?response_groups=product_desc,product_attrs,series,contributors,media",
       "evidence_seconds": 1.75,
       "edition_status": "edition-unconfirmed",
-      "notes": "Title and cover match. The recording does not establish whether this is the abridged or unabridged edition; the linked edition is unabridged."
+      "notes": "Title and cover match. The recording does not establish whether this is the abridged or unabridged edition; the linked edition is unabridged.",
+      "primary_category": "History, military & politics",
+      "fiction_or_nonfiction": "Nonfiction"
     },
     {
       "id": "book-008",
@@ -264,7 +278,9 @@
       "catalog_source": "https://api.audible.com/1.0/catalog/products/B071438NCM?response_groups=product_desc,product_attrs,series,contributors,media",
       "evidence_seconds": 2.0,
       "edition_status": "catalog-match",
-      "notes": ""
+      "notes": "",
+      "primary_category": "Science fiction",
+      "fiction_or_nonfiction": "Fiction"
     },
     {
       "id": "book-009",
@@ -298,7 +314,9 @@
       "catalog_source": "https://api.audible.com/1.0/catalog/products/B0G4XBLK78?response_groups=product_desc,product_attrs,series,contributors,media",
       "evidence_seconds": 2.25,
       "edition_status": "catalog-match",
-      "notes": ""
+      "notes": "",
+      "primary_category": "Science fiction",
+      "fiction_or_nonfiction": "Fiction"
     },
     {
       "id": "book-010",
@@ -331,7 +349,9 @@
       "catalog_source": "https://api.audible.com/1.0/catalog/products/B0FSLQJG39?response_groups=product_desc,product_attrs,series,contributors,media",
       "evidence_seconds": 3.25,
       "edition_status": "catalog-match",
-      "notes": ""
+      "notes": "",
+      "primary_category": "Science fiction",
+      "fiction_or_nonfiction": "Fiction"
     },
     {
       "id": "book-011",
@@ -365,7 +385,9 @@
       "catalog_source": "https://api.audible.com/1.0/catalog/products/B0FV3QTZM1?response_groups=product_desc,product_attrs,series,contributors,media",
       "evidence_seconds": 3.75,
       "edition_status": "catalog-match",
-      "notes": ""
+      "notes": "",
+      "primary_category": "Thrillers, espionage & mystery",
+      "fiction_or_nonfiction": "Fiction"
     },
     {
       "id": "book-012",
@@ -398,7 +420,9 @@
       "catalog_source": "https://api.audible.com/1.0/catalog/products/B01N48VJFJ?response_groups=product_desc,product_attrs,series,contributors,media",
       "evidence_seconds": 4.0,
       "edition_status": "catalog-match",
-      "notes": ""
+      "notes": "",
+      "primary_category": "Science fiction",
+      "fiction_or_nonfiction": "Fiction"
     },
     {
       "id": "book-013",
@@ -431,7 +455,9 @@
       "catalog_source": "https://api.audible.com/1.0/catalog/products/B06W5861HP?response_groups=product_desc,product_attrs,series,contributors,media",
       "evidence_seconds": 5.0,
       "edition_status": "catalog-match",
-      "notes": ""
+      "notes": "",
+      "primary_category": "Science fiction",
+      "fiction_or_nonfiction": "Fiction"
     },
     {
       "id": "book-014",
@@ -464,7 +490,9 @@
       "catalog_source": "https://api.audible.com/1.0/catalog/products/B0GXLDSRR5?response_groups=product_desc,product_attrs,series,contributors,media",
       "evidence_seconds": 5.25,
       "edition_status": "catalog-match",
-      "notes": ""
+      "notes": "",
+      "primary_category": "Fantasy",
+      "fiction_or_nonfiction": "Fiction"
     },
     {
       "id": "book-015",
@@ -497,7 +525,9 @@
       "catalog_source": "https://api.audible.com/1.0/catalog/products/B0B6CWW9MF?response_groups=product_desc,product_attrs,series,contributors,media",
       "evidence_seconds": 5.5,
       "edition_status": "catalog-match",
-      "notes": ""
+      "notes": "",
+      "primary_category": "Thrillers, espionage & mystery",
+      "fiction_or_nonfiction": "Fiction"
     },
     {
       "id": "book-016",
@@ -530,7 +560,9 @@
       "catalog_source": "https://api.audible.com/1.0/catalog/products/B0FS2Z2SVC?response_groups=product_desc,product_attrs,series,contributors,media",
       "evidence_seconds": 6.0,
       "edition_status": "catalog-match",
-      "notes": ""
+      "notes": "",
+      "primary_category": "Science fiction",
+      "fiction_or_nonfiction": "Fiction"
     },
     {
       "id": "book-017",
@@ -569,7 +601,9 @@
       "catalog_source": "https://api.audible.com/1.0/catalog/products/B0CQZ5167B?response_groups=product_desc,product_attrs,series,contributors,media",
       "evidence_seconds": 7.0,
       "edition_status": "catalog-match",
-      "notes": ""
+      "notes": "",
+      "primary_category": "Science fiction",
+      "fiction_or_nonfiction": "Fiction"
     },
     {
       "id": "book-018",
@@ -602,7 +636,9 @@
       "catalog_source": "https://api.audible.com/1.0/catalog/products/B0FPJ3PT2Q?response_groups=product_desc,product_attrs,series,contributors,media",
       "evidence_seconds": 7.5,
       "edition_status": "catalog-match",
-      "notes": ""
+      "notes": "",
+      "primary_category": "Thrillers, espionage & mystery",
+      "fiction_or_nonfiction": "Fiction"
     },
     {
       "id": "book-019",
@@ -635,7 +671,9 @@
       "catalog_source": "https://api.audible.com/1.0/catalog/products/B0DJFY1GZ6?response_groups=product_desc,product_attrs,series,contributors,media",
       "evidence_seconds": 7.75,
       "edition_status": "catalog-match",
-      "notes": ""
+      "notes": "",
+      "primary_category": "Thrillers, espionage & mystery",
+      "fiction_or_nonfiction": "Fiction"
     },
     {
       "id": "book-020",
@@ -668,7 +706,9 @@
       "catalog_source": "https://api.audible.com/1.0/catalog/products/B0DHY73W12?response_groups=product_desc,product_attrs,series,contributors,media",
       "evidence_seconds": 8.0,
       "edition_status": "catalog-match",
-      "notes": ""
+      "notes": "",
+      "primary_category": "Thrillers, espionage & mystery",
+      "fiction_or_nonfiction": "Fiction"
     },
     {
       "id": "book-021",
@@ -701,7 +741,9 @@
       "catalog_source": "https://api.audible.com/1.0/catalog/products/B0FH7DN3SW?response_groups=product_desc,product_attrs,series,contributors,media",
       "evidence_seconds": 8.75,
       "edition_status": "catalog-match",
-      "notes": ""
+      "notes": "",
+      "primary_category": "Science fiction",
+      "fiction_or_nonfiction": "Fiction"
     },
     {
       "id": "book-022",
@@ -727,7 +769,9 @@
       "catalog_source": "https://api.audible.com/1.0/catalog/products/B0FHJ8GBVB?response_groups=product_desc,product_attrs,series,contributors,media",
       "evidence_seconds": 9.25,
       "edition_status": "catalog-match",
-      "notes": ""
+      "notes": "",
+      "primary_category": "Educational — science, data & learning",
+      "fiction_or_nonfiction": "Nonfiction"
     },
     {
       "id": "book-023",
@@ -753,7 +797,9 @@
       "catalog_source": "https://api.audible.com/1.0/catalog/products/1705253601?response_groups=product_desc,product_attrs,series,contributors,media",
       "evidence_seconds": 9.5,
       "edition_status": "catalog-match",
-      "notes": ""
+      "notes": "",
+      "primary_category": "Society & culture",
+      "fiction_or_nonfiction": "Nonfiction"
     },
     {
       "id": "book-024",
@@ -779,7 +825,9 @@
       "catalog_source": "https://api.audible.com/1.0/catalog/products/B073SG4DLG?response_groups=product_desc,product_attrs,series,contributors,media",
       "evidence_seconds": 10.25,
       "edition_status": "catalog-match",
-      "notes": ""
+      "notes": "",
+      "primary_category": "Society & culture",
+      "fiction_or_nonfiction": "Nonfiction"
     },
     {
       "id": "book-025",
@@ -812,7 +860,9 @@
       "catalog_source": "https://api.audible.com/1.0/catalog/products/B0B8446C65?response_groups=product_desc,product_attrs,series,contributors,media",
       "evidence_seconds": 10.75,
       "edition_status": "catalog-match",
-      "notes": ""
+      "notes": "",
+      "primary_category": "Science fiction",
+      "fiction_or_nonfiction": "Fiction"
     },
     {
       "id": "book-026",
@@ -845,7 +895,9 @@
       "catalog_source": "https://api.audible.com/1.0/catalog/products/1549119788?response_groups=product_desc,product_attrs,series,contributors,media",
       "evidence_seconds": 11.0,
       "edition_status": "catalog-match",
-      "notes": ""
+      "notes": "",
+      "primary_category": "Science fiction",
+      "fiction_or_nonfiction": "Fiction"
     },
     {
       "id": "book-027",
@@ -871,7 +923,9 @@
       "catalog_source": "https://api.audible.com/1.0/catalog/products/B00J7R0AV6?response_groups=product_desc,product_attrs,series,contributors,media",
       "evidence_seconds": 11.5,
       "edition_status": "catalog-match",
-      "notes": ""
+      "notes": "",
+      "primary_category": "Business, leadership & productivity",
+      "fiction_or_nonfiction": "Nonfiction"
     },
     {
       "id": "book-028",
@@ -897,7 +951,9 @@
       "catalog_source": "https://api.audible.com/1.0/catalog/products/B00546SXO0?response_groups=product_desc,product_attrs,series,contributors,media",
       "evidence_seconds": 11.75,
       "edition_status": "catalog-match",
-      "notes": ""
+      "notes": "",
+      "primary_category": "Literary classics & mythology",
+      "fiction_or_nonfiction": "Fiction"
     },
     {
       "id": "book-029",
@@ -930,7 +986,9 @@
       "catalog_source": "https://api.audible.com/1.0/catalog/products/B0CTKSG1VB?response_groups=product_desc,product_attrs,series,contributors,media",
       "evidence_seconds": 12.0,
       "edition_status": "catalog-match",
-      "notes": ""
+      "notes": "",
+      "primary_category": "Science fiction",
+      "fiction_or_nonfiction": "Fiction"
     },
     {
       "id": "book-030",
@@ -956,7 +1014,9 @@
       "catalog_source": "https://api.audible.com/1.0/catalog/products/B09LZ454YJ?response_groups=product_desc,product_attrs,series,contributors,media",
       "evidence_seconds": 13.0,
       "edition_status": "catalog-match",
-      "notes": ""
+      "notes": "",
+      "primary_category": "History, military & politics",
+      "fiction_or_nonfiction": "Nonfiction"
     },
     {
       "id": "book-031",
@@ -989,7 +1049,9 @@
       "catalog_source": "https://api.audible.com/1.0/catalog/products/1250787882?response_groups=product_desc,product_attrs,series,contributors,media",
       "evidence_seconds": 13.25,
       "edition_status": "catalog-match",
-      "notes": ""
+      "notes": "",
+      "primary_category": "Thrillers, espionage & mystery",
+      "fiction_or_nonfiction": "Fiction"
     },
     {
       "id": "book-032",
@@ -1022,7 +1084,9 @@
       "catalog_source": "https://api.audible.com/1.0/catalog/products/1250787920?response_groups=product_desc,product_attrs,series,contributors,media",
       "evidence_seconds": 13.75,
       "edition_status": "catalog-match",
-      "notes": ""
+      "notes": "",
+      "primary_category": "Thrillers, espionage & mystery",
+      "fiction_or_nonfiction": "Fiction"
     },
     {
       "id": "book-033",
@@ -1055,7 +1119,9 @@
       "catalog_source": "https://api.audible.com/1.0/catalog/products/1799751511?response_groups=product_desc,product_attrs,series,contributors,media",
       "evidence_seconds": 13.75,
       "edition_status": "catalog-match",
-      "notes": ""
+      "notes": "",
+      "primary_category": "Thrillers, espionage & mystery",
+      "fiction_or_nonfiction": "Fiction"
     },
     {
       "id": "book-034",
@@ -1088,7 +1154,9 @@
       "catalog_source": "https://api.audible.com/1.0/catalog/products/B0FH7CT5WH?response_groups=product_desc,product_attrs,series,contributors,media",
       "evidence_seconds": 14.5,
       "edition_status": "catalog-match",
-      "notes": ""
+      "notes": "",
+      "primary_category": "Fantasy",
+      "fiction_or_nonfiction": "Fiction"
     },
     {
       "id": "book-035",
@@ -1114,7 +1182,9 @@
       "catalog_source": "https://api.audible.com/1.0/catalog/products/B002V5HB1S?response_groups=product_desc,product_attrs,series,contributors,media",
       "evidence_seconds": 14.75,
       "edition_status": "catalog-match",
-      "notes": ""
+      "notes": "",
+      "primary_category": "Society & culture",
+      "fiction_or_nonfiction": "Nonfiction"
     },
     {
       "id": "book-036",
@@ -1152,7 +1222,9 @@
       "catalog_source": "https://api.audible.com/1.0/catalog/products/1772309141?response_groups=product_desc,product_attrs,series,contributors,media",
       "evidence_seconds": 15.0,
       "edition_status": "catalog-match",
-      "notes": ""
+      "notes": "",
+      "primary_category": "Science fiction",
+      "fiction_or_nonfiction": "Fiction"
     },
     {
       "id": "book-037",
@@ -1185,7 +1257,9 @@
       "catalog_source": "https://api.audible.com/1.0/catalog/products/1522649689?response_groups=product_desc,product_attrs,series,contributors,media",
       "evidence_seconds": 15.0,
       "edition_status": "catalog-match",
-      "notes": ""
+      "notes": "",
+      "primary_category": "Thrillers, espionage & mystery",
+      "fiction_or_nonfiction": "Fiction"
     },
     {
       "id": "book-038",
@@ -1218,7 +1292,9 @@
       "catalog_source": "https://api.audible.com/1.0/catalog/products/B0C5N9FNB4?response_groups=product_desc,product_attrs,series,contributors,media",
       "evidence_seconds": 15.25,
       "edition_status": "catalog-match",
-      "notes": ""
+      "notes": "",
+      "primary_category": "Science fiction",
+      "fiction_or_nonfiction": "Fiction"
     },
     {
       "id": "book-039",
@@ -1251,7 +1327,9 @@
       "catalog_source": "https://api.audible.com/1.0/catalog/products/1980080631?response_groups=product_desc,product_attrs,series,contributors,media",
       "evidence_seconds": 15.5,
       "edition_status": "catalog-match",
-      "notes": ""
+      "notes": "",
+      "primary_category": "Science fiction",
+      "fiction_or_nonfiction": "Fiction"
     },
     {
       "id": "book-040",
@@ -1284,7 +1362,9 @@
       "catalog_source": "https://api.audible.com/1.0/catalog/products/1980021716?response_groups=product_desc,product_attrs,series,contributors,media",
       "evidence_seconds": 15.75,
       "edition_status": "catalog-match",
-      "notes": ""
+      "notes": "",
+      "primary_category": "Science fiction",
+      "fiction_or_nonfiction": "Fiction"
     },
     {
       "id": "book-041",
@@ -1317,7 +1397,9 @@
       "catalog_source": "https://api.audible.com/1.0/catalog/products/B07FF9TJ2K?response_groups=product_desc,product_attrs,series,contributors,media",
       "evidence_seconds": 16.75,
       "edition_status": "catalog-match",
-      "notes": ""
+      "notes": "",
+      "primary_category": "Science fiction",
+      "fiction_or_nonfiction": "Fiction"
     },
     {
       "id": "book-042",
@@ -1350,7 +1432,9 @@
       "catalog_source": "https://api.audible.com/1.0/catalog/products/B078X15P2P?response_groups=product_desc,product_attrs,series,contributors,media",
       "evidence_seconds": 17.0,
       "edition_status": "catalog-match",
-      "notes": ""
+      "notes": "",
+      "primary_category": "Thrillers, espionage & mystery",
+      "fiction_or_nonfiction": "Fiction"
     },
     {
       "id": "book-043",
@@ -1383,7 +1467,9 @@
       "catalog_source": "https://api.audible.com/1.0/catalog/products/B07D9RHRH5?response_groups=product_desc,product_attrs,series,contributors,media",
       "evidence_seconds": 17.25,
       "edition_status": "catalog-match",
-      "notes": ""
+      "notes": "",
+      "primary_category": "Science fiction",
+      "fiction_or_nonfiction": "Fiction"
     },
     {
       "id": "book-044",
@@ -1416,7 +1502,9 @@
       "catalog_source": "https://api.audible.com/1.0/catalog/products/B07BFDDWXN?response_groups=product_desc,product_attrs,series,contributors,media",
       "evidence_seconds": 17.5,
       "edition_status": "catalog-match",
-      "notes": ""
+      "notes": "",
+      "primary_category": "Science fiction",
+      "fiction_or_nonfiction": "Fiction"
     },
     {
       "id": "book-045",
@@ -1449,7 +1537,9 @@
       "catalog_source": "https://api.audible.com/1.0/catalog/products/B076XSGP65?response_groups=product_desc,product_attrs,series,contributors,media",
       "evidence_seconds": 17.75,
       "edition_status": "catalog-match",
-      "notes": ""
+      "notes": "",
+      "primary_category": "Science fiction",
+      "fiction_or_nonfiction": "Fiction"
     },
     {
       "id": "book-046",
@@ -1482,7 +1572,9 @@
       "catalog_source": "https://api.audible.com/1.0/catalog/products/B01NCP56QD?response_groups=product_desc,product_attrs,series,contributors,media",
       "evidence_seconds": 18.25,
       "edition_status": "catalog-match",
-      "notes": ""
+      "notes": "",
+      "primary_category": "Thrillers, espionage & mystery",
+      "fiction_or_nonfiction": "Fiction"
     },
     {
       "id": "book-047",
@@ -1515,7 +1607,9 @@
       "catalog_source": "https://api.audible.com/1.0/catalog/products/B0DRPQFHHW?response_groups=product_desc,product_attrs,series,contributors,media",
       "evidence_seconds": 19.25,
       "edition_status": "catalog-match",
-      "notes": ""
+      "notes": "",
+      "primary_category": "Science fiction",
+      "fiction_or_nonfiction": "Fiction"
     },
     {
       "id": "book-048",
@@ -1548,7 +1642,9 @@
       "catalog_source": "https://api.audible.com/1.0/catalog/products/1980006520?response_groups=product_desc,product_attrs,series,contributors,media",
       "evidence_seconds": 19.5,
       "edition_status": "catalog-match",
-      "notes": ""
+      "notes": "",
+      "primary_category": "Science fiction",
+      "fiction_or_nonfiction": "Fiction"
     },
     {
       "id": "book-049",
@@ -1581,7 +1677,9 @@
       "catalog_source": "https://api.audible.com/1.0/catalog/products/B088C4DBYP?response_groups=product_desc,product_attrs,series,contributors,media",
       "evidence_seconds": 19.75,
       "edition_status": "catalog-match",
-      "notes": ""
+      "notes": "",
+      "primary_category": "Science fiction",
+      "fiction_or_nonfiction": "Fiction"
     },
     {
       "id": "book-050",
@@ -1614,7 +1712,9 @@
       "catalog_source": "https://api.audible.com/1.0/catalog/products/B0198MEIOO?response_groups=product_desc,product_attrs,series,contributors,media",
       "evidence_seconds": 20.0,
       "edition_status": "catalog-match",
-      "notes": ""
+      "notes": "",
+      "primary_category": "Thrillers, espionage & mystery",
+      "fiction_or_nonfiction": "Fiction"
     },
     {
       "id": "book-051",
@@ -1653,7 +1753,9 @@
       "catalog_source": "https://api.audible.com/1.0/catalog/products/B004P7VGWU?response_groups=product_desc,product_attrs,series,contributors,media",
       "evidence_seconds": 21.0,
       "edition_status": "catalog-match",
-      "notes": ""
+      "notes": "",
+      "primary_category": "Science fiction",
+      "fiction_or_nonfiction": "Fiction"
     },
     {
       "id": "book-052",
@@ -1686,7 +1788,9 @@
       "catalog_source": "https://api.audible.com/1.0/catalog/products/B0CLGVVKS4?response_groups=product_desc,product_attrs,series,contributors,media",
       "evidence_seconds": 21.25,
       "edition_status": "catalog-match",
-      "notes": ""
+      "notes": "",
+      "primary_category": "Thrillers, espionage & mystery",
+      "fiction_or_nonfiction": "Fiction"
     },
     {
       "id": "book-053",
@@ -1713,7 +1817,9 @@
       "catalog_source": "https://api.audible.com/1.0/catalog/products/B006M53AU4?response_groups=product_desc,product_attrs,series,contributors,media",
       "evidence_seconds": 21.5,
       "edition_status": "catalog-match",
-      "notes": ""
+      "notes": "",
+      "primary_category": "Parenting & relationships",
+      "fiction_or_nonfiction": "Nonfiction"
     },
     {
       "id": "book-054",
@@ -1746,7 +1852,9 @@
       "catalog_source": "https://api.audible.com/1.0/catalog/products/B0BJ13SVSB?response_groups=product_desc,product_attrs,series,contributors,media",
       "evidence_seconds": 22.5,
       "edition_status": "catalog-match",
-      "notes": ""
+      "notes": "",
+      "primary_category": "Thrillers, espionage & mystery",
+      "fiction_or_nonfiction": "Fiction"
     },
     {
       "id": "book-055",
@@ -1779,7 +1887,9 @@
       "catalog_source": "https://api.audible.com/1.0/catalog/products/1797134833?response_groups=product_desc,product_attrs,series,contributors,media",
       "evidence_seconds": 22.75,
       "edition_status": "catalog-match",
-      "notes": ""
+      "notes": "",
+      "primary_category": "Thrillers, espionage & mystery",
+      "fiction_or_nonfiction": "Fiction"
     },
     {
       "id": "book-056",
@@ -1812,7 +1922,9 @@
       "catalog_source": "https://api.audible.com/1.0/catalog/products/1797117157?response_groups=product_desc,product_attrs,series,contributors,media",
       "evidence_seconds": 23.0,
       "edition_status": "catalog-match",
-      "notes": ""
+      "notes": "",
+      "primary_category": "Thrillers, espionage & mystery",
+      "fiction_or_nonfiction": "Fiction"
     },
     {
       "id": "book-057",
@@ -1838,7 +1950,9 @@
       "catalog_source": "https://api.audible.com/1.0/catalog/products/B0CF6R3R7W?response_groups=product_desc,product_attrs,series,contributors,media",
       "evidence_seconds": 23.25,
       "edition_status": "catalog-match",
-      "notes": ""
+      "notes": "",
+      "primary_category": "History, military & politics",
+      "fiction_or_nonfiction": "Nonfiction"
     },
     {
       "id": "book-058",
@@ -1871,7 +1985,9 @@
       "catalog_source": "https://api.audible.com/1.0/catalog/products/1508299625?response_groups=product_desc,product_attrs,series,contributors,media",
       "evidence_seconds": 23.5,
       "edition_status": "catalog-match",
-      "notes": ""
+      "notes": "",
+      "primary_category": "Thrillers, espionage & mystery",
+      "fiction_or_nonfiction": "Fiction"
     },
     {
       "id": "book-059",
@@ -1904,7 +2020,9 @@
       "catalog_source": "https://api.audible.com/1.0/catalog/products/B07HY7TSLY?response_groups=product_desc,product_attrs,series,contributors,media",
       "evidence_seconds": 24.0,
       "edition_status": "catalog-match",
-      "notes": ""
+      "notes": "",
+      "primary_category": "Thrillers, espionage & mystery",
+      "fiction_or_nonfiction": "Fiction"
     },
     {
       "id": "book-060",
@@ -1940,7 +2058,9 @@
       "catalog_source": "https://api.audible.com/1.0/catalog/products/B002UZMV1Y?response_groups=product_desc,product_attrs,series,contributors,media",
       "evidence_seconds": 24.75,
       "edition_status": "catalog-match",
-      "notes": "Abridged Fagles translation with Bernard Knox introduction; 8h 44m in the recording matches this edition."
+      "notes": "Abridged Fagles translation with Bernard Knox introduction; 8h 44m in the recording matches this edition.",
+      "primary_category": "Literary classics & mythology",
+      "fiction_or_nonfiction": "Fiction"
     },
     {
       "id": "book-061",
@@ -1973,7 +2093,9 @@
       "catalog_source": "https://api.audible.com/1.0/catalog/products/B0065717C2?response_groups=product_desc,product_attrs,series,contributors,media",
       "evidence_seconds": 24.75,
       "edition_status": "catalog-match",
-      "notes": "Original cover matched to the Sean Mangan edition, rather than the newer edition with an additional narrator."
+      "notes": "Original cover matched to the Sean Mangan edition, rather than the newer edition with an additional narrator.",
+      "primary_category": "Thrillers, espionage & mystery",
+      "fiction_or_nonfiction": "Fiction"
     },
     {
       "id": "book-062",
@@ -2000,7 +2122,9 @@
       "catalog_source": "https://api.audible.com/1.0/catalog/products/B0CLWHDDZT?response_groups=product_desc,product_attrs,series,contributors,media",
       "evidence_seconds": 25.25,
       "edition_status": "catalog-match",
-      "notes": ""
+      "notes": "",
+      "primary_category": "Science fiction",
+      "fiction_or_nonfiction": "Fiction"
     },
     {
       "id": "book-063",
@@ -2026,7 +2150,9 @@
       "catalog_source": "https://api.audible.com/1.0/catalog/products/B0BP9LV7QV?response_groups=product_desc,product_attrs,series,contributors,media",
       "evidence_seconds": 26.25,
       "edition_status": "catalog-match",
-      "notes": ""
+      "notes": "",
+      "primary_category": "Science fiction",
+      "fiction_or_nonfiction": "Fiction"
     },
     {
       "id": "book-064",
@@ -2052,7 +2178,9 @@
       "catalog_source": "https://api.audible.com/1.0/catalog/products/B07BHVWFSM?response_groups=product_desc,product_attrs,series,contributors,media",
       "evidence_seconds": 26.5,
       "edition_status": "catalog-match",
-      "notes": ""
+      "notes": "",
+      "primary_category": "Science fiction",
+      "fiction_or_nonfiction": "Fiction"
     },
     {
       "id": "book-065",
@@ -2085,7 +2213,9 @@
       "catalog_source": "https://api.audible.com/1.0/catalog/products/1980068887?response_groups=product_desc,product_attrs,series,contributors,media",
       "evidence_seconds": 26.75,
       "edition_status": "catalog-match",
-      "notes": ""
+      "notes": "",
+      "primary_category": "Science fiction",
+      "fiction_or_nonfiction": "Fiction"
     },
     {
       "id": "book-066",
@@ -2118,7 +2248,9 @@
       "catalog_source": "https://api.audible.com/1.0/catalog/products/B0D38CR7BR?response_groups=product_desc,product_attrs,series,contributors,media",
       "evidence_seconds": 26.75,
       "edition_status": "catalog-match",
-      "notes": ""
+      "notes": "",
+      "primary_category": "Science fiction",
+      "fiction_or_nonfiction": "Fiction"
     },
     {
       "id": "book-067",
@@ -2151,7 +2283,9 @@
       "catalog_source": "https://api.audible.com/1.0/catalog/products/B0CW23CC7L?response_groups=product_desc,product_attrs,series,contributors,media",
       "evidence_seconds": 27.0,
       "edition_status": "catalog-match",
-      "notes": ""
+      "notes": "",
+      "primary_category": "Science fiction",
+      "fiction_or_nonfiction": "Fiction"
     },
     {
       "id": "book-068",
@@ -2184,7 +2318,9 @@
       "catalog_source": "https://api.audible.com/1.0/catalog/products/B0C28WLQP1?response_groups=product_desc,product_attrs,series,contributors,media",
       "evidence_seconds": 27.5,
       "edition_status": "catalog-match",
-      "notes": ""
+      "notes": "",
+      "primary_category": "Science fiction",
+      "fiction_or_nonfiction": "Fiction"
     },
     {
       "id": "book-069",
@@ -2217,7 +2353,9 @@
       "catalog_source": "https://api.audible.com/1.0/catalog/products/B002V0PQCE?response_groups=product_desc,product_attrs,series,contributors,media",
       "evidence_seconds": 28.75,
       "edition_status": "catalog-match",
-      "notes": ""
+      "notes": "",
+      "primary_category": "History, military & politics",
+      "fiction_or_nonfiction": "Nonfiction"
     },
     {
       "id": "book-070",
@@ -2243,7 +2381,9 @@
       "catalog_source": "https://api.audible.com/1.0/catalog/products/B0CJDJHL87?response_groups=product_desc,product_attrs,series,contributors,media",
       "evidence_seconds": 29.75,
       "edition_status": "catalog-match",
-      "notes": ""
+      "notes": "",
+      "primary_category": "History, military & politics",
+      "fiction_or_nonfiction": "Nonfiction"
     },
     {
       "id": "book-071",
@@ -2276,7 +2416,9 @@
       "catalog_source": "https://api.audible.com/1.0/catalog/products/B078SG5VPQ?response_groups=product_desc,product_attrs,series,contributors,media",
       "evidence_seconds": 30.0,
       "edition_status": "catalog-match",
-      "notes": ""
+      "notes": "",
+      "primary_category": "Thrillers, espionage & mystery",
+      "fiction_or_nonfiction": "Fiction"
     },
     {
       "id": "book-072",
@@ -2309,7 +2451,9 @@
       "catalog_source": "https://api.audible.com/1.0/catalog/products/B002VACE92?response_groups=product_desc,product_attrs,series,contributors,media",
       "evidence_seconds": 30.25,
       "edition_status": "catalog-match",
-      "notes": ""
+      "notes": "",
+      "primary_category": "History, military & politics",
+      "fiction_or_nonfiction": "Nonfiction"
     },
     {
       "id": "book-073",
@@ -2342,7 +2486,9 @@
       "catalog_source": "https://api.audible.com/1.0/catalog/products/B002VA9N0A?response_groups=product_desc,product_attrs,series,contributors,media",
       "evidence_seconds": 31.0,
       "edition_status": "catalog-match",
-      "notes": ""
+      "notes": "",
+      "primary_category": "History, military & politics",
+      "fiction_or_nonfiction": "Nonfiction"
     },
     {
       "id": "book-074",
@@ -2375,7 +2521,9 @@
       "catalog_source": "https://api.audible.com/1.0/catalog/products/B002V0JW7Y?response_groups=product_desc,product_attrs,series,contributors,media",
       "evidence_seconds": 31.5,
       "edition_status": "catalog-match",
-      "notes": ""
+      "notes": "",
+      "primary_category": "History, military & politics",
+      "fiction_or_nonfiction": "Nonfiction"
     },
     {
       "id": "book-075",
@@ -2408,7 +2556,9 @@
       "catalog_source": "https://api.audible.com/1.0/catalog/products/1549106392?response_groups=product_desc,product_attrs,series,contributors,media",
       "evidence_seconds": 31.75,
       "edition_status": "catalog-match",
-      "notes": ""
+      "notes": "",
+      "primary_category": "Science fiction",
+      "fiction_or_nonfiction": "Fiction"
     },
     {
       "id": "book-076",
@@ -2441,7 +2591,9 @@
       "catalog_source": "https://api.audible.com/1.0/catalog/products/B07HJCDHP5?response_groups=product_desc,product_attrs,series,contributors,media",
       "evidence_seconds": 32.0,
       "edition_status": "catalog-match",
-      "notes": ""
+      "notes": "",
+      "primary_category": "Science fiction",
+      "fiction_or_nonfiction": "Fiction"
     },
     {
       "id": "book-077",
@@ -2474,7 +2626,9 @@
       "catalog_source": "https://api.audible.com/1.0/catalog/products/B0CTWKVSHM?response_groups=product_desc,product_attrs,series,contributors,media",
       "evidence_seconds": 33.0,
       "edition_status": "catalog-match",
-      "notes": ""
+      "notes": "",
+      "primary_category": "Fantasy",
+      "fiction_or_nonfiction": "Fiction"
     },
     {
       "id": "book-078",
@@ -2507,7 +2661,9 @@
       "catalog_source": "https://api.audible.com/1.0/catalog/products/B0128481DI?response_groups=product_desc,product_attrs,series,contributors,media",
       "evidence_seconds": 33.5,
       "edition_status": "catalog-match",
-      "notes": ""
+      "notes": "",
+      "primary_category": "Science fiction",
+      "fiction_or_nonfiction": "Fiction"
     },
     {
       "id": "book-079",
@@ -2540,7 +2696,9 @@
       "catalog_source": "https://api.audible.com/1.0/catalog/products/B0BWH5GVYS?response_groups=product_desc,product_attrs,series,contributors,media",
       "evidence_seconds": 33.75,
       "edition_status": "catalog-match",
-      "notes": ""
+      "notes": "",
+      "primary_category": "Science fiction",
+      "fiction_or_nonfiction": "Fiction"
     },
     {
       "id": "book-080",
@@ -2574,7 +2732,9 @@
       "catalog_source": "https://api.audible.com/1.0/catalog/products/1978676204?response_groups=product_desc,product_attrs,series,contributors,media",
       "evidence_seconds": 33.75,
       "edition_status": "catalog-match",
-      "notes": ""
+      "notes": "",
+      "primary_category": "Literary classics & mythology",
+      "fiction_or_nonfiction": "Fiction"
     },
     {
       "id": "book-081",
@@ -2600,7 +2760,9 @@
       "catalog_source": "https://api.audible.com/1.0/catalog/products/B002V1OIRW?response_groups=product_desc,product_attrs,series,contributors,media",
       "evidence_seconds": 34.0,
       "edition_status": "catalog-match",
-      "notes": ""
+      "notes": "",
+      "primary_category": "History, military & politics",
+      "fiction_or_nonfiction": "Nonfiction"
     },
     {
       "id": "book-082",
@@ -2626,7 +2788,9 @@
       "catalog_source": "https://api.audible.com/1.0/catalog/products/1982673540?response_groups=product_desc,product_attrs,series,contributors,media",
       "evidence_seconds": 34.25,
       "edition_status": "catalog-match",
-      "notes": ""
+      "notes": "",
+      "primary_category": "History, military & politics",
+      "fiction_or_nonfiction": "Nonfiction"
     },
     {
       "id": "book-083",
@@ -2652,7 +2816,9 @@
       "catalog_source": "https://api.audible.com/1.0/catalog/products/B002V0QGTQ?response_groups=product_desc,product_attrs,series,contributors,media",
       "evidence_seconds": 34.75,
       "edition_status": "catalog-match",
-      "notes": ""
+      "notes": "",
+      "primary_category": "History, military & politics",
+      "fiction_or_nonfiction": "Nonfiction"
     },
     {
       "id": "book-084",
@@ -2678,7 +2844,9 @@
       "catalog_source": "https://api.audible.com/1.0/catalog/products/B002V1LMSK?response_groups=product_desc,product_attrs,series,contributors,media",
       "evidence_seconds": 35.75,
       "edition_status": "catalog-match",
-      "notes": ""
+      "notes": "",
+      "primary_category": "History, military & politics",
+      "fiction_or_nonfiction": "Nonfiction"
     },
     {
       "id": "book-085",
@@ -2711,7 +2879,9 @@
       "catalog_source": "https://api.audible.com/1.0/catalog/products/B0CCG7ZL2F?response_groups=product_desc,product_attrs,series,contributors,media",
       "evidence_seconds": 36.0,
       "edition_status": "catalog-match",
-      "notes": ""
+      "notes": "",
+      "primary_category": "Thrillers, espionage & mystery",
+      "fiction_or_nonfiction": "Fiction"
     },
     {
       "id": "book-086",
@@ -2737,7 +2907,9 @@
       "catalog_source": "https://api.audible.com/1.0/catalog/products/B002V0K7Y6?response_groups=product_desc,product_attrs,series,contributors,media",
       "evidence_seconds": 37.0,
       "edition_status": "catalog-match",
-      "notes": ""
+      "notes": "",
+      "primary_category": "History, military & politics",
+      "fiction_or_nonfiction": "Nonfiction"
     },
     {
       "id": "book-087",
@@ -2763,7 +2935,9 @@
       "catalog_source": "https://api.audible.com/1.0/catalog/products/B015JHQJ26?response_groups=product_desc,product_attrs,series,contributors,media",
       "evidence_seconds": 37.25,
       "edition_status": "catalog-match",
-      "notes": ""
+      "notes": "",
+      "primary_category": "Biography, memoir & personal essays",
+      "fiction_or_nonfiction": "Nonfiction"
     },
     {
       "id": "book-088",
@@ -2789,7 +2963,9 @@
       "catalog_source": "https://api.audible.com/1.0/catalog/products/B006K38NHS?response_groups=product_desc,product_attrs,series,contributors,media",
       "evidence_seconds": 37.5,
       "edition_status": "catalog-match",
-      "notes": ""
+      "notes": "",
+      "primary_category": "History, military & politics",
+      "fiction_or_nonfiction": "Nonfiction"
     },
     {
       "id": "book-089",
@@ -2816,7 +2992,9 @@
       "catalog_source": "https://api.audible.com/1.0/catalog/products/B01CF5O89G?response_groups=product_desc,product_attrs,series,contributors,media",
       "evidence_seconds": 38.0,
       "edition_status": "catalog-match",
-      "notes": ""
+      "notes": "",
+      "primary_category": "Business, leadership & productivity",
+      "fiction_or_nonfiction": "Nonfiction"
     },
     {
       "id": "book-090",
@@ -2849,7 +3027,9 @@
       "catalog_source": "https://api.audible.com/1.0/catalog/products/B09V98WX2B?response_groups=product_desc,product_attrs,series,contributors,media",
       "evidence_seconds": 38.5,
       "edition_status": "catalog-match",
-      "notes": ""
+      "notes": "",
+      "primary_category": "Science fiction",
+      "fiction_or_nonfiction": "Fiction"
     },
     {
       "id": "book-091",
@@ -2882,7 +3062,9 @@
       "catalog_source": "https://api.audible.com/1.0/catalog/products/B09LRM3SFN?response_groups=product_desc,product_attrs,series,contributors,media",
       "evidence_seconds": 38.75,
       "edition_status": "catalog-match",
-      "notes": ""
+      "notes": "",
+      "primary_category": "Science fiction",
+      "fiction_or_nonfiction": "Fiction"
     },
     {
       "id": "book-092",
@@ -2915,7 +3097,9 @@
       "catalog_source": "https://api.audible.com/1.0/catalog/products/177424344X?response_groups=product_desc,product_attrs,series,contributors,media",
       "evidence_seconds": 39.0,
       "edition_status": "catalog-match",
-      "notes": ""
+      "notes": "",
+      "primary_category": "Science fiction",
+      "fiction_or_nonfiction": "Fiction"
     },
     {
       "id": "book-093",
@@ -2948,7 +3132,9 @@
       "catalog_source": "https://api.audible.com/1.0/catalog/products/B078P2HC19?response_groups=product_desc,product_attrs,series,contributors,media",
       "evidence_seconds": 40.0,
       "edition_status": "catalog-match",
-      "notes": ""
+      "notes": "",
+      "primary_category": "Science fiction",
+      "fiction_or_nonfiction": "Fiction"
     },
     {
       "id": "book-094",
@@ -2981,7 +3167,9 @@
       "catalog_source": "https://api.audible.com/1.0/catalog/products/B072QFWDWL?response_groups=product_desc,product_attrs,series,contributors,media",
       "evidence_seconds": 40.25,
       "edition_status": "catalog-match",
-      "notes": ""
+      "notes": "",
+      "primary_category": "Science fiction",
+      "fiction_or_nonfiction": "Fiction"
     },
     {
       "id": "book-095",
@@ -3014,7 +3202,9 @@
       "catalog_source": "https://api.audible.com/1.0/catalog/products/B06XR59MLQ?response_groups=product_desc,product_attrs,series,contributors,media",
       "evidence_seconds": 40.5,
       "edition_status": "catalog-match",
-      "notes": ""
+      "notes": "",
+      "primary_category": "Science fiction",
+      "fiction_or_nonfiction": "Fiction"
     },
     {
       "id": "book-096",
@@ -3047,7 +3237,9 @@
       "catalog_source": "https://api.audible.com/1.0/catalog/products/B01GU941JU?response_groups=product_desc,product_attrs,series,contributors,media",
       "evidence_seconds": 40.75,
       "edition_status": "catalog-match",
-      "notes": ""
+      "notes": "",
+      "primary_category": "Science fiction",
+      "fiction_or_nonfiction": "Fiction"
     },
     {
       "id": "book-097",
@@ -3080,7 +3272,9 @@
       "catalog_source": "https://api.audible.com/1.0/catalog/products/B01AGMIFIU?response_groups=product_desc,product_attrs,series,contributors,media",
       "evidence_seconds": 41.75,
       "edition_status": "catalog-match",
-      "notes": ""
+      "notes": "",
+      "primary_category": "Science fiction",
+      "fiction_or_nonfiction": "Fiction"
     },
     {
       "id": "book-098",
@@ -3113,7 +3307,9 @@
       "catalog_source": "https://api.audible.com/1.0/catalog/products/B00W8DA84U?response_groups=product_desc,product_attrs,series,contributors,media",
       "evidence_seconds": 42.25,
       "edition_status": "catalog-match",
-      "notes": ""
+      "notes": "",
+      "primary_category": "Science fiction",
+      "fiction_or_nonfiction": "Fiction"
     },
     {
       "id": "book-099",
@@ -3146,7 +3342,9 @@
       "catalog_source": "https://api.audible.com/1.0/catalog/products/B0C6FLJTM8?response_groups=product_desc,product_attrs,series,contributors,media",
       "evidence_seconds": 42.25,
       "edition_status": "catalog-match",
-      "notes": ""
+      "notes": "",
+      "primary_category": "Science fiction",
+      "fiction_or_nonfiction": "Fiction"
     },
     {
       "id": "book-100",
@@ -3180,7 +3378,9 @@
       "catalog_source": "https://api.audible.com/1.0/catalog/products/B079LRSMNN?response_groups=product_desc,product_attrs,series,contributors,media",
       "evidence_seconds": 42.5,
       "edition_status": "catalog-match",
-      "notes": ""
+      "notes": "",
+      "primary_category": "Science fiction",
+      "fiction_or_nonfiction": "Fiction"
     },
     {
       "id": "book-101",
@@ -3206,7 +3406,9 @@
       "catalog_source": "https://api.audible.com/1.0/catalog/products/B002V0QPH4?response_groups=product_desc,product_attrs,series,contributors,media",
       "evidence_seconds": 42.5,
       "edition_status": "catalog-match",
-      "notes": ""
+      "notes": "",
+      "primary_category": "Biography, memoir & personal essays",
+      "fiction_or_nonfiction": "Nonfiction"
     },
     {
       "id": "book-102",
@@ -3232,7 +3434,9 @@
       "catalog_source": "https://api.audible.com/1.0/catalog/products/1799700135?response_groups=product_desc,product_attrs,series,contributors,media",
       "evidence_seconds": 42.5,
       "edition_status": "catalog-match",
-      "notes": ""
+      "notes": "",
+      "primary_category": "Biography, memoir & personal essays",
+      "fiction_or_nonfiction": "Nonfiction"
     },
     {
       "id": "book-103",
@@ -3258,7 +3462,9 @@
       "catalog_source": "https://api.audible.com/1.0/catalog/products/B07BGGTGBQ?response_groups=product_desc,product_attrs,series,contributors,media",
       "evidence_seconds": 42.75,
       "edition_status": "catalog-match",
-      "notes": ""
+      "notes": "",
+      "primary_category": "Biography, memoir & personal essays",
+      "fiction_or_nonfiction": "Nonfiction"
     },
     {
       "id": "book-104",
@@ -3284,7 +3490,9 @@
       "catalog_source": "https://api.audible.com/1.0/catalog/products/B00C6LVQ0E?response_groups=product_desc,product_attrs,series,contributors,media",
       "evidence_seconds": 42.75,
       "edition_status": "catalog-match",
-      "notes": ""
+      "notes": "",
+      "primary_category": "Biography, memoir & personal essays",
+      "fiction_or_nonfiction": "Nonfiction"
     },
     {
       "id": "book-105",
@@ -3310,7 +3518,9 @@
       "catalog_source": "https://api.audible.com/1.0/catalog/products/B002V0Q05G?response_groups=product_desc,product_attrs,series,contributors,media",
       "evidence_seconds": 43.0,
       "edition_status": "catalog-match",
-      "notes": ""
+      "notes": "",
+      "primary_category": "Biography, memoir & personal essays",
+      "fiction_or_nonfiction": "Nonfiction"
     },
     {
       "id": "book-106",
@@ -3336,7 +3546,9 @@
       "catalog_source": "https://api.audible.com/1.0/catalog/products/179993165X?response_groups=product_desc,product_attrs,series,contributors,media",
       "evidence_seconds": 43.0,
       "edition_status": "catalog-match",
-      "notes": ""
+      "notes": "",
+      "primary_category": "Society & culture",
+      "fiction_or_nonfiction": "Nonfiction"
     },
     {
       "id": "book-107",
@@ -3369,7 +3581,9 @@
       "catalog_source": "https://api.audible.com/1.0/catalog/products/1478916591?response_groups=product_desc,product_attrs,series,contributors,media",
       "evidence_seconds": 43.25,
       "edition_status": "catalog-match",
-      "notes": ""
+      "notes": "",
+      "primary_category": "Fantasy",
+      "fiction_or_nonfiction": "Fiction"
     },
     {
       "id": "book-108",
@@ -3402,7 +3616,9 @@
       "catalog_source": "https://api.audible.com/1.0/catalog/products/B01B1ZA7DM?response_groups=product_desc,product_attrs,series,contributors,media",
       "evidence_seconds": 44.5,
       "edition_status": "catalog-match",
-      "notes": ""
+      "notes": "",
+      "primary_category": "History, military & politics",
+      "fiction_or_nonfiction": "Nonfiction"
     },
     {
       "id": "book-109",
@@ -3436,7 +3652,9 @@
       "catalog_source": "https://api.audible.com/1.0/catalog/products/B09HW5NYSY?response_groups=product_desc,product_attrs,series,contributors,media",
       "evidence_seconds": 44.75,
       "edition_status": "catalog-match",
-      "notes": ""
+      "notes": "",
+      "primary_category": "Science fiction",
+      "fiction_or_nonfiction": "Fiction"
     },
     {
       "id": "book-110",
@@ -3462,7 +3680,9 @@
       "catalog_source": "https://api.audible.com/1.0/catalog/products/0593292618?response_groups=product_desc,product_attrs,series,contributors,media",
       "evidence_seconds": 44.75,
       "edition_status": "catalog-match",
-      "notes": ""
+      "notes": "",
+      "primary_category": "Health, nutrition & fitness",
+      "fiction_or_nonfiction": "Nonfiction"
     },
     {
       "id": "book-111",
@@ -3495,7 +3715,9 @@
       "catalog_source": "https://api.audible.com/1.0/catalog/products/B09B46TC3F?response_groups=product_desc,product_attrs,series,contributors,media",
       "evidence_seconds": 45.0,
       "edition_status": "catalog-match",
-      "notes": ""
+      "notes": "",
+      "primary_category": "Thrillers, espionage & mystery",
+      "fiction_or_nonfiction": "Fiction"
     },
     {
       "id": "book-112",
@@ -3522,7 +3744,9 @@
       "catalog_source": "https://api.audible.com/1.0/catalog/products/1977365256?response_groups=product_desc,product_attrs,series,contributors,media",
       "evidence_seconds": 45.75,
       "edition_status": "catalog-match",
-      "notes": ""
+      "notes": "",
+      "primary_category": "Educational — science, data & learning",
+      "fiction_or_nonfiction": "Nonfiction"
     },
     {
       "id": "book-113",
@@ -3548,7 +3772,9 @@
       "catalog_source": "https://api.audible.com/1.0/catalog/products/1524779261?response_groups=product_desc,product_attrs,series,contributors,media",
       "evidence_seconds": 46.0,
       "edition_status": "catalog-match",
-      "notes": ""
+      "notes": "",
+      "primary_category": "Personal development & psychology",
+      "fiction_or_nonfiction": "Nonfiction"
     },
     {
       "id": "book-114",
@@ -3581,7 +3807,9 @@
       "catalog_source": "https://api.audible.com/1.0/catalog/products/B08HDPMTGV?response_groups=product_desc,product_attrs,series,contributors,media",
       "evidence_seconds": 46.25,
       "edition_status": "catalog-match",
-      "notes": ""
+      "notes": "",
+      "primary_category": "Thrillers, espionage & mystery",
+      "fiction_or_nonfiction": "Fiction"
     },
     {
       "id": "book-115",
@@ -3614,7 +3842,9 @@
       "catalog_source": "https://api.audible.com/1.0/catalog/products/B0BVDPGHJS?response_groups=product_desc,product_attrs,series,contributors,media",
       "evidence_seconds": 46.25,
       "edition_status": "catalog-match",
-      "notes": ""
+      "notes": "",
+      "primary_category": "Fantasy",
+      "fiction_or_nonfiction": "Fiction"
     },
     {
       "id": "book-116",
@@ -3647,7 +3877,9 @@
       "catalog_source": "https://api.audible.com/1.0/catalog/products/B083L91MGM?response_groups=product_desc,product_attrs,series,contributors,media",
       "evidence_seconds": 46.5,
       "edition_status": "catalog-match",
-      "notes": ""
+      "notes": "",
+      "primary_category": "Thrillers, espionage & mystery",
+      "fiction_or_nonfiction": "Fiction"
     },
     {
       "id": "book-117",
@@ -3680,7 +3912,9 @@
       "catalog_source": "https://api.audible.com/1.0/catalog/products/1982690917?response_groups=product_desc,product_attrs,series,contributors,media",
       "evidence_seconds": 47.0,
       "edition_status": "catalog-match",
-      "notes": ""
+      "notes": "",
+      "primary_category": "Science fiction",
+      "fiction_or_nonfiction": "Fiction"
     },
     {
       "id": "book-118",
@@ -3713,7 +3947,9 @@
       "catalog_source": "https://api.audible.com/1.0/catalog/products/B07L16HDFL?response_groups=product_desc,product_attrs,series,contributors,media",
       "evidence_seconds": 47.75,
       "edition_status": "catalog-match",
-      "notes": ""
+      "notes": "",
+      "primary_category": "Thrillers, espionage & mystery",
+      "fiction_or_nonfiction": "Fiction"
     },
     {
       "id": "book-119",
@@ -3746,7 +3982,9 @@
       "catalog_source": "https://api.audible.com/1.0/catalog/products/B078HHFB23?response_groups=product_desc,product_attrs,series,contributors,media",
       "evidence_seconds": 48.0,
       "edition_status": "catalog-match",
-      "notes": ""
+      "notes": "",
+      "primary_category": "Thrillers, espionage & mystery",
+      "fiction_or_nonfiction": "Fiction"
     },
     {
       "id": "book-120",
@@ -3779,7 +4017,9 @@
       "catalog_source": "https://api.audible.com/1.0/catalog/products/B01N6DLACM?response_groups=product_desc,product_attrs,series,contributors,media",
       "evidence_seconds": 48.0,
       "edition_status": "catalog-match",
-      "notes": ""
+      "notes": "",
+      "primary_category": "Thrillers, espionage & mystery",
+      "fiction_or_nonfiction": "Fiction"
     },
     {
       "id": "book-121",
@@ -3812,7 +4052,9 @@
       "catalog_source": "https://api.audible.com/1.0/catalog/products/B01B8IGYGQ?response_groups=product_desc,product_attrs,series,contributors,media",
       "evidence_seconds": 48.25,
       "edition_status": "catalog-match",
-      "notes": ""
+      "notes": "",
+      "primary_category": "Thrillers, espionage & mystery",
+      "fiction_or_nonfiction": "Fiction"
     },
     {
       "id": "book-122",
@@ -3845,7 +4087,9 @@
       "catalog_source": "https://api.audible.com/1.0/catalog/products/B00FW2B3H0?response_groups=product_desc,product_attrs,series,contributors,media",
       "evidence_seconds": 48.5,
       "edition_status": "catalog-match",
-      "notes": ""
+      "notes": "",
+      "primary_category": "Thrillers, espionage & mystery",
+      "fiction_or_nonfiction": "Fiction"
     },
     {
       "id": "book-123",
@@ -3878,7 +4122,9 @@
       "catalog_source": "https://api.audible.com/1.0/catalog/products/B0BP9KSD27?response_groups=product_desc,product_attrs,series,contributors,media",
       "evidence_seconds": 48.75,
       "edition_status": "catalog-match",
-      "notes": ""
+      "notes": "",
+      "primary_category": "Science fiction",
+      "fiction_or_nonfiction": "Fiction"
     },
     {
       "id": "book-124",
@@ -3911,7 +4157,9 @@
       "catalog_source": "https://api.audible.com/1.0/catalog/products/B005R1BMAY?response_groups=product_desc,product_attrs,series,contributors,media",
       "evidence_seconds": 49.5,
       "edition_status": "catalog-match",
-      "notes": ""
+      "notes": "",
+      "primary_category": "Thrillers, espionage & mystery",
+      "fiction_or_nonfiction": "Fiction"
     },
     {
       "id": "book-125",
@@ -3944,7 +4192,9 @@
       "catalog_source": "https://api.audible.com/1.0/catalog/products/B0043BUG3I?response_groups=product_desc,product_attrs,series,contributors,media",
       "evidence_seconds": 49.75,
       "edition_status": "catalog-match",
-      "notes": ""
+      "notes": "",
+      "primary_category": "Thrillers, espionage & mystery",
+      "fiction_or_nonfiction": "Fiction"
     },
     {
       "id": "book-126",
@@ -3977,7 +4227,9 @@
       "catalog_source": "https://api.audible.com/1.0/catalog/products/B003UNYZ7I?response_groups=product_desc,product_attrs,series,contributors,media",
       "evidence_seconds": 49.75,
       "edition_status": "catalog-match",
-      "notes": ""
+      "notes": "",
+      "primary_category": "Thrillers, espionage & mystery",
+      "fiction_or_nonfiction": "Fiction"
     },
     {
       "id": "book-127",
@@ -4010,7 +4262,9 @@
       "catalog_source": "https://api.audible.com/1.0/catalog/products/B0BP899QYT?response_groups=product_desc,product_attrs,series,contributors,media",
       "evidence_seconds": 50.0,
       "edition_status": "catalog-match",
-      "notes": ""
+      "notes": "",
+      "primary_category": "Science fiction",
+      "fiction_or_nonfiction": "Fiction"
     },
     {
       "id": "book-128",
@@ -4043,7 +4297,9 @@
       "catalog_source": "https://api.audible.com/1.0/catalog/products/147897835X?response_groups=product_desc,product_attrs,series,contributors,media",
       "evidence_seconds": 50.25,
       "edition_status": "catalog-match",
-      "notes": ""
+      "notes": "",
+      "primary_category": "Fantasy",
+      "fiction_or_nonfiction": "Fiction"
     },
     {
       "id": "book-129",
@@ -4076,7 +4332,9 @@
       "catalog_source": "https://api.audible.com/1.0/catalog/products/B01K8S3XDE?response_groups=product_desc,product_attrs,series,contributors,media",
       "evidence_seconds": 51.0,
       "edition_status": "catalog-match",
-      "notes": ""
+      "notes": "",
+      "primary_category": "Fantasy",
+      "fiction_or_nonfiction": "Fiction"
     },
     {
       "id": "book-130",
@@ -4109,7 +4367,9 @@
       "catalog_source": "https://api.audible.com/1.0/catalog/products/B00MJDZYLQ?response_groups=product_desc,product_attrs,series,contributors,media",
       "evidence_seconds": 51.5,
       "edition_status": "catalog-match",
-      "notes": ""
+      "notes": "",
+      "primary_category": "Fantasy",
+      "fiction_or_nonfiction": "Fiction"
     },
     {
       "id": "book-131",
@@ -4142,7 +4402,9 @@
       "catalog_source": "https://api.audible.com/1.0/catalog/products/B0096GJ7G2?response_groups=product_desc,product_attrs,series,contributors,media",
       "evidence_seconds": 51.5,
       "edition_status": "catalog-match",
-      "notes": ""
+      "notes": "",
+      "primary_category": "Fantasy",
+      "fiction_or_nonfiction": "Fiction"
     },
     {
       "id": "book-132",
@@ -4175,7 +4437,9 @@
       "catalog_source": "https://api.audible.com/1.0/catalog/products/B0BDNMLGFW?response_groups=product_desc,product_attrs,series,contributors,media",
       "evidence_seconds": 51.75,
       "edition_status": "catalog-match",
-      "notes": ""
+      "notes": "",
+      "primary_category": "Science fiction",
+      "fiction_or_nonfiction": "Fiction"
     },
     {
       "id": "book-133",
@@ -4208,7 +4472,9 @@
       "catalog_source": "https://api.audible.com/1.0/catalog/products/B01HZXFARW?response_groups=product_desc,product_attrs,series,contributors,media",
       "evidence_seconds": 51.75,
       "edition_status": "catalog-match",
-      "notes": ""
+      "notes": "",
+      "primary_category": "Fantasy",
+      "fiction_or_nonfiction": "Fiction"
     },
     {
       "id": "book-134",
@@ -4241,7 +4507,9 @@
       "catalog_source": "https://api.audible.com/1.0/catalog/products/B0BHJJWW7R?response_groups=product_desc,product_attrs,series,contributors,media",
       "evidence_seconds": 52.25,
       "edition_status": "catalog-match",
-      "notes": ""
+      "notes": "",
+      "primary_category": "Science fiction",
+      "fiction_or_nonfiction": "Fiction"
     },
     {
       "id": "book-135",
@@ -4274,7 +4542,9 @@
       "catalog_source": "https://api.audible.com/1.0/catalog/products/B086H2C5BJ?response_groups=product_desc,product_attrs,series,contributors,media",
       "evidence_seconds": 52.75,
       "edition_status": "catalog-match",
-      "notes": ""
+      "notes": "",
+      "primary_category": "Science fiction",
+      "fiction_or_nonfiction": "Fiction"
     },
     {
       "id": "book-136",
@@ -4307,7 +4577,9 @@
       "catalog_source": "https://api.audible.com/1.0/catalog/products/B07F786LK1?response_groups=product_desc,product_attrs,series,contributors,media",
       "evidence_seconds": 53.0,
       "edition_status": "catalog-match",
-      "notes": ""
+      "notes": "",
+      "primary_category": "Science fiction",
+      "fiction_or_nonfiction": "Fiction"
     },
     {
       "id": "book-137",
@@ -4340,7 +4612,9 @@
       "catalog_source": "https://api.audible.com/1.0/catalog/products/B01JQGTYKA?response_groups=product_desc,product_attrs,series,contributors,media",
       "evidence_seconds": 53.25,
       "edition_status": "catalog-match",
-      "notes": ""
+      "notes": "",
+      "primary_category": "Science fiction",
+      "fiction_or_nonfiction": "Fiction"
     },
     {
       "id": "book-138",
@@ -4366,7 +4640,9 @@
       "catalog_source": "https://api.audible.com/1.0/catalog/products/B09M2LZYW1?response_groups=product_desc,product_attrs,series,contributors,media",
       "evidence_seconds": 53.25,
       "edition_status": "catalog-match",
-      "notes": ""
+      "notes": "",
+      "primary_category": "Biography, memoir & personal essays",
+      "fiction_or_nonfiction": "Nonfiction"
     },
     {
       "id": "book-139",
@@ -4392,7 +4668,9 @@
       "catalog_source": "https://api.audible.com/1.0/catalog/products/B0B193J92Q?response_groups=product_desc,product_attrs,series,contributors,media",
       "evidence_seconds": 53.5,
       "edition_status": "catalog-match",
-      "notes": ""
+      "notes": "",
+      "primary_category": "Science fiction",
+      "fiction_or_nonfiction": "Fiction"
     },
     {
       "id": "book-140",
@@ -4425,7 +4703,9 @@
       "catalog_source": "https://api.audible.com/1.0/catalog/products/B09ZZ8VMKL?response_groups=product_desc,product_attrs,series,contributors,media",
       "evidence_seconds": 53.75,
       "edition_status": "catalog-match",
-      "notes": ""
+      "notes": "",
+      "primary_category": "Fantasy",
+      "fiction_or_nonfiction": "Fiction"
     },
     {
       "id": "book-141",
@@ -4451,7 +4731,9 @@
       "catalog_source": "https://api.audible.com/1.0/catalog/products/B01M7O5JEY?response_groups=product_desc,product_attrs,series,contributors,media",
       "evidence_seconds": 54.0,
       "edition_status": "catalog-match",
-      "notes": ""
+      "notes": "",
+      "primary_category": "Science fiction",
+      "fiction_or_nonfiction": "Fiction"
     },
     {
       "id": "book-142",
@@ -4486,7 +4768,9 @@
       "catalog_source": "https://api.audible.com/1.0/catalog/products/B015TVHUA2?response_groups=product_desc,product_attrs,series,contributors,media",
       "evidence_seconds": 54.75,
       "edition_status": "catalog-match",
-      "notes": ""
+      "notes": "",
+      "primary_category": "Business, leadership & productivity",
+      "fiction_or_nonfiction": "Nonfiction"
     },
     {
       "id": "book-143",
@@ -4513,7 +4797,9 @@
       "catalog_source": "https://api.audible.com/1.0/catalog/products/B09CF1RCGC?response_groups=product_desc,product_attrs,series,contributors,media",
       "evidence_seconds": 55.0,
       "edition_status": "catalog-match",
-      "notes": ""
+      "notes": "",
+      "primary_category": "Business, leadership & productivity",
+      "fiction_or_nonfiction": "Nonfiction"
     },
     {
       "id": "book-144",
@@ -4539,7 +4825,9 @@
       "catalog_source": "https://api.audible.com/1.0/catalog/products/B08G9PRS1K?response_groups=product_desc,product_attrs,series,contributors,media",
       "evidence_seconds": 55.25,
       "edition_status": "catalog-match",
-      "notes": ""
+      "notes": "",
+      "primary_category": "Science fiction",
+      "fiction_or_nonfiction": "Fiction"
     },
     {
       "id": "book-145",
@@ -4572,7 +4860,9 @@
       "catalog_source": "https://api.audible.com/1.0/catalog/products/B09V1X64YV?response_groups=product_desc,product_attrs,series,contributors,media",
       "evidence_seconds": 55.25,
       "edition_status": "catalog-match",
-      "notes": ""
+      "notes": "",
+      "primary_category": "Science fiction",
+      "fiction_or_nonfiction": "Fiction"
     },
     {
       "id": "book-146",
@@ -4606,7 +4896,9 @@
       "catalog_source": "https://api.audible.com/1.0/catalog/products/0062346725?response_groups=product_desc,product_attrs,series,contributors,media",
       "evidence_seconds": 55.25,
       "edition_status": "catalog-match",
-      "notes": ""
+      "notes": "",
+      "primary_category": "Business, leadership & productivity",
+      "fiction_or_nonfiction": "Nonfiction"
     },
     {
       "id": "book-147",
@@ -4639,7 +4931,9 @@
       "catalog_source": "https://api.audible.com/1.0/catalog/products/B09TN4R3QB?response_groups=product_desc,product_attrs,series,contributors,media",
       "evidence_seconds": 55.5,
       "edition_status": "catalog-match",
-      "notes": ""
+      "notes": "",
+      "primary_category": "Science fiction",
+      "fiction_or_nonfiction": "Fiction"
     },
     {
       "id": "book-148",
@@ -4665,7 +4959,9 @@
       "catalog_source": "https://api.audible.com/1.0/catalog/products/B003UDDK7O?response_groups=product_desc,product_attrs,series,contributors,media",
       "evidence_seconds": 55.75,
       "edition_status": "catalog-match",
-      "notes": ""
+      "notes": "",
+      "primary_category": "Business, leadership & productivity",
+      "fiction_or_nonfiction": "Nonfiction"
     },
     {
       "id": "book-149",
@@ -4692,7 +4988,9 @@
       "catalog_source": "https://api.audible.com/1.0/catalog/products/B005QDNUL2?response_groups=product_desc,product_attrs,series,contributors,media",
       "evidence_seconds": 56.25,
       "edition_status": "catalog-match",
-      "notes": ""
+      "notes": "",
+      "primary_category": "Business, leadership & productivity",
+      "fiction_or_nonfiction": "Nonfiction"
     },
     {
       "id": "book-150",
@@ -4718,7 +5016,9 @@
       "catalog_source": "https://api.audible.com/1.0/catalog/products/B0F71ZM8YL?response_groups=product_desc,product_attrs,series,contributors,media",
       "evidence_seconds": 57.0,
       "edition_status": "current-edition-substitute",
-      "notes": "The recording shows Start with Why without an anniversary label. The link and cover use the currently listed 15th Anniversary Edition; the original edition could not be verified."
+      "notes": "The recording shows Start with Why without an anniversary label. The link and cover use the currently listed 15th Anniversary Edition; the original edition could not be verified.",
+      "primary_category": "Business, leadership & productivity",
+      "fiction_or_nonfiction": "Nonfiction"
     },
     {
       "id": "book-151",
@@ -4751,7 +5051,9 @@
       "catalog_source": "https://api.audible.com/1.0/catalog/products/0062980998?response_groups=product_desc,product_attrs,series,contributors,media",
       "evidence_seconds": 57.25,
       "edition_status": "catalog-match",
-      "notes": ""
+      "notes": "",
+      "primary_category": "Science fiction",
+      "fiction_or_nonfiction": "Fiction"
     },
     {
       "id": "book-152",
@@ -4784,7 +5086,9 @@
       "catalog_source": "https://api.audible.com/1.0/catalog/products/0062932357?response_groups=product_desc,product_attrs,series,contributors,media",
       "evidence_seconds": 57.25,
       "edition_status": "catalog-match",
-      "notes": ""
+      "notes": "",
+      "primary_category": "Science fiction",
+      "fiction_or_nonfiction": "Fiction"
     },
     {
       "id": "book-153",
@@ -4817,7 +5121,9 @@
       "catalog_source": "https://api.audible.com/1.0/catalog/products/B07DVV88RK?response_groups=product_desc,product_attrs,series,contributors,media",
       "evidence_seconds": 57.5,
       "edition_status": "catalog-match",
-      "notes": ""
+      "notes": "",
+      "primary_category": "Science fiction",
+      "fiction_or_nonfiction": "Fiction"
     },
     {
       "id": "book-154",
@@ -4850,7 +5156,9 @@
       "catalog_source": "https://api.audible.com/1.0/catalog/products/B08WR1M9PL?response_groups=product_desc,product_attrs,series,contributors,media",
       "evidence_seconds": 57.75,
       "edition_status": "catalog-match",
-      "notes": ""
+      "notes": "",
+      "primary_category": "Science fiction",
+      "fiction_or_nonfiction": "Fiction"
     },
     {
       "id": "book-155",
@@ -4883,7 +5191,9 @@
       "catalog_source": "https://api.audible.com/1.0/catalog/products/B076QGRFGD?response_groups=product_desc,product_attrs,series,contributors,media",
       "evidence_seconds": 58.75,
       "edition_status": "catalog-match",
-      "notes": ""
+      "notes": "",
+      "primary_category": "Science fiction",
+      "fiction_or_nonfiction": "Fiction"
     },
     {
       "id": "book-156",
@@ -4916,7 +5226,9 @@
       "catalog_source": "https://api.audible.com/1.0/catalog/products/B09GR3HTW8?response_groups=product_desc,product_attrs,series,contributors,media",
       "evidence_seconds": 59.0,
       "edition_status": "catalog-match",
-      "notes": ""
+      "notes": "",
+      "primary_category": "Science fiction",
+      "fiction_or_nonfiction": "Fiction"
     },
     {
       "id": "book-157",
@@ -4951,7 +5263,9 @@
       "catalog_source": "https://api.audible.com/1.0/catalog/products/B0118MY6JE?response_groups=product_desc,product_attrs,series,contributors,media",
       "evidence_seconds": 59.0,
       "edition_status": "catalog-match",
-      "notes": ""
+      "notes": "",
+      "primary_category": "Science fiction",
+      "fiction_or_nonfiction": "Fiction"
     },
     {
       "id": "book-158",
@@ -4984,7 +5298,9 @@
       "catalog_source": "https://api.audible.com/1.0/catalog/products/B00CPPQZJI?response_groups=product_desc,product_attrs,series,contributors,media",
       "evidence_seconds": 59.25,
       "edition_status": "catalog-match",
-      "notes": ""
+      "notes": "",
+      "primary_category": "Science fiction",
+      "fiction_or_nonfiction": "Fiction"
     },
     {
       "id": "book-159",
@@ -5017,7 +5333,9 @@
       "catalog_source": "https://api.audible.com/1.0/catalog/products/B002V5D4PA?response_groups=product_desc,product_attrs,series,contributors,media",
       "evidence_seconds": 59.25,
       "edition_status": "catalog-match",
-      "notes": ""
+      "notes": "",
+      "primary_category": "Science fiction",
+      "fiction_or_nonfiction": "Fiction"
     },
     {
       "id": "book-160",
@@ -5050,7 +5368,9 @@
       "catalog_source": "https://api.audible.com/1.0/catalog/products/B002VA9CAQ?response_groups=product_desc,product_attrs,series,contributors,media",
       "evidence_seconds": 59.5,
       "edition_status": "catalog-match",
-      "notes": ""
+      "notes": "",
+      "primary_category": "Science fiction",
+      "fiction_or_nonfiction": "Fiction"
     },
     {
       "id": "book-161",
@@ -5083,7 +5403,9 @@
       "catalog_source": "https://api.audible.com/1.0/catalog/products/B002V9ZFSK?response_groups=product_desc,product_attrs,series,contributors,media",
       "evidence_seconds": 59.75,
       "edition_status": "catalog-match",
-      "notes": ""
+      "notes": "",
+      "primary_category": "Science fiction",
+      "fiction_or_nonfiction": "Fiction"
     },
     {
       "id": "book-162",
@@ -5116,7 +5438,9 @@
       "catalog_source": "https://api.audible.com/1.0/catalog/products/1980035962?response_groups=product_desc,product_attrs,series,contributors,media",
       "evidence_seconds": 60.75,
       "edition_status": "catalog-match",
-      "notes": ""
+      "notes": "",
+      "primary_category": "Science fiction",
+      "fiction_or_nonfiction": "Fiction"
     },
     {
       "id": "book-163",
@@ -5149,7 +5473,9 @@
       "catalog_source": "https://api.audible.com/1.0/catalog/products/B09FR4D8MC?response_groups=product_desc,product_attrs,series,contributors,media",
       "evidence_seconds": 60.75,
       "edition_status": "catalog-match",
-      "notes": ""
+      "notes": "",
+      "primary_category": "Science fiction",
+      "fiction_or_nonfiction": "Fiction"
     },
     {
       "id": "book-164",
@@ -5182,7 +5508,9 @@
       "catalog_source": "https://api.audible.com/1.0/catalog/products/B002V1O7D2?response_groups=product_desc,product_attrs,series,contributors,media",
       "evidence_seconds": 61.0,
       "edition_status": "catalog-match",
-      "notes": ""
+      "notes": "",
+      "primary_category": "Science fiction",
+      "fiction_or_nonfiction": "Fiction"
     },
     {
       "id": "book-165",
@@ -5215,7 +5543,9 @@
       "catalog_source": "https://api.audible.com/1.0/catalog/products/B002V59VPW?response_groups=product_desc,product_attrs,series,contributors,media",
       "evidence_seconds": 61.25,
       "edition_status": "catalog-match",
-      "notes": ""
+      "notes": "",
+      "primary_category": "Science fiction",
+      "fiction_or_nonfiction": "Fiction"
     },
     {
       "id": "book-166",
@@ -5248,7 +5578,9 @@
       "catalog_source": "https://api.audible.com/1.0/catalog/products/B004287I7O?response_groups=product_desc,product_attrs,series,contributors,media",
       "evidence_seconds": 61.5,
       "edition_status": "catalog-match",
-      "notes": ""
+      "notes": "",
+      "primary_category": "Science fiction",
+      "fiction_or_nonfiction": "Fiction"
     },
     {
       "id": "book-167",
@@ -5281,7 +5613,9 @@
       "catalog_source": "https://api.audible.com/1.0/catalog/products/B09F8VYDVH?response_groups=product_desc,product_attrs,series,contributors,media",
       "evidence_seconds": 62.25,
       "edition_status": "catalog-match",
-      "notes": ""
+      "notes": "",
+      "primary_category": "Science fiction",
+      "fiction_or_nonfiction": "Fiction"
     },
     {
       "id": "book-168",
@@ -5314,7 +5648,9 @@
       "catalog_source": "https://api.audible.com/1.0/catalog/products/B002V0PW2I?response_groups=product_desc,product_attrs,series,contributors,media",
       "evidence_seconds": 62.5,
       "edition_status": "catalog-match",
-      "notes": ""
+      "notes": "",
+      "primary_category": "Science fiction",
+      "fiction_or_nonfiction": "Fiction"
     },
     {
       "id": "book-169",
@@ -5347,7 +5683,9 @@
       "catalog_source": "https://api.audible.com/1.0/catalog/products/B002V0QZL0?response_groups=product_desc,product_attrs,series,contributors,media",
       "evidence_seconds": 62.5,
       "edition_status": "catalog-match",
-      "notes": ""
+      "notes": "",
+      "primary_category": "Science fiction",
+      "fiction_or_nonfiction": "Fiction"
     },
     {
       "id": "book-170",
@@ -5380,7 +5718,9 @@
       "catalog_source": "https://api.audible.com/1.0/catalog/products/B002V5BDXK?response_groups=product_desc,product_attrs,series,contributors,media",
       "evidence_seconds": 63.5,
       "edition_status": "catalog-match",
-      "notes": ""
+      "notes": "",
+      "primary_category": "Science fiction",
+      "fiction_or_nonfiction": "Fiction"
     },
     {
       "id": "book-171",
@@ -5413,7 +5753,9 @@
       "catalog_source": "https://api.audible.com/1.0/catalog/products/1774243318?response_groups=product_desc,product_attrs,series,contributors,media",
       "evidence_seconds": 63.5,
       "edition_status": "catalog-match",
-      "notes": ""
+      "notes": "",
+      "primary_category": "Science fiction",
+      "fiction_or_nonfiction": "Fiction"
     },
     {
       "id": "book-172",
@@ -5446,7 +5788,9 @@
       "catalog_source": "https://api.audible.com/1.0/catalog/products/1774248050?response_groups=product_desc,product_attrs,series,contributors,media",
       "evidence_seconds": 63.75,
       "edition_status": "catalog-match",
-      "notes": ""
+      "notes": "",
+      "primary_category": "Science fiction",
+      "fiction_or_nonfiction": "Fiction"
     },
     {
       "id": "book-173",
@@ -5479,7 +5823,9 @@
       "catalog_source": "https://api.audible.com/1.0/catalog/products/1774246325?response_groups=product_desc,product_attrs,series,contributors,media",
       "evidence_seconds": 64.0,
       "edition_status": "catalog-match",
-      "notes": ""
+      "notes": "",
+      "primary_category": "Science fiction",
+      "fiction_or_nonfiction": "Fiction"
     },
     {
       "id": "book-174",
@@ -5512,7 +5858,9 @@
       "catalog_source": "https://api.audible.com/1.0/catalog/products/177424361X?response_groups=product_desc,product_attrs,series,contributors,media",
       "evidence_seconds": 64.25,
       "edition_status": "catalog-match",
-      "notes": ""
+      "notes": "",
+      "primary_category": "Science fiction",
+      "fiction_or_nonfiction": "Fiction"
     },
     {
       "id": "book-175",
@@ -5545,7 +5893,9 @@
       "catalog_source": "https://api.audible.com/1.0/catalog/products/B07QXLT89C?response_groups=product_desc,product_attrs,series,contributors,media",
       "evidence_seconds": 64.75,
       "edition_status": "catalog-match",
-      "notes": ""
+      "notes": "",
+      "primary_category": "Science fiction",
+      "fiction_or_nonfiction": "Fiction"
     },
     {
       "id": "book-176",
@@ -5578,7 +5928,9 @@
       "catalog_source": "https://api.audible.com/1.0/catalog/products/1774242621?response_groups=product_desc,product_attrs,series,contributors,media",
       "evidence_seconds": 65.0,
       "edition_status": "catalog-match",
-      "notes": ""
+      "notes": "",
+      "primary_category": "Science fiction",
+      "fiction_or_nonfiction": "Fiction"
     },
     {
       "id": "book-177",
@@ -5611,7 +5963,9 @@
       "catalog_source": "https://api.audible.com/1.0/catalog/products/1774241285?response_groups=product_desc,product_attrs,series,contributors,media",
       "evidence_seconds": 65.75,
       "edition_status": "catalog-match",
-      "notes": ""
+      "notes": "",
+      "primary_category": "Science fiction",
+      "fiction_or_nonfiction": "Fiction"
     },
     {
       "id": "book-178",
@@ -5644,7 +5998,9 @@
       "catalog_source": "https://api.audible.com/1.0/catalog/products/1772308633?response_groups=product_desc,product_attrs,series,contributors,media",
       "evidence_seconds": 66.0,
       "edition_status": "catalog-match",
-      "notes": ""
+      "notes": "",
+      "primary_category": "Science fiction",
+      "fiction_or_nonfiction": "Fiction"
     },
     {
       "id": "book-179",
@@ -5677,7 +6033,9 @@
       "catalog_source": "https://api.audible.com/1.0/catalog/products/1772306932?response_groups=product_desc,product_attrs,series,contributors,media",
       "evidence_seconds": 66.25,
       "edition_status": "catalog-match",
-      "notes": ""
+      "notes": "",
+      "primary_category": "Science fiction",
+      "fiction_or_nonfiction": "Fiction"
     },
     {
       "id": "book-180",
@@ -5710,7 +6068,9 @@
       "catalog_source": "https://api.audible.com/1.0/catalog/products/B078RV7BWR?response_groups=product_desc,product_attrs,series,contributors,media",
       "evidence_seconds": 66.5,
       "edition_status": "catalog-match",
-      "notes": ""
+      "notes": "",
+      "primary_category": "Science fiction",
+      "fiction_or_nonfiction": "Fiction"
     },
     {
       "id": "book-181",
@@ -5743,7 +6103,9 @@
       "catalog_source": "https://api.audible.com/1.0/catalog/products/B07341FZDC?response_groups=product_desc,product_attrs,series,contributors,media",
       "evidence_seconds": 66.75,
       "edition_status": "catalog-match",
-      "notes": ""
+      "notes": "",
+      "primary_category": "Science fiction",
+      "fiction_or_nonfiction": "Fiction"
     },
     {
       "id": "book-182",
@@ -5776,7 +6138,9 @@
       "catalog_source": "https://api.audible.com/1.0/catalog/products/B01N17THEO?response_groups=product_desc,product_attrs,series,contributors,media",
       "evidence_seconds": 67.5,
       "edition_status": "catalog-match",
-      "notes": ""
+      "notes": "",
+      "primary_category": "Science fiction",
+      "fiction_or_nonfiction": "Fiction"
     },
     {
       "id": "book-183",
@@ -5809,7 +6173,9 @@
       "catalog_source": "https://api.audible.com/1.0/catalog/products/B01L082HJ2?response_groups=product_desc,product_attrs,series,contributors,media",
       "evidence_seconds": 67.75,
       "edition_status": "catalog-match",
-      "notes": ""
+      "notes": "",
+      "primary_category": "Science fiction",
+      "fiction_or_nonfiction": "Fiction"
     },
     {
       "id": "book-184",
@@ -5842,7 +6208,9 @@
       "catalog_source": "https://api.audible.com/1.0/catalog/products/B002V8MRS2?response_groups=product_desc,product_attrs,series,contributors,media",
       "evidence_seconds": 68.0,
       "edition_status": "catalog-match",
-      "notes": ""
+      "notes": "",
+      "primary_category": "Science fiction",
+      "fiction_or_nonfiction": "Fiction"
     },
     {
       "id": "book-185",
@@ -5875,7 +6243,9 @@
       "catalog_source": "https://api.audible.com/1.0/catalog/products/B077YXPBCC?response_groups=product_desc,product_attrs,series,contributors,media",
       "evidence_seconds": 68.0,
       "edition_status": "catalog-match",
-      "notes": ""
+      "notes": "",
+      "primary_category": "Science fiction",
+      "fiction_or_nonfiction": "Fiction"
     },
     {
       "id": "book-186",
@@ -5901,7 +6271,9 @@
       "catalog_source": "https://api.audible.com/1.0/catalog/products/0593167643?response_groups=product_desc,product_attrs,series,contributors,media",
       "evidence_seconds": 68.0,
       "edition_status": "catalog-match",
-      "notes": ""
+      "notes": "",
+      "primary_category": "Parenting & relationships",
+      "fiction_or_nonfiction": "Nonfiction"
     },
     {
       "id": "book-187",
@@ -5934,7 +6306,9 @@
       "catalog_source": "https://api.audible.com/1.0/catalog/products/B002V5B3BW?response_groups=product_desc,product_attrs,series,contributors,media",
       "evidence_seconds": 68.25,
       "edition_status": "catalog-match",
-      "notes": ""
+      "notes": "",
+      "primary_category": "Science fiction",
+      "fiction_or_nonfiction": "Fiction"
     },
     {
       "id": "book-188",
@@ -5967,7 +6341,9 @@
       "catalog_source": "https://api.audible.com/1.0/catalog/products/B002V1O58E?response_groups=product_desc,product_attrs,series,contributors,media",
       "evidence_seconds": 68.5,
       "edition_status": "catalog-match",
-      "notes": ""
+      "notes": "",
+      "primary_category": "Science fiction",
+      "fiction_or_nonfiction": "Fiction"
     },
     {
       "id": "book-189",
@@ -6000,7 +6376,9 @@
       "catalog_source": "https://api.audible.com/1.0/catalog/products/B0030MTMLS?response_groups=product_desc,product_attrs,series,contributors,media",
       "evidence_seconds": 68.75,
       "edition_status": "catalog-match",
-      "notes": ""
+      "notes": "",
+      "primary_category": "Science fiction",
+      "fiction_or_nonfiction": "Fiction"
     },
     {
       "id": "book-190",
@@ -6033,7 +6411,9 @@
       "catalog_source": "https://api.audible.com/1.0/catalog/products/B002V5GYHA?response_groups=product_desc,product_attrs,series,contributors,media",
       "evidence_seconds": 69.25,
       "edition_status": "catalog-match",
-      "notes": ""
+      "notes": "",
+      "primary_category": "Science fiction",
+      "fiction_or_nonfiction": "Fiction"
     },
     {
       "id": "book-191",
@@ -6066,7 +6446,9 @@
       "catalog_source": "https://api.audible.com/1.0/catalog/products/B01A9E8GJI?response_groups=product_desc,product_attrs,series,contributors,media",
       "evidence_seconds": 69.5,
       "edition_status": "catalog-match",
-      "notes": ""
+      "notes": "",
+      "primary_category": "Science fiction",
+      "fiction_or_nonfiction": "Fiction"
     },
     {
       "id": "book-192",
@@ -6099,7 +6481,9 @@
       "catalog_source": "https://api.audible.com/1.0/catalog/products/B01AGM2XME?response_groups=product_desc,product_attrs,series,contributors,media",
       "evidence_seconds": 70.0,
       "edition_status": "catalog-match",
-      "notes": ""
+      "notes": "",
+      "primary_category": "Science fiction",
+      "fiction_or_nonfiction": "Fiction"
     },
     {
       "id": "book-193",
@@ -6132,7 +6516,9 @@
       "catalog_source": "https://api.audible.com/1.0/catalog/products/B00S8FDCTK?response_groups=product_desc,product_attrs,series,contributors,media",
       "evidence_seconds": 70.0,
       "edition_status": "catalog-match",
-      "notes": ""
+      "notes": "",
+      "primary_category": "Science fiction",
+      "fiction_or_nonfiction": "Fiction"
     },
     {
       "id": "book-194",
@@ -6165,7 +6551,9 @@
       "catalog_source": "https://api.audible.com/1.0/catalog/products/B074XM52YQ?response_groups=product_desc,product_attrs,series,contributors,media",
       "evidence_seconds": 70.5,
       "edition_status": "catalog-match",
-      "notes": ""
+      "notes": "",
+      "primary_category": "Science fiction",
+      "fiction_or_nonfiction": "Fiction"
     },
     {
       "id": "book-195",
@@ -6198,7 +6586,9 @@
       "catalog_source": "https://api.audible.com/1.0/catalog/products/B01D53NPLO?response_groups=product_desc,product_attrs,series,contributors,media",
       "evidence_seconds": 71.0,
       "edition_status": "catalog-match",
-      "notes": ""
+      "notes": "",
+      "primary_category": "Science fiction",
+      "fiction_or_nonfiction": "Fiction"
     },
     {
       "id": "book-196",
@@ -6231,7 +6621,9 @@
       "catalog_source": "https://api.audible.com/1.0/catalog/products/B00Y1O1FYG?response_groups=product_desc,product_attrs,series,contributors,media",
       "evidence_seconds": 71.25,
       "edition_status": "catalog-match",
-      "notes": ""
+      "notes": "",
+      "primary_category": "Science fiction",
+      "fiction_or_nonfiction": "Fiction"
     },
     {
       "id": "book-197",
@@ -6264,7 +6656,9 @@
       "catalog_source": "https://api.audible.com/1.0/catalog/products/B00K7PP15W?response_groups=product_desc,product_attrs,series,contributors,media",
       "evidence_seconds": 71.5,
       "edition_status": "catalog-match",
-      "notes": ""
+      "notes": "",
+      "primary_category": "Science fiction",
+      "fiction_or_nonfiction": "Fiction"
     },
     {
       "id": "book-198",
@@ -6297,7 +6691,9 @@
       "catalog_source": "https://api.audible.com/1.0/catalog/products/1549142194?response_groups=product_desc,product_attrs,series,contributors,media",
       "evidence_seconds": 71.75,
       "edition_status": "catalog-match",
-      "notes": ""
+      "notes": "",
+      "primary_category": "Science fiction",
+      "fiction_or_nonfiction": "Fiction"
     },
     {
       "id": "book-199",
@@ -6330,7 +6726,9 @@
       "catalog_source": "https://api.audible.com/1.0/catalog/products/B075DK95GS?response_groups=product_desc,product_attrs,series,contributors,media",
       "evidence_seconds": 72.0,
       "edition_status": "catalog-match",
-      "notes": ""
+      "notes": "",
+      "primary_category": "Science fiction",
+      "fiction_or_nonfiction": "Fiction"
     },
     {
       "id": "book-200",
@@ -6363,7 +6761,9 @@
       "catalog_source": "https://api.audible.com/1.0/catalog/products/B073H9PF2D?response_groups=product_desc,product_attrs,series,contributors,media",
       "evidence_seconds": 72.5,
       "edition_status": "catalog-match",
-      "notes": ""
+      "notes": "",
+      "primary_category": "Science fiction",
+      "fiction_or_nonfiction": "Fiction"
     },
     {
       "id": "book-201",
@@ -6389,7 +6789,9 @@
       "catalog_source": "https://api.audible.com/1.0/catalog/products/B00BEVX2JU?response_groups=product_desc,product_attrs,series,contributors,media",
       "evidence_seconds": 73.0,
       "edition_status": "catalog-match",
-      "notes": ""
+      "notes": "",
+      "primary_category": "Parenting & relationships",
+      "fiction_or_nonfiction": "Nonfiction"
     },
     {
       "id": "book-202",
@@ -6426,7 +6828,9 @@
       "catalog_source": "https://api.audible.com/1.0/catalog/products/1980000174?response_groups=product_desc,product_attrs,series,contributors,media",
       "evidence_seconds": 73.25,
       "edition_status": "catalog-match",
-      "notes": ""
+      "notes": "",
+      "primary_category": "Science fiction",
+      "fiction_or_nonfiction": "Fiction"
     },
     {
       "id": "book-203",
@@ -6462,7 +6866,9 @@
       "catalog_source": "https://api.audible.com/1.0/catalog/products/B074NBTRGL?response_groups=product_desc,product_attrs,series,contributors,media",
       "evidence_seconds": 73.75,
       "edition_status": "catalog-match",
-      "notes": ""
+      "notes": "",
+      "primary_category": "Science fiction",
+      "fiction_or_nonfiction": "Fiction"
     },
     {
       "id": "book-204",
@@ -6495,7 +6901,9 @@
       "catalog_source": "https://api.audible.com/1.0/catalog/products/B019NMZ6FE?response_groups=product_desc,product_attrs,series,contributors,media",
       "evidence_seconds": 73.75,
       "edition_status": "catalog-match",
-      "notes": ""
+      "notes": "",
+      "primary_category": "Science fiction",
+      "fiction_or_nonfiction": "Fiction"
     },
     {
       "id": "book-205",
@@ -6528,7 +6936,9 @@
       "catalog_source": "https://api.audible.com/1.0/catalog/products/B00R6S1RCY?response_groups=product_desc,product_attrs,series,contributors,media",
       "evidence_seconds": 74.0,
       "edition_status": "catalog-match",
-      "notes": ""
+      "notes": "",
+      "primary_category": "Science fiction",
+      "fiction_or_nonfiction": "Fiction"
     },
     {
       "id": "book-206",
@@ -6562,7 +6972,9 @@
       "catalog_source": "https://api.audible.com/1.0/catalog/products/B01LW7OXWP?response_groups=product_desc,product_attrs,series,contributors,media",
       "evidence_seconds": 74.25,
       "edition_status": "catalog-match",
-      "notes": ""
+      "notes": "",
+      "primary_category": "Science fiction",
+      "fiction_or_nonfiction": "Fiction"
     },
     {
       "id": "book-207",
@@ -6596,7 +7008,9 @@
       "catalog_source": "https://api.audible.com/1.0/catalog/products/B010PKSKBA?response_groups=product_desc,product_attrs,series,contributors,media",
       "evidence_seconds": 74.75,
       "edition_status": "catalog-match",
-      "notes": ""
+      "notes": "",
+      "primary_category": "Science fiction",
+      "fiction_or_nonfiction": "Fiction"
     },
     {
       "id": "book-208",
@@ -6623,7 +7037,9 @@
       "catalog_source": "https://api.audible.com/1.0/catalog/products/B07F9ZD3W8?response_groups=product_desc,product_attrs,series,contributors,media",
       "evidence_seconds": 75.25,
       "edition_status": "catalog-match",
-      "notes": ""
+      "notes": "",
+      "primary_category": "Science fiction",
+      "fiction_or_nonfiction": "Fiction"
     },
     {
       "id": "book-209",
@@ -6657,7 +7073,9 @@
       "catalog_source": "https://api.audible.com/1.0/catalog/products/B00P0277C2?response_groups=product_desc,product_attrs,series,contributors,media",
       "evidence_seconds": 75.75,
       "edition_status": "catalog-match",
-      "notes": ""
+      "notes": "",
+      "primary_category": "Science fiction",
+      "fiction_or_nonfiction": "Fiction"
     },
     {
       "id": "book-210",
@@ -6690,7 +7108,9 @@
       "catalog_source": "https://api.audible.com/1.0/catalog/products/B00I2VWW5U?response_groups=product_desc,product_attrs,series,contributors,media",
       "evidence_seconds": 75.75,
       "edition_status": "catalog-match",
-      "notes": ""
+      "notes": "",
+      "primary_category": "Science fiction",
+      "fiction_or_nonfiction": "Fiction"
     },
     {
       "id": "book-211",
@@ -6716,7 +7136,9 @@
       "catalog_source": "https://api.audible.com/1.0/catalog/products/1639296239?response_groups=product_desc,product_attrs,series,contributors,media",
       "evidence_seconds": 76.25,
       "edition_status": "catalog-match",
-      "notes": ""
+      "notes": "",
+      "primary_category": "Business, leadership & productivity",
+      "fiction_or_nonfiction": "Nonfiction"
     },
     {
       "id": "book-212",
@@ -6755,7 +7177,9 @@
       "catalog_source": "https://api.audible.com/1.0/catalog/products/B0039LYOR2?response_groups=product_desc,product_attrs,series,contributors,media",
       "evidence_seconds": 76.75,
       "edition_status": "catalog-match",
-      "notes": ""
+      "notes": "",
+      "primary_category": "Science fiction",
+      "fiction_or_nonfiction": "Fiction"
     },
     {
       "id": "book-213",
@@ -6794,7 +7218,9 @@
       "catalog_source": "https://api.audible.com/1.0/catalog/products/B003159FTS?response_groups=product_desc,product_attrs,series,contributors,media",
       "evidence_seconds": 77.0,
       "edition_status": "catalog-match",
-      "notes": ""
+      "notes": "",
+      "primary_category": "Science fiction",
+      "fiction_or_nonfiction": "Fiction"
     },
     {
       "id": "book-214",
@@ -6833,7 +7259,9 @@
       "catalog_source": "https://api.audible.com/1.0/catalog/products/B002V8NAO2?response_groups=product_desc,product_attrs,series,contributors,media",
       "evidence_seconds": 77.25,
       "edition_status": "catalog-match",
-      "notes": ""
+      "notes": "",
+      "primary_category": "Science fiction",
+      "fiction_or_nonfiction": "Fiction"
     },
     {
       "id": "book-215",
@@ -6859,7 +7287,9 @@
       "catalog_source": "https://api.audible.com/1.0/catalog/products/1549194976?response_groups=product_desc,product_attrs,series,contributors,media",
       "evidence_seconds": 77.25,
       "edition_status": "catalog-match",
-      "notes": ""
+      "notes": "",
+      "primary_category": "Biography, memoir & personal essays",
+      "fiction_or_nonfiction": "Nonfiction"
     },
     {
       "id": "book-216",
@@ -6885,7 +7315,9 @@
       "catalog_source": "https://api.audible.com/1.0/catalog/products/1508281181?response_groups=product_desc,product_attrs,series,contributors,media",
       "evidence_seconds": 77.5,
       "edition_status": "catalog-match",
-      "notes": ""
+      "notes": "",
+      "primary_category": "History, military & politics",
+      "fiction_or_nonfiction": "Nonfiction"
     },
     {
       "id": "book-217",
@@ -6911,7 +7343,9 @@
       "catalog_source": "https://api.audible.com/1.0/catalog/products/B00CYKDYBQ?response_groups=product_desc,product_attrs,series,contributors,media",
       "evidence_seconds": 77.75,
       "edition_status": "catalog-match",
-      "notes": ""
+      "notes": "",
+      "primary_category": "Personal development & psychology",
+      "fiction_or_nonfiction": "Nonfiction"
     },
     {
       "id": "book-218",
@@ -6937,7 +7371,9 @@
       "catalog_source": "https://api.audible.com/1.0/catalog/products/B01C4RPZ7O?response_groups=product_desc,product_attrs,series,contributors,media",
       "evidence_seconds": 78.0,
       "edition_status": "catalog-match",
-      "notes": ""
+      "notes": "",
+      "primary_category": "Educational — science, data & learning",
+      "fiction_or_nonfiction": "Nonfiction"
     },
     {
       "id": "book-219",
@@ -6963,7 +7399,9 @@
       "catalog_source": "https://api.audible.com/1.0/catalog/products/B00NMSJ49U?response_groups=product_desc,product_attrs,series,contributors,media",
       "evidence_seconds": 78.75,
       "edition_status": "catalog-match",
-      "notes": ""
+      "notes": "",
+      "primary_category": "History, military & politics",
+      "fiction_or_nonfiction": "Nonfiction"
     },
     {
       "id": "book-220",
@@ -7002,7 +7440,9 @@
       "catalog_source": "https://api.audible.com/1.0/catalog/products/B07BMHFBCM?response_groups=product_desc,product_attrs,series,contributors,media",
       "evidence_seconds": 79.0,
       "edition_status": "catalog-match",
-      "notes": ""
+      "notes": "",
+      "primary_category": "Business, leadership & productivity",
+      "fiction_or_nonfiction": "Nonfiction"
     },
     {
       "id": "book-221",
@@ -7030,7 +7470,9 @@
       "catalog_source": "https://api.audible.com/1.0/catalog/products/B07B79MJPZ?response_groups=product_desc,product_attrs,series,contributors,media",
       "evidence_seconds": 79.25,
       "edition_status": "catalog-match",
-      "notes": ""
+      "notes": "",
+      "primary_category": "Business, leadership & productivity",
+      "fiction_or_nonfiction": "Nonfiction"
     },
     {
       "id": "book-222",
@@ -7057,7 +7499,9 @@
       "catalog_source": "https://api.audible.com/1.0/catalog/products/B00J53FL3O?response_groups=product_desc,product_attrs,series,contributors,media",
       "evidence_seconds": 79.5,
       "edition_status": "catalog-match",
-      "notes": ""
+      "notes": "",
+      "primary_category": "Business, leadership & productivity",
+      "fiction_or_nonfiction": "Nonfiction"
     },
     {
       "id": "book-223",
@@ -7083,7 +7527,9 @@
       "catalog_source": "https://api.audible.com/1.0/catalog/products/B003M7PP9Y?response_groups=product_desc,product_attrs,series,contributors,media",
       "evidence_seconds": 80.0,
       "edition_status": "catalog-match",
-      "notes": ""
+      "notes": "",
+      "primary_category": "Biography, memoir & personal essays",
+      "fiction_or_nonfiction": "Nonfiction"
     },
     {
       "id": "book-224",
@@ -7109,7 +7555,9 @@
       "catalog_source": "https://api.audible.com/1.0/catalog/products/B01CIRT3V4?response_groups=product_desc,product_attrs,series,contributors,media",
       "evidence_seconds": 80.25,
       "edition_status": "catalog-match",
-      "notes": ""
+      "notes": "",
+      "primary_category": "Business, leadership & productivity",
+      "fiction_or_nonfiction": "Nonfiction"
     },
     {
       "id": "book-225",
@@ -7135,7 +7583,9 @@
       "catalog_source": "https://api.audible.com/1.0/catalog/products/B008HQTIRU?response_groups=product_desc,product_attrs,series,contributors,media",
       "evidence_seconds": 80.5,
       "edition_status": "catalog-match",
-      "notes": ""
+      "notes": "",
+      "primary_category": "Thrillers, espionage & mystery",
+      "fiction_or_nonfiction": "Fiction"
     },
     {
       "id": "book-226",
@@ -7168,7 +7618,9 @@
       "catalog_source": "https://api.audible.com/1.0/catalog/products/B002VACDZ2?response_groups=product_desc,product_attrs,series,contributors,media",
       "evidence_seconds": 80.75,
       "edition_status": "catalog-match",
-      "notes": ""
+      "notes": "",
+      "primary_category": "Science fiction",
+      "fiction_or_nonfiction": "Fiction"
     },
     {
       "id": "book-227",
@@ -7194,7 +7646,9 @@
       "catalog_source": "https://api.audible.com/1.0/catalog/products/B002V8MOTE?response_groups=product_desc,product_attrs,series,contributors,media",
       "evidence_seconds": 80.75,
       "edition_status": "catalog-match",
-      "notes": "Abridged edition narrated by Richard Thomas; 9h 28m in the recording matches this edition."
+      "notes": "Abridged edition narrated by Richard Thomas; 9h 28m in the recording matches this edition.",
+      "primary_category": "History, military & politics",
+      "fiction_or_nonfiction": "Nonfiction"
     },
     {
       "id": "book-228",
@@ -7220,7 +7674,9 @@
       "catalog_source": "https://api.audible.com/1.0/catalog/products/B002V8MA7A?response_groups=product_desc,product_attrs,series,contributors,media",
       "evidence_seconds": 81.0,
       "edition_status": "catalog-match",
-      "notes": ""
+      "notes": "",
+      "primary_category": "History, military & politics",
+      "fiction_or_nonfiction": "Nonfiction"
     },
     {
       "id": "book-229",
@@ -7253,7 +7709,9 @@
       "catalog_source": "https://api.audible.com/1.0/catalog/products/B002V5BOO8?response_groups=product_desc,product_attrs,series,contributors,media",
       "evidence_seconds": 81.75,
       "edition_status": "catalog-match",
-      "notes": ""
+      "notes": "",
+      "primary_category": "Thrillers, espionage & mystery",
+      "fiction_or_nonfiction": "Fiction"
     },
     {
       "id": "book-230",
@@ -7286,7 +7744,9 @@
       "catalog_source": "https://api.audible.com/1.0/catalog/products/B002V1LAIM?response_groups=product_desc,product_attrs,series,contributors,media",
       "evidence_seconds": 82.25,
       "edition_status": "catalog-match",
-      "notes": ""
+      "notes": "",
+      "primary_category": "Thrillers, espionage & mystery",
+      "fiction_or_nonfiction": "Fiction"
     },
     {
       "id": "book-231",
@@ -7313,7 +7773,9 @@
       "catalog_source": "https://api.audible.com/1.0/catalog/products/B0DSK1YKYZ?response_groups=product_desc,product_attrs,series,contributors,media",
       "evidence_seconds": 82.25,
       "edition_status": "current-edition-substitute",
-      "notes": "The recording shows a 7h 9m edition. The link and cover use the currently listed 10h 17m edition; the original edition could not be verified."
+      "notes": "The recording shows a 7h 9m edition. The link and cover use the currently listed 10h 17m edition; the original edition could not be verified.",
+      "primary_category": "Business, leadership & productivity",
+      "fiction_or_nonfiction": "Nonfiction"
     },
     {
       "id": "book-232",
@@ -7346,7 +7808,9 @@
       "catalog_source": "https://api.audible.com/1.0/catalog/products/B002V5IUKE?response_groups=product_desc,product_attrs,series,contributors,media",
       "evidence_seconds": 82.5,
       "edition_status": "catalog-match",
-      "notes": ""
+      "notes": "",
+      "primary_category": "Science fiction",
+      "fiction_or_nonfiction": "Fiction"
     },
     {
       "id": "book-233",
@@ -7379,7 +7843,9 @@
       "catalog_source": "https://api.audible.com/1.0/catalog/products/B002V5GV1O?response_groups=product_desc,product_attrs,series,contributors,media",
       "evidence_seconds": 82.75,
       "edition_status": "catalog-match",
-      "notes": ""
+      "notes": "",
+      "primary_category": "Science fiction",
+      "fiction_or_nonfiction": "Fiction"
     },
     {
       "id": "book-234",
@@ -7412,7 +7878,9 @@
       "catalog_source": "https://api.audible.com/1.0/catalog/products/B002V5GMZY?response_groups=product_desc,product_attrs,series,contributors,media",
       "evidence_seconds": 83.75,
       "edition_status": "catalog-match",
-      "notes": ""
+      "notes": "",
+      "primary_category": "Thrillers, espionage & mystery",
+      "fiction_or_nonfiction": "Fiction"
     },
     {
       "id": "book-235",
@@ -7445,7 +7913,9 @@
       "catalog_source": "https://api.audible.com/1.0/catalog/products/B002UZL6C4?response_groups=product_desc,product_attrs,series,contributors,media",
       "evidence_seconds": 83.75,
       "edition_status": "catalog-match",
-      "notes": ""
+      "notes": "",
+      "primary_category": "Thrillers, espionage & mystery",
+      "fiction_or_nonfiction": "Fiction"
     },
     {
       "id": "book-236",
@@ -7471,7 +7941,9 @@
       "catalog_source": "https://api.audible.com/1.0/catalog/products/B002V1BNSY?response_groups=product_desc,product_attrs,series,contributors,media",
       "evidence_seconds": 84.25,
       "edition_status": "catalog-match",
-      "notes": ""
+      "notes": "",
+      "primary_category": "Educational — science, data & learning",
+      "fiction_or_nonfiction": "Nonfiction"
     },
     {
       "id": "book-237",
@@ -7497,7 +7969,9 @@
       "catalog_source": "https://api.audible.com/1.0/catalog/products/B002V5B8XU?response_groups=product_desc,product_attrs,series,contributors,media",
       "evidence_seconds": 84.25,
       "edition_status": "catalog-match",
-      "notes": ""
+      "notes": "",
+      "primary_category": "Personal finance & investing",
+      "fiction_or_nonfiction": "Nonfiction"
     },
     {
       "id": "book-238",
@@ -7523,7 +7997,87 @@
       "catalog_source": "https://api.audible.com/1.0/catalog/products/B002V1BE2O?response_groups=product_desc,product_attrs,series,contributors,media",
       "evidence_seconds": 84.5,
       "edition_status": "catalog-match",
-      "notes": ""
+      "notes": "",
+      "primary_category": "Business, leadership & productivity",
+      "fiction_or_nonfiction": "Nonfiction"
     }
-  ]
+  ],
+  "category_scheme": {
+    "method": "Editorial primary-genre or primary-subject classification. Each library title is counted once; a box set remains one library title. Categories may overlap conceptually, but counts do not.",
+    "categories": [
+      {
+        "name": "Science fiction",
+        "type": "Fiction",
+        "definition": "Space opera, military science fiction, speculative technology, and science-fiction thrillers."
+      },
+      {
+        "name": "Thrillers, espionage & mystery",
+        "type": "Fiction",
+        "definition": "Crime, espionage, military suspense, contemporary techno-thrillers, and supernatural suspense."
+      },
+      {
+        "name": "Fantasy",
+        "type": "Fiction",
+        "definition": "Epic and urban fantasy, including the Convergence series."
+      },
+      {
+        "name": "Literary classics & mythology",
+        "type": "Fiction",
+        "definition": "Classic literary fiction, historical adventure, and ancient epic poetry."
+      },
+      {
+        "name": "History, military & politics",
+        "type": "Nonfiction",
+        "definition": "Historical accounts, military history, political investigations, and nuclear-risk analysis."
+      },
+      {
+        "name": "Business, leadership & productivity",
+        "type": "Nonfiction",
+        "definition": "Management, entrepreneurship, negotiation, career development, and work organization."
+      },
+      {
+        "name": "Biography, memoir & personal essays",
+        "type": "Nonfiction",
+        "definition": "Life stories and autobiographical essays, including the David Sedaris collections."
+      },
+      {
+        "name": "Society & culture",
+        "type": "Nonfiction",
+        "definition": "Social criticism, cultural commentary, and architecture criticism."
+      },
+      {
+        "name": "Educational — science, data & learning",
+        "type": "Nonfiction",
+        "definition": "Education theory, statistics, data-driven reasoning, and behavioral science; excludes history and practical business/self-help books counted elsewhere."
+      },
+      {
+        "name": "Parenting & relationships",
+        "type": "Nonfiction",
+        "definition": "Parenting, child development, and marriage guidance."
+      },
+      {
+        "name": "Health, nutrition & fitness",
+        "type": "Nonfiction",
+        "definition": "Exercise science and dietary guidance."
+      },
+      {
+        "name": "Personal development & psychology",
+        "type": "Nonfiction",
+        "definition": "Personal habits, emotional growth, and vulnerability."
+      },
+      {
+        "name": "Personal finance & investing",
+        "type": "Nonfiction",
+        "definition": "Practical personal investing education."
+      }
+    ],
+    "boundary_notes": [
+      "Science fiction includes Red Rising, the Void Trilogy, and the Infinite Timeline despite fantasy or thriller elements. Four Minutes and Quantum Radio are counted here for their speculative premises.",
+      "Convergence is urban fantasy and is counted with fantasy, alongside Lightbringer and The Age of Madness.",
+      "Beneath the Dark Ice is counted as supernatural suspense; Kill Decision is counted as a techno-thriller.",
+      "The Iliad and The Three Musketeers are literary classics, not nonfiction history.",
+      "History includes The Making of the Atomic Bomb (cataloged as Making of the Atomic Bomb), Titan II, and Nuclear War: A Scenario; the last is forward-looking risk analysis rather than a historical narrative.",
+      "Educational is a narrow category: Norms and Nobility, The Consuming Instinct, How to Lie with Statistics, and Super Crunchers. It is not an umbrella total for all nonfiction."
+    ]
+  }
 }

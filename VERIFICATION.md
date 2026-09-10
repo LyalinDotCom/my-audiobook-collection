@@ -37,7 +37,9 @@ The 238 library titles are divided into **185 titles in 54 series or named colle
 
 ## Reproducibility
 
-The curated JSON is the source of truth for the Markdown catalog. `python3 scripts/render_catalog.py` checks the expected record count, unique record IDs, unique ASINs, and link formats before rendering `BOOKS.md`.
+The curated JSON is the source of truth for the Markdown catalog. `python3 scripts/render_catalog.py` checks the expected record count, unique record IDs, unique ASINs, link formats, category membership, and fiction/nonfiction consistency before rendering `BOOKS.md`, `CATEGORIES.md`, and the category summary in `README.md`.
+
+The category overview is separate from the series organization above. Each of the 238 titles has one editorial primary genre or subject, producing **13 categories: 179 fiction titles and 59 nonfiction titles**. The category definitions and crossover decisions are documented in [CATEGORIES.md](CATEGORIES.md) and in the JSON's `category_scheme`. Counts in every Markdown overview are generated from the same per-book category fields.
 
 Live checks on September 10, 2026 returned **HTTP 200 for all 238 Audible product records and all 238 cover images**. Each product response returned the expected ASIN. No failed links were found in those checks. Audible storefront access and purchasing availability can still vary by region.
 
