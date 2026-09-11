@@ -1,6 +1,6 @@
 # My Audiobook Collection
 
-A catalog of **238 audiobook library titles**, extracted from an Audible screen recording and organized by series.
+A catalog of **238 audiobook library titles**, extracted from an Audible screen recording and organized by **series/universe → trilogy or subseries → book number**.
 
 ## [Browse the complete collection →](BOOKS.md)
 
@@ -12,6 +12,8 @@ The catalog includes:
 - Source-video timestamps and notes for edition differences.
 
 All 238 titles shown by the library counter are accounted for. A box set counts as one library title. Missing installments have not been added to the collection.
+
+Both the [illustrated catalog](BOOKS.md) and [category index](CATEGORIES.md) keep related books together. Black Fleet's three trilogies appear in sequence; Commonwealth and Void sit together; Uplift and Red Rising have separate original/sequel sections. Long series remain intact rather than being divided into arbitrary groups of three. [Reading-order notes and sources](VERIFICATION.md#reading-order-and-trilogy-grouping) explain the structure.
 
 <!-- CATEGORY-SUMMARY:START -->
 ## Books by category

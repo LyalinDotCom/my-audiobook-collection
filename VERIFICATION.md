@@ -35,6 +35,21 @@ The 238 library titles are divided into **185 titles in 54 series or named colle
 - *Start with Why*: grouped using [Audible's series index](https://www.audible.com/series/Start-with-Why-Series-Audiobooks/B0F79MT9ZX).
 - “Without a cataloged series” means the matched listing supplies no series and no separately verified series assignment was made. It does not establish that a book can never have a sequel or a related work.
 
+## Reading order and trilogy grouping
+
+Updated September 11, 2026. Both Markdown indexes now group titles by **series/universe → trilogy or subseries → numeric book position**, instead of alphabetizing individual books within a genre. Series names sort alphabetically while ignoring leading “The,” “A,” and “An.” Standalone titles follow series and remain alphabetical.
+
+The original `group`, `sequence`, and `catalog_series` fields are preserved. The `reading_family`, `reading_section`, `reading_section_order`, and `reading_position` fields control presentation. Section positions are local numbers, not replacements for Audible's overall series numbers. Missing installments are not added or silently renumbered in ordinary series.
+
+- **Black Fleet Saga:** Black Fleet Trilogy → Expansion Wars Trilogy → Unification War Trilogy, following the [author's series index](https://joshuadalzelle.com/series/black-fleet-saga).
+- **Commonwealth universe:** Commonwealth Saga → Void Trilogy. The [publisher identifies the Void Trilogy as part of Commonwealth](https://www.penguinrandomhouse.com/series/TVT/commonwealth-the-void-trilogy/).
+- **Uplift:** the original three novels are followed by the Uplift Trilogy: *Brightness Reef*, *Infinity's Shore*, *Heaven's Reach*. [David Brin identifies that second trilogy explicitly](https://www.davidbrin.com/fiction/upliftwar1.html).
+- **Red Rising:** *Red Rising*, *Golden Son*, and *Morning Star* form the [original trilogy](https://penguinrandomhouselibrary.com/book/?isbn=9780593724460). The owned later books have a separate “Sequel saga” section; owning three of them does not make that saga a trilogy.
+- **Revelation Space:** *Revelation Space* → *Redemption Ark* → *Absolution Gap*, following [Alastair Reynolds' own suggested sequence](https://www.alastairreynolds.com/novels/). *Inhibitor Phase*, companion works, and the Prefect Dreyfus subseries have separate sections. Companion placement is a browsing choice, not a required chronology.
+- **Expeditionary Force:** the main series and Mavericks spinoff sit together, each retaining its own sequence. They are not interleaved into a universal reading timeline.
+
+Other established trilogies retain their existing book numbers. Longer series such as the Expanse, Bobiverse, and Lightbringer are not arbitrarily split into three-book chunks. These presentation changes preserve all 238 titles and all category totals.
+
 ## Reproducibility
 
 The curated JSON is the source of truth for the Markdown catalog. `python3 scripts/render_catalog.py` checks the expected record count, unique record IDs, unique ASINs, link formats, category membership, and fiction/nonfiction consistency before rendering `BOOKS.md`, `CATEGORIES.md`, and the category summary in `README.md`.

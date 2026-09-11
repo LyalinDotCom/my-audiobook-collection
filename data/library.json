@@ -42,7 +42,11 @@
       "edition_status": "catalog-match",
       "notes": "",
       "primary_category": "Science fiction",
-      "fiction_or_nonfiction": "Fiction"
+      "fiction_or_nonfiction": "Fiction",
+      "reading_family": "Planetside",
+      "reading_section": "Planetside",
+      "reading_section_order": 1,
+      "reading_position": "4"
     },
     {
       "id": "book-002",
@@ -77,7 +81,11 @@
       "edition_status": "catalog-match",
       "notes": "",
       "primary_category": "Science fiction",
-      "fiction_or_nonfiction": "Fiction"
+      "fiction_or_nonfiction": "Fiction",
+      "reading_family": "Expeditionary Force",
+      "reading_section": "Main series",
+      "reading_section_order": 1,
+      "reading_position": "4"
     },
     {
       "id": "book-003",
@@ -112,7 +120,11 @@
       "edition_status": "catalog-match",
       "notes": "",
       "primary_category": "Science fiction",
-      "fiction_or_nonfiction": "Fiction"
+      "fiction_or_nonfiction": "Fiction",
+      "reading_family": "Bobiverse",
+      "reading_section": "Bobiverse",
+      "reading_section_order": 1,
+      "reading_position": "6"
     },
     {
       "id": "book-004",
@@ -147,7 +159,11 @@
       "edition_status": "catalog-match",
       "notes": "",
       "primary_category": "Science fiction",
-      "fiction_or_nonfiction": "Fiction"
+      "fiction_or_nonfiction": "Fiction",
+      "reading_family": "Forgotten Vengeance",
+      "reading_section": "Forgotten Vengeance",
+      "reading_section_order": 1,
+      "reading_position": "1"
     },
     {
       "id": "book-005",
@@ -182,7 +198,11 @@
       "edition_status": "catalog-match",
       "notes": "",
       "primary_category": "Health, nutrition & fitness",
-      "fiction_or_nonfiction": "Nonfiction"
+      "fiction_or_nonfiction": "Nonfiction",
+      "reading_family": "The Plant Paradox",
+      "reading_section": "The Plant Paradox",
+      "reading_section_order": 1,
+      "reading_position": ""
     },
     {
       "id": "book-006",
@@ -217,7 +237,11 @@
       "edition_status": "catalog-match",
       "notes": "",
       "primary_category": "Science fiction",
-      "fiction_or_nonfiction": "Fiction"
+      "fiction_or_nonfiction": "Fiction",
+      "reading_family": "Expeditionary Force",
+      "reading_section": "Main series",
+      "reading_section_order": 1,
+      "reading_position": "3.5"
     },
     {
       "id": "book-007",
@@ -245,7 +269,11 @@
       "edition_status": "edition-unconfirmed",
       "notes": "Title and cover match. The recording does not establish whether this is the abridged or unabridged edition; the linked edition is unabridged.",
       "primary_category": "History, military & politics",
-      "fiction_or_nonfiction": "Nonfiction"
+      "fiction_or_nonfiction": "Nonfiction",
+      "reading_family": "Nonfiction — history, war and politics",
+      "reading_section": "Standalone titles",
+      "reading_section_order": 1,
+      "reading_position": ""
     },
     {
       "id": "book-008",
@@ -280,7 +308,11 @@
       "edition_status": "catalog-match",
       "notes": "",
       "primary_category": "Science fiction",
-      "fiction_or_nonfiction": "Fiction"
+      "fiction_or_nonfiction": "Fiction",
+      "reading_family": "Expeditionary Force",
+      "reading_section": "Main series",
+      "reading_section_order": 1,
+      "reading_position": "3"
     },
     {
       "id": "book-009",
@@ -316,7 +348,11 @@
       "edition_status": "catalog-match",
       "notes": "",
       "primary_category": "Science fiction",
-      "fiction_or_nonfiction": "Fiction"
+      "fiction_or_nonfiction": "Fiction",
+      "reading_family": "Old Guns",
+      "reading_section": "Old Guns",
+      "reading_section_order": 1,
+      "reading_position": "1"
     },
     {
       "id": "book-010",
@@ -351,7 +387,11 @@
       "edition_status": "catalog-match",
       "notes": "",
       "primary_category": "Science fiction",
-      "fiction_or_nonfiction": "Fiction"
+      "fiction_or_nonfiction": "Fiction",
+      "reading_family": "Exodus",
+      "reading_section": "Exodus",
+      "reading_section_order": 1,
+      "reading_position": "2"
     },
     {
       "id": "book-011",
@@ -387,7 +427,11 @@
       "edition_status": "catalog-match",
       "notes": "",
       "primary_category": "Thrillers, espionage & mystery",
-      "fiction_or_nonfiction": "Fiction"
+      "fiction_or_nonfiction": "Fiction",
+      "reading_family": "The Fourth Option",
+      "reading_section": "The Fourth Option",
+      "reading_section_order": 1,
+      "reading_position": "1"
     },
     {
       "id": "book-012",
@@ -422,7 +466,11 @@
       "edition_status": "catalog-match",
       "notes": "",
       "primary_category": "Science fiction",
-      "fiction_or_nonfiction": "Fiction"
+      "fiction_or_nonfiction": "Fiction",
+      "reading_family": "Expeditionary Force",
+      "reading_section": "Main series",
+      "reading_section_order": 1,
+      "reading_position": "1"
     },
     {
       "id": "book-013",
@@ -457,7 +505,11 @@
       "edition_status": "catalog-match",
       "notes": "",
       "primary_category": "Science fiction",
-      "fiction_or_nonfiction": "Fiction"
+      "fiction_or_nonfiction": "Fiction",
+      "reading_family": "Expeditionary Force",
+      "reading_section": "Main series",
+      "reading_section_order": 1,
+      "reading_position": "2"
     },
     {
       "id": "book-014",
@@ -492,7 +544,11 @@
       "edition_status": "catalog-match",
       "notes": "",
       "primary_category": "Fantasy",
-      "fiction_or_nonfiction": "Fiction"
+      "fiction_or_nonfiction": "Fiction",
+      "reading_family": "Convergence",
+      "reading_section": "Convergence",
+      "reading_section_order": 1,
+      "reading_position": "6"
     },
     {
       "id": "book-015",
@@ -527,7 +583,11 @@
       "edition_status": "catalog-match",
       "notes": "",
       "primary_category": "Thrillers, espionage & mystery",
-      "fiction_or_nonfiction": "Fiction"
+      "fiction_or_nonfiction": "Fiction",
+      "reading_family": "Gray Man",
+      "reading_section": "Gray Man",
+      "reading_section_order": 1,
+      "reading_position": "12"
     },
     {
       "id": "book-016",
@@ -562,7 +622,11 @@
       "edition_status": "catalog-match",
       "notes": "",
       "primary_category": "Science fiction",
-      "fiction_or_nonfiction": "Fiction"
+      "fiction_or_nonfiction": "Fiction",
+      "reading_family": "Expeditionary Force",
+      "reading_section": "Main series",
+      "reading_section_order": 1,
+      "reading_position": "19"
     },
     {
       "id": "book-017",
@@ -603,7 +667,11 @@
       "edition_status": "catalog-match",
       "notes": "",
       "primary_category": "Science fiction",
-      "fiction_or_nonfiction": "Fiction"
+      "fiction_or_nonfiction": "Fiction",
+      "reading_family": "The Captive's War",
+      "reading_section": "The Captive's War",
+      "reading_section_order": 1,
+      "reading_position": "1"
     },
     {
       "id": "book-018",
@@ -638,7 +706,11 @@
       "edition_status": "catalog-match",
       "notes": "",
       "primary_category": "Thrillers, espionage & mystery",
-      "fiction_or_nonfiction": "Fiction"
+      "fiction_or_nonfiction": "Fiction",
+      "reading_family": "Gray Man",
+      "reading_section": "Gray Man",
+      "reading_section_order": 1,
+      "reading_position": "15"
     },
     {
       "id": "book-019",
@@ -673,7 +745,11 @@
       "edition_status": "catalog-match",
       "notes": "",
       "primary_category": "Thrillers, espionage & mystery",
-      "fiction_or_nonfiction": "Fiction"
+      "fiction_or_nonfiction": "Fiction",
+      "reading_family": "Gray Man",
+      "reading_section": "Gray Man",
+      "reading_section_order": 1,
+      "reading_position": "14"
     },
     {
       "id": "book-020",
@@ -708,7 +784,11 @@
       "edition_status": "catalog-match",
       "notes": "",
       "primary_category": "Thrillers, espionage & mystery",
-      "fiction_or_nonfiction": "Fiction"
+      "fiction_or_nonfiction": "Fiction",
+      "reading_family": "A Tom Reece Thriller",
+      "reading_section": "A Tom Reece Thriller",
+      "reading_section_order": 1,
+      "reading_position": "1"
     },
     {
       "id": "book-021",
@@ -743,7 +823,11 @@
       "edition_status": "catalog-match",
       "notes": "",
       "primary_category": "Science fiction",
-      "fiction_or_nonfiction": "Fiction"
+      "fiction_or_nonfiction": "Fiction",
+      "reading_family": "Children of Time",
+      "reading_section": "Children of Time",
+      "reading_section_order": 1,
+      "reading_position": "4"
     },
     {
       "id": "book-022",
@@ -771,7 +855,11 @@
       "edition_status": "catalog-match",
       "notes": "",
       "primary_category": "Educational — science, data & learning",
-      "fiction_or_nonfiction": "Nonfiction"
+      "fiction_or_nonfiction": "Nonfiction",
+      "reading_family": "Nonfiction — education, society and culture",
+      "reading_section": "Standalone titles",
+      "reading_section_order": 1,
+      "reading_position": ""
     },
     {
       "id": "book-023",
@@ -799,7 +887,11 @@
       "edition_status": "catalog-match",
       "notes": "",
       "primary_category": "Society & culture",
-      "fiction_or_nonfiction": "Nonfiction"
+      "fiction_or_nonfiction": "Nonfiction",
+      "reading_family": "Nonfiction — education, society and culture",
+      "reading_section": "Standalone titles",
+      "reading_section_order": 1,
+      "reading_position": ""
     },
     {
       "id": "book-024",
@@ -827,7 +919,11 @@
       "edition_status": "catalog-match",
       "notes": "",
       "primary_category": "Society & culture",
-      "fiction_or_nonfiction": "Nonfiction"
+      "fiction_or_nonfiction": "Nonfiction",
+      "reading_family": "Nonfiction — education, society and culture",
+      "reading_section": "Standalone titles",
+      "reading_section_order": 1,
+      "reading_position": ""
     },
     {
       "id": "book-025",
@@ -862,7 +958,11 @@
       "edition_status": "catalog-match",
       "notes": "",
       "primary_category": "Science fiction",
-      "fiction_or_nonfiction": "Fiction"
+      "fiction_or_nonfiction": "Fiction",
+      "reading_family": "Children of Time",
+      "reading_section": "Children of Time",
+      "reading_section_order": 1,
+      "reading_position": "3"
     },
     {
       "id": "book-026",
@@ -897,7 +997,11 @@
       "edition_status": "catalog-match",
       "notes": "",
       "primary_category": "Science fiction",
-      "fiction_or_nonfiction": "Fiction"
+      "fiction_or_nonfiction": "Fiction",
+      "reading_family": "Children of Time",
+      "reading_section": "Children of Time",
+      "reading_section_order": 1,
+      "reading_position": "2"
     },
     {
       "id": "book-027",
@@ -925,7 +1029,11 @@
       "edition_status": "catalog-match",
       "notes": "",
       "primary_category": "Business, leadership & productivity",
-      "fiction_or_nonfiction": "Nonfiction"
+      "fiction_or_nonfiction": "Nonfiction",
+      "reading_family": "Nonfiction — business, leadership and productivity",
+      "reading_section": "Standalone titles",
+      "reading_section_order": 1,
+      "reading_position": ""
     },
     {
       "id": "book-028",
@@ -953,7 +1061,11 @@
       "edition_status": "catalog-match",
       "notes": "",
       "primary_category": "Literary classics & mythology",
-      "fiction_or_nonfiction": "Fiction"
+      "fiction_or_nonfiction": "Fiction",
+      "reading_family": "Fiction — literary classics",
+      "reading_section": "Standalone titles",
+      "reading_section_order": 1,
+      "reading_position": ""
     },
     {
       "id": "book-029",
@@ -988,7 +1100,11 @@
       "edition_status": "catalog-match",
       "notes": "",
       "primary_category": "Science fiction",
-      "fiction_or_nonfiction": "Fiction"
+      "fiction_or_nonfiction": "Fiction",
+      "reading_family": "Exodus",
+      "reading_section": "Exodus",
+      "reading_section_order": 1,
+      "reading_position": "1"
     },
     {
       "id": "book-030",
@@ -1016,7 +1132,11 @@
       "edition_status": "catalog-match",
       "notes": "",
       "primary_category": "History, military & politics",
-      "fiction_or_nonfiction": "Nonfiction"
+      "fiction_or_nonfiction": "Nonfiction",
+      "reading_family": "Nonfiction — history, war and politics",
+      "reading_section": "Standalone titles",
+      "reading_section_order": 1,
+      "reading_position": ""
     },
     {
       "id": "book-031",
@@ -1051,7 +1171,11 @@
       "edition_status": "catalog-match",
       "notes": "",
       "primary_category": "Thrillers, espionage & mystery",
-      "fiction_or_nonfiction": "Fiction"
+      "fiction_or_nonfiction": "Fiction",
+      "reading_family": "Orphan X",
+      "reading_section": "Orphan X",
+      "reading_section_order": 1,
+      "reading_position": "7"
     },
     {
       "id": "book-032",
@@ -1086,7 +1210,11 @@
       "edition_status": "catalog-match",
       "notes": "",
       "primary_category": "Thrillers, espionage & mystery",
-      "fiction_or_nonfiction": "Fiction"
+      "fiction_or_nonfiction": "Fiction",
+      "reading_family": "Orphan X",
+      "reading_section": "Orphan X",
+      "reading_section_order": 1,
+      "reading_position": "6"
     },
     {
       "id": "book-033",
@@ -1121,7 +1249,11 @@
       "edition_status": "catalog-match",
       "notes": "",
       "primary_category": "Thrillers, espionage & mystery",
-      "fiction_or_nonfiction": "Fiction"
+      "fiction_or_nonfiction": "Fiction",
+      "reading_family": "Orphan X",
+      "reading_section": "Orphan X",
+      "reading_section_order": 1,
+      "reading_position": "5"
     },
     {
       "id": "book-034",
@@ -1156,7 +1288,11 @@
       "edition_status": "catalog-match",
       "notes": "",
       "primary_category": "Fantasy",
-      "fiction_or_nonfiction": "Fiction"
+      "fiction_or_nonfiction": "Fiction",
+      "reading_family": "Convergence",
+      "reading_section": "Convergence",
+      "reading_section_order": 1,
+      "reading_position": "5"
     },
     {
       "id": "book-035",
@@ -1184,7 +1320,11 @@
       "edition_status": "catalog-match",
       "notes": "",
       "primary_category": "Society & culture",
-      "fiction_or_nonfiction": "Nonfiction"
+      "fiction_or_nonfiction": "Nonfiction",
+      "reading_family": "Nonfiction — education, society and culture",
+      "reading_section": "Standalone titles",
+      "reading_section_order": 1,
+      "reading_position": ""
     },
     {
       "id": "book-036",
@@ -1224,7 +1364,11 @@
       "edition_status": "catalog-match",
       "notes": "",
       "primary_category": "Science fiction",
-      "fiction_or_nonfiction": "Fiction"
+      "fiction_or_nonfiction": "Fiction",
+      "reading_family": "Expeditionary Force",
+      "reading_section": "Main series",
+      "reading_section_order": 1,
+      "reading_position": "7.5"
     },
     {
       "id": "book-037",
@@ -1259,7 +1403,11 @@
       "edition_status": "catalog-match",
       "notes": "",
       "primary_category": "Thrillers, espionage & mystery",
-      "fiction_or_nonfiction": "Fiction"
+      "fiction_or_nonfiction": "Fiction",
+      "reading_family": "Orphan X",
+      "reading_section": "Orphan X",
+      "reading_section_order": 1,
+      "reading_position": "4"
     },
     {
       "id": "book-038",
@@ -1294,7 +1442,11 @@
       "edition_status": "catalog-match",
       "notes": "",
       "primary_category": "Science fiction",
-      "fiction_or_nonfiction": "Fiction"
+      "fiction_or_nonfiction": "Fiction",
+      "reading_family": "Murderbot Diaries",
+      "reading_section": "Murderbot Diaries",
+      "reading_section_order": 1,
+      "reading_position": "7"
     },
     {
       "id": "book-039",
@@ -1329,7 +1481,11 @@
       "edition_status": "catalog-match",
       "notes": "",
       "primary_category": "Science fiction",
-      "fiction_or_nonfiction": "Fiction"
+      "fiction_or_nonfiction": "Fiction",
+      "reading_family": "Murderbot Diaries",
+      "reading_section": "Murderbot Diaries",
+      "reading_section_order": 1,
+      "reading_position": "6"
     },
     {
       "id": "book-040",
@@ -1364,7 +1520,11 @@
       "edition_status": "catalog-match",
       "notes": "",
       "primary_category": "Science fiction",
-      "fiction_or_nonfiction": "Fiction"
+      "fiction_or_nonfiction": "Fiction",
+      "reading_family": "Murderbot Diaries",
+      "reading_section": "Murderbot Diaries",
+      "reading_section_order": 1,
+      "reading_position": "5"
     },
     {
       "id": "book-041",
@@ -1399,7 +1559,11 @@
       "edition_status": "catalog-match",
       "notes": "",
       "primary_category": "Science fiction",
-      "fiction_or_nonfiction": "Fiction"
+      "fiction_or_nonfiction": "Fiction",
+      "reading_family": "Murderbot Diaries",
+      "reading_section": "Murderbot Diaries",
+      "reading_section_order": 1,
+      "reading_position": "4"
     },
     {
       "id": "book-042",
@@ -1434,7 +1598,11 @@
       "edition_status": "catalog-match",
       "notes": "",
       "primary_category": "Thrillers, espionage & mystery",
-      "fiction_or_nonfiction": "Fiction"
+      "fiction_or_nonfiction": "Fiction",
+      "reading_family": "Orphan X",
+      "reading_section": "Orphan X",
+      "reading_section_order": 1,
+      "reading_position": "3"
     },
     {
       "id": "book-043",
@@ -1469,7 +1637,11 @@
       "edition_status": "catalog-match",
       "notes": "",
       "primary_category": "Science fiction",
-      "fiction_or_nonfiction": "Fiction"
+      "fiction_or_nonfiction": "Fiction",
+      "reading_family": "Murderbot Diaries",
+      "reading_section": "Murderbot Diaries",
+      "reading_section_order": 1,
+      "reading_position": "3"
     },
     {
       "id": "book-044",
@@ -1504,7 +1676,11 @@
       "edition_status": "catalog-match",
       "notes": "",
       "primary_category": "Science fiction",
-      "fiction_or_nonfiction": "Fiction"
+      "fiction_or_nonfiction": "Fiction",
+      "reading_family": "Murderbot Diaries",
+      "reading_section": "Murderbot Diaries",
+      "reading_section_order": 1,
+      "reading_position": "2"
     },
     {
       "id": "book-045",
@@ -1539,7 +1715,11 @@
       "edition_status": "catalog-match",
       "notes": "",
       "primary_category": "Science fiction",
-      "fiction_or_nonfiction": "Fiction"
+      "fiction_or_nonfiction": "Fiction",
+      "reading_family": "Murderbot Diaries",
+      "reading_section": "Murderbot Diaries",
+      "reading_section_order": 1,
+      "reading_position": "1"
     },
     {
       "id": "book-046",
@@ -1574,7 +1754,11 @@
       "edition_status": "catalog-match",
       "notes": "",
       "primary_category": "Thrillers, espionage & mystery",
-      "fiction_or_nonfiction": "Fiction"
+      "fiction_or_nonfiction": "Fiction",
+      "reading_family": "Orphan X",
+      "reading_section": "Orphan X",
+      "reading_section_order": 1,
+      "reading_position": "2"
     },
     {
       "id": "book-047",
@@ -1609,7 +1793,11 @@
       "edition_status": "catalog-match",
       "notes": "",
       "primary_category": "Science fiction",
-      "fiction_or_nonfiction": "Fiction"
+      "fiction_or_nonfiction": "Fiction",
+      "reading_family": "Expeditionary Force",
+      "reading_section": "Main series",
+      "reading_section_order": 1,
+      "reading_position": "18"
     },
     {
       "id": "book-048",
@@ -1644,7 +1832,11 @@
       "edition_status": "catalog-match",
       "notes": "",
       "primary_category": "Science fiction",
-      "fiction_or_nonfiction": "Fiction"
+      "fiction_or_nonfiction": "Fiction",
+      "reading_family": "The Expanse",
+      "reading_section": "The Expanse",
+      "reading_section_order": 1,
+      "reading_position": "8"
     },
     {
       "id": "book-049",
@@ -1679,7 +1871,11 @@
       "edition_status": "catalog-match",
       "notes": "",
       "primary_category": "Science fiction",
-      "fiction_or_nonfiction": "Fiction"
+      "fiction_or_nonfiction": "Fiction",
+      "reading_family": "Bobiverse",
+      "reading_section": "Bobiverse",
+      "reading_section_order": 1,
+      "reading_position": "4"
     },
     {
       "id": "book-050",
@@ -1714,7 +1910,11 @@
       "edition_status": "catalog-match",
       "notes": "",
       "primary_category": "Thrillers, espionage & mystery",
-      "fiction_or_nonfiction": "Fiction"
+      "fiction_or_nonfiction": "Fiction",
+      "reading_family": "Orphan X",
+      "reading_section": "Orphan X",
+      "reading_section_order": 1,
+      "reading_position": "1"
     },
     {
       "id": "book-051",
@@ -1755,7 +1955,11 @@
       "edition_status": "catalog-match",
       "notes": "",
       "primary_category": "Science fiction",
-      "fiction_or_nonfiction": "Fiction"
+      "fiction_or_nonfiction": "Fiction",
+      "reading_family": "Revelation Space universe",
+      "reading_section": "The Prefect Dreyfus Emergencies",
+      "reading_section_order": 4,
+      "reading_position": "1"
     },
     {
       "id": "book-052",
@@ -1790,7 +1994,11 @@
       "edition_status": "catalog-match",
       "notes": "",
       "primary_category": "Thrillers, espionage & mystery",
-      "fiction_or_nonfiction": "Fiction"
+      "fiction_or_nonfiction": "Fiction",
+      "reading_family": "The Terminal List",
+      "reading_section": "The Terminal List",
+      "reading_section_order": 1,
+      "reading_position": "7"
     },
     {
       "id": "book-053",
@@ -1819,7 +2027,11 @@
       "edition_status": "catalog-match",
       "notes": "",
       "primary_category": "Parenting & relationships",
-      "fiction_or_nonfiction": "Nonfiction"
+      "fiction_or_nonfiction": "Nonfiction",
+      "reading_family": "Nonfiction — health, parenting and relationships",
+      "reading_section": "Standalone titles",
+      "reading_section_order": 1,
+      "reading_position": ""
     },
     {
       "id": "book-054",
@@ -1854,7 +2066,11 @@
       "edition_status": "catalog-match",
       "notes": "",
       "primary_category": "Thrillers, espionage & mystery",
-      "fiction_or_nonfiction": "Fiction"
+      "fiction_or_nonfiction": "Fiction",
+      "reading_family": "The Terminal List",
+      "reading_section": "The Terminal List",
+      "reading_section_order": 1,
+      "reading_position": "6"
     },
     {
       "id": "book-055",
@@ -1889,7 +2105,11 @@
       "edition_status": "catalog-match",
       "notes": "",
       "primary_category": "Thrillers, espionage & mystery",
-      "fiction_or_nonfiction": "Fiction"
+      "fiction_or_nonfiction": "Fiction",
+      "reading_family": "The Terminal List",
+      "reading_section": "The Terminal List",
+      "reading_section_order": 1,
+      "reading_position": "5"
     },
     {
       "id": "book-056",
@@ -1924,7 +2144,11 @@
       "edition_status": "catalog-match",
       "notes": "",
       "primary_category": "Thrillers, espionage & mystery",
-      "fiction_or_nonfiction": "Fiction"
+      "fiction_or_nonfiction": "Fiction",
+      "reading_family": "The Terminal List",
+      "reading_section": "The Terminal List",
+      "reading_section_order": 1,
+      "reading_position": "4"
     },
     {
       "id": "book-057",
@@ -1952,7 +2176,11 @@
       "edition_status": "catalog-match",
       "notes": "",
       "primary_category": "History, military & politics",
-      "fiction_or_nonfiction": "Nonfiction"
+      "fiction_or_nonfiction": "Nonfiction",
+      "reading_family": "Nonfiction — history, war and politics",
+      "reading_section": "Standalone titles",
+      "reading_section_order": 1,
+      "reading_position": ""
     },
     {
       "id": "book-058",
@@ -1987,7 +2215,11 @@
       "edition_status": "catalog-match",
       "notes": "",
       "primary_category": "Thrillers, espionage & mystery",
-      "fiction_or_nonfiction": "Fiction"
+      "fiction_or_nonfiction": "Fiction",
+      "reading_family": "The Terminal List",
+      "reading_section": "The Terminal List",
+      "reading_section_order": 1,
+      "reading_position": "3"
     },
     {
       "id": "book-059",
@@ -2022,7 +2254,11 @@
       "edition_status": "catalog-match",
       "notes": "",
       "primary_category": "Thrillers, espionage & mystery",
-      "fiction_or_nonfiction": "Fiction"
+      "fiction_or_nonfiction": "Fiction",
+      "reading_family": "The Terminal List",
+      "reading_section": "The Terminal List",
+      "reading_section_order": 1,
+      "reading_position": "2"
     },
     {
       "id": "book-060",
@@ -2060,7 +2296,11 @@
       "edition_status": "catalog-match",
       "notes": "Abridged Fagles translation with Bernard Knox introduction; 8h 44m in the recording matches this edition.",
       "primary_category": "Literary classics & mythology",
-      "fiction_or_nonfiction": "Fiction"
+      "fiction_or_nonfiction": "Fiction",
+      "reading_family": "Iliad & Odyssey",
+      "reading_section": "Iliad & Odyssey",
+      "reading_section_order": 1,
+      "reading_position": "1"
     },
     {
       "id": "book-061",
@@ -2095,7 +2335,11 @@
       "edition_status": "catalog-match",
       "notes": "Original cover matched to the Sean Mangan edition, rather than the newer edition with an additional narrator.",
       "primary_category": "Thrillers, espionage & mystery",
-      "fiction_or_nonfiction": "Fiction"
+      "fiction_or_nonfiction": "Fiction",
+      "reading_family": "Alex Hunter",
+      "reading_section": "Alex Hunter",
+      "reading_section_order": 1,
+      "reading_position": "1"
     },
     {
       "id": "book-062",
@@ -2124,7 +2368,11 @@
       "edition_status": "catalog-match",
       "notes": "",
       "primary_category": "Science fiction",
-      "fiction_or_nonfiction": "Fiction"
+      "fiction_or_nonfiction": "Fiction",
+      "reading_family": "Fiction — science fiction and thrillers",
+      "reading_section": "Standalone titles",
+      "reading_section_order": 1,
+      "reading_position": ""
     },
     {
       "id": "book-063",
@@ -2152,7 +2400,11 @@
       "edition_status": "catalog-match",
       "notes": "",
       "primary_category": "Science fiction",
-      "fiction_or_nonfiction": "Fiction"
+      "fiction_or_nonfiction": "Fiction",
+      "reading_family": "Fiction — science fiction and thrillers",
+      "reading_section": "Standalone titles",
+      "reading_section_order": 1,
+      "reading_position": ""
     },
     {
       "id": "book-064",
@@ -2180,7 +2432,11 @@
       "edition_status": "catalog-match",
       "notes": "",
       "primary_category": "Science fiction",
-      "fiction_or_nonfiction": "Fiction"
+      "fiction_or_nonfiction": "Fiction",
+      "reading_family": "Fiction — science fiction and thrillers",
+      "reading_section": "Standalone titles",
+      "reading_section_order": 1,
+      "reading_position": ""
     },
     {
       "id": "book-065",
@@ -2215,7 +2471,11 @@
       "edition_status": "catalog-match",
       "notes": "",
       "primary_category": "Science fiction",
-      "fiction_or_nonfiction": "Fiction"
+      "fiction_or_nonfiction": "Fiction",
+      "reading_family": "E-Day Trilogy",
+      "reading_section": "E-Day Trilogy",
+      "reading_section_order": 1,
+      "reading_position": "1"
     },
     {
       "id": "book-066",
@@ -2250,7 +2510,11 @@
       "edition_status": "catalog-match",
       "notes": "",
       "primary_category": "Science fiction",
-      "fiction_or_nonfiction": "Fiction"
+      "fiction_or_nonfiction": "Fiction",
+      "reading_family": "Expeditionary Force",
+      "reading_section": "Main series",
+      "reading_section_order": 1,
+      "reading_position": "17"
     },
     {
       "id": "book-067",
@@ -2285,7 +2549,11 @@
       "edition_status": "catalog-match",
       "notes": "",
       "primary_category": "Science fiction",
-      "fiction_or_nonfiction": "Fiction"
+      "fiction_or_nonfiction": "Fiction",
+      "reading_family": "Bobiverse",
+      "reading_section": "Bobiverse",
+      "reading_section_order": 1,
+      "reading_position": "5"
     },
     {
       "id": "book-068",
@@ -2320,7 +2588,11 @@
       "edition_status": "catalog-match",
       "notes": "",
       "primary_category": "Science fiction",
-      "fiction_or_nonfiction": "Fiction"
+      "fiction_or_nonfiction": "Fiction",
+      "reading_family": "Red Rising",
+      "reading_section": "Sequel saga",
+      "reading_section_order": 2,
+      "reading_position": "3"
     },
     {
       "id": "book-069",
@@ -2355,7 +2627,11 @@
       "edition_status": "catalog-match",
       "notes": "",
       "primary_category": "History, military & politics",
-      "fiction_or_nonfiction": "Nonfiction"
+      "fiction_or_nonfiction": "Nonfiction",
+      "reading_family": "Churchill's WWII",
+      "reading_section": "Churchill's WWII",
+      "reading_section_order": 1,
+      "reading_position": "4"
     },
     {
       "id": "book-070",
@@ -2383,7 +2659,11 @@
       "edition_status": "catalog-match",
       "notes": "",
       "primary_category": "History, military & politics",
-      "fiction_or_nonfiction": "Nonfiction"
+      "fiction_or_nonfiction": "Nonfiction",
+      "reading_family": "Nonfiction — history, war and politics",
+      "reading_section": "Standalone titles",
+      "reading_section_order": 1,
+      "reading_position": ""
     },
     {
       "id": "book-071",
@@ -2418,7 +2698,11 @@
       "edition_status": "catalog-match",
       "notes": "",
       "primary_category": "Thrillers, espionage & mystery",
-      "fiction_or_nonfiction": "Fiction"
+      "fiction_or_nonfiction": "Fiction",
+      "reading_family": "The Terminal List",
+      "reading_section": "The Terminal List",
+      "reading_section_order": 1,
+      "reading_position": "1"
     },
     {
       "id": "book-072",
@@ -2453,7 +2737,11 @@
       "edition_status": "catalog-match",
       "notes": "",
       "primary_category": "History, military & politics",
-      "fiction_or_nonfiction": "Nonfiction"
+      "fiction_or_nonfiction": "Nonfiction",
+      "reading_family": "Churchill's WWII",
+      "reading_section": "Churchill's WWII",
+      "reading_section_order": 1,
+      "reading_position": "3"
     },
     {
       "id": "book-073",
@@ -2488,7 +2776,11 @@
       "edition_status": "catalog-match",
       "notes": "",
       "primary_category": "History, military & politics",
-      "fiction_or_nonfiction": "Nonfiction"
+      "fiction_or_nonfiction": "Nonfiction",
+      "reading_family": "Churchill's WWII",
+      "reading_section": "Churchill's WWII",
+      "reading_section_order": 1,
+      "reading_position": "2"
     },
     {
       "id": "book-074",
@@ -2523,7 +2815,11 @@
       "edition_status": "catalog-match",
       "notes": "",
       "primary_category": "History, military & politics",
-      "fiction_or_nonfiction": "Nonfiction"
+      "fiction_or_nonfiction": "Nonfiction",
+      "reading_family": "Churchill's WWII",
+      "reading_section": "Churchill's WWII",
+      "reading_section_order": 1,
+      "reading_position": "1"
     },
     {
       "id": "book-075",
@@ -2558,7 +2854,11 @@
       "edition_status": "catalog-match",
       "notes": "",
       "primary_category": "Science fiction",
-      "fiction_or_nonfiction": "Fiction"
+      "fiction_or_nonfiction": "Fiction",
+      "reading_family": "The Final Architecture",
+      "reading_section": "The Final Architecture",
+      "reading_section_order": 1,
+      "reading_position": "1"
     },
     {
       "id": "book-076",
@@ -2593,7 +2893,11 @@
       "edition_status": "catalog-match",
       "notes": "",
       "primary_category": "Science fiction",
-      "fiction_or_nonfiction": "Fiction"
+      "fiction_or_nonfiction": "Fiction",
+      "reading_family": "Green Zone War",
+      "reading_section": "Green Zone War",
+      "reading_section_order": 1,
+      "reading_position": "1"
     },
     {
       "id": "book-077",
@@ -2628,7 +2932,11 @@
       "edition_status": "catalog-match",
       "notes": "",
       "primary_category": "Fantasy",
-      "fiction_or_nonfiction": "Fiction"
+      "fiction_or_nonfiction": "Fiction",
+      "reading_family": "Convergence",
+      "reading_section": "Convergence",
+      "reading_section_order": 1,
+      "reading_position": "4"
     },
     {
       "id": "book-078",
@@ -2663,7 +2971,11 @@
       "edition_status": "catalog-match",
       "notes": "",
       "primary_category": "Science fiction",
-      "fiction_or_nonfiction": "Fiction"
+      "fiction_or_nonfiction": "Fiction",
+      "reading_family": "Revelation Space universe",
+      "reading_section": "Companion novels and collections",
+      "reading_section_order": 3,
+      "reading_position": "2"
     },
     {
       "id": "book-079",
@@ -2698,7 +3010,11 @@
       "edition_status": "catalog-match",
       "notes": "",
       "primary_category": "Science fiction",
-      "fiction_or_nonfiction": "Fiction"
+      "fiction_or_nonfiction": "Fiction",
+      "reading_family": "Revelation Space universe",
+      "reading_section": "The Prefect Dreyfus Emergencies",
+      "reading_section_order": 4,
+      "reading_position": "3"
     },
     {
       "id": "book-080",
@@ -2734,7 +3050,11 @@
       "edition_status": "catalog-match",
       "notes": "",
       "primary_category": "Literary classics & mythology",
-      "fiction_or_nonfiction": "Fiction"
+      "fiction_or_nonfiction": "Fiction",
+      "reading_family": "D'Artagnan: The Musketeers Cycle",
+      "reading_section": "D'Artagnan: The Musketeers Cycle",
+      "reading_section_order": 1,
+      "reading_position": "1"
     },
     {
       "id": "book-081",
@@ -2762,7 +3082,11 @@
       "edition_status": "catalog-match",
       "notes": "",
       "primary_category": "History, military & politics",
-      "fiction_or_nonfiction": "Nonfiction"
+      "fiction_or_nonfiction": "Nonfiction",
+      "reading_family": "A History of the English-Speaking Peoples",
+      "reading_section": "A History of the English-Speaking Peoples",
+      "reading_section_order": 1,
+      "reading_position": "4"
     },
     {
       "id": "book-082",
@@ -2790,7 +3114,11 @@
       "edition_status": "catalog-match",
       "notes": "",
       "primary_category": "History, military & politics",
-      "fiction_or_nonfiction": "Nonfiction"
+      "fiction_or_nonfiction": "Nonfiction",
+      "reading_family": "The World Crisis",
+      "reading_section": "The World Crisis",
+      "reading_section_order": 1,
+      "reading_position": "1"
     },
     {
       "id": "book-083",
@@ -2818,7 +3146,11 @@
       "edition_status": "catalog-match",
       "notes": "",
       "primary_category": "History, military & politics",
-      "fiction_or_nonfiction": "Nonfiction"
+      "fiction_or_nonfiction": "Nonfiction",
+      "reading_family": "A History of the English-Speaking Peoples",
+      "reading_section": "A History of the English-Speaking Peoples",
+      "reading_section_order": 1,
+      "reading_position": "1"
     },
     {
       "id": "book-084",
@@ -2846,7 +3178,11 @@
       "edition_status": "catalog-match",
       "notes": "",
       "primary_category": "History, military & politics",
-      "fiction_or_nonfiction": "Nonfiction"
+      "fiction_or_nonfiction": "Nonfiction",
+      "reading_family": "A History of the English-Speaking Peoples",
+      "reading_section": "A History of the English-Speaking Peoples",
+      "reading_section_order": 1,
+      "reading_position": "3"
     },
     {
       "id": "book-085",
@@ -2881,7 +3217,11 @@
       "edition_status": "catalog-match",
       "notes": "",
       "primary_category": "Thrillers, espionage & mystery",
-      "fiction_or_nonfiction": "Fiction"
+      "fiction_or_nonfiction": "Fiction",
+      "reading_family": "Gray Man",
+      "reading_section": "Gray Man",
+      "reading_section_order": 1,
+      "reading_position": "13"
     },
     {
       "id": "book-086",
@@ -2909,7 +3249,11 @@
       "edition_status": "catalog-match",
       "notes": "",
       "primary_category": "History, military & politics",
-      "fiction_or_nonfiction": "Nonfiction"
+      "fiction_or_nonfiction": "Nonfiction",
+      "reading_family": "A History of the English-Speaking Peoples",
+      "reading_section": "A History of the English-Speaking Peoples",
+      "reading_section_order": 1,
+      "reading_position": "2"
     },
     {
       "id": "book-087",
@@ -2937,7 +3281,11 @@
       "edition_status": "catalog-match",
       "notes": "",
       "primary_category": "Biography, memoir & personal essays",
-      "fiction_or_nonfiction": "Nonfiction"
+      "fiction_or_nonfiction": "Nonfiction",
+      "reading_family": "Nonfiction — biography, memoir and essays",
+      "reading_section": "Standalone titles",
+      "reading_section_order": 1,
+      "reading_position": ""
     },
     {
       "id": "book-088",
@@ -2965,7 +3313,11 @@
       "edition_status": "catalog-match",
       "notes": "",
       "primary_category": "History, military & politics",
-      "fiction_or_nonfiction": "Nonfiction"
+      "fiction_or_nonfiction": "Nonfiction",
+      "reading_family": "Nonfiction — history, war and politics",
+      "reading_section": "Standalone titles",
+      "reading_section_order": 1,
+      "reading_position": ""
     },
     {
       "id": "book-089",
@@ -2994,7 +3346,11 @@
       "edition_status": "catalog-match",
       "notes": "",
       "primary_category": "Business, leadership & productivity",
-      "fiction_or_nonfiction": "Nonfiction"
+      "fiction_or_nonfiction": "Nonfiction",
+      "reading_family": "Nonfiction — business, leadership and productivity",
+      "reading_section": "Standalone titles",
+      "reading_section_order": 1,
+      "reading_position": ""
     },
     {
       "id": "book-090",
@@ -3029,7 +3385,11 @@
       "edition_status": "catalog-match",
       "notes": "",
       "primary_category": "Science fiction",
-      "fiction_or_nonfiction": "Fiction"
+      "fiction_or_nonfiction": "Fiction",
+      "reading_family": "Black Fleet Saga",
+      "reading_section": "The Unification War Trilogy",
+      "reading_section_order": 3,
+      "reading_position": "3"
     },
     {
       "id": "book-091",
@@ -3064,7 +3424,11 @@
       "edition_status": "catalog-match",
       "notes": "",
       "primary_category": "Science fiction",
-      "fiction_or_nonfiction": "Fiction"
+      "fiction_or_nonfiction": "Fiction",
+      "reading_family": "Black Fleet Saga",
+      "reading_section": "The Unification War Trilogy",
+      "reading_section_order": 3,
+      "reading_position": "2"
     },
     {
       "id": "book-092",
@@ -3099,7 +3463,11 @@
       "edition_status": "catalog-match",
       "notes": "",
       "primary_category": "Science fiction",
-      "fiction_or_nonfiction": "Fiction"
+      "fiction_or_nonfiction": "Fiction",
+      "reading_family": "Black Fleet Saga",
+      "reading_section": "The Unification War Trilogy",
+      "reading_section_order": 3,
+      "reading_position": "1"
     },
     {
       "id": "book-093",
@@ -3134,7 +3502,11 @@
       "edition_status": "catalog-match",
       "notes": "",
       "primary_category": "Science fiction",
-      "fiction_or_nonfiction": "Fiction"
+      "fiction_or_nonfiction": "Fiction",
+      "reading_family": "Black Fleet Saga",
+      "reading_section": "The Expansion Wars Trilogy",
+      "reading_section_order": 2,
+      "reading_position": "3"
     },
     {
       "id": "book-094",
@@ -3169,7 +3541,11 @@
       "edition_status": "catalog-match",
       "notes": "",
       "primary_category": "Science fiction",
-      "fiction_or_nonfiction": "Fiction"
+      "fiction_or_nonfiction": "Fiction",
+      "reading_family": "Black Fleet Saga",
+      "reading_section": "The Expansion Wars Trilogy",
+      "reading_section_order": 2,
+      "reading_position": "2"
     },
     {
       "id": "book-095",
@@ -3204,7 +3580,11 @@
       "edition_status": "catalog-match",
       "notes": "",
       "primary_category": "Science fiction",
-      "fiction_or_nonfiction": "Fiction"
+      "fiction_or_nonfiction": "Fiction",
+      "reading_family": "Black Fleet Saga",
+      "reading_section": "The Expansion Wars Trilogy",
+      "reading_section_order": 2,
+      "reading_position": "1"
     },
     {
       "id": "book-096",
@@ -3239,7 +3619,11 @@
       "edition_status": "catalog-match",
       "notes": "",
       "primary_category": "Science fiction",
-      "fiction_or_nonfiction": "Fiction"
+      "fiction_or_nonfiction": "Fiction",
+      "reading_family": "Black Fleet Saga",
+      "reading_section": "Black Fleet Trilogy",
+      "reading_section_order": 1,
+      "reading_position": "3"
     },
     {
       "id": "book-097",
@@ -3274,7 +3658,11 @@
       "edition_status": "catalog-match",
       "notes": "",
       "primary_category": "Science fiction",
-      "fiction_or_nonfiction": "Fiction"
+      "fiction_or_nonfiction": "Fiction",
+      "reading_family": "Black Fleet Saga",
+      "reading_section": "Black Fleet Trilogy",
+      "reading_section_order": 1,
+      "reading_position": "2"
     },
     {
       "id": "book-098",
@@ -3309,7 +3697,11 @@
       "edition_status": "catalog-match",
       "notes": "",
       "primary_category": "Science fiction",
-      "fiction_or_nonfiction": "Fiction"
+      "fiction_or_nonfiction": "Fiction",
+      "reading_family": "Black Fleet Saga",
+      "reading_section": "Black Fleet Trilogy",
+      "reading_section_order": 1,
+      "reading_position": "1"
     },
     {
       "id": "book-099",
@@ -3344,7 +3736,11 @@
       "edition_status": "catalog-match",
       "notes": "",
       "primary_category": "Science fiction",
-      "fiction_or_nonfiction": "Fiction"
+      "fiction_or_nonfiction": "Fiction",
+      "reading_family": "Expeditionary Force",
+      "reading_section": "Main series",
+      "reading_section_order": 1,
+      "reading_position": "16"
     },
     {
       "id": "book-100",
@@ -3380,7 +3776,11 @@
       "edition_status": "catalog-match",
       "notes": "",
       "primary_category": "Science fiction",
-      "fiction_or_nonfiction": "Fiction"
+      "fiction_or_nonfiction": "Fiction",
+      "reading_family": "Galaxy's Edge",
+      "reading_section": "Galaxy's Edge",
+      "reading_section_order": 1,
+      "reading_position": "1-2"
     },
     {
       "id": "book-101",
@@ -3408,7 +3808,11 @@
       "edition_status": "catalog-match",
       "notes": "",
       "primary_category": "Biography, memoir & personal essays",
-      "fiction_or_nonfiction": "Nonfiction"
+      "fiction_or_nonfiction": "Nonfiction",
+      "reading_family": "Nonfiction — biography, memoir and essays",
+      "reading_section": "Standalone titles",
+      "reading_section_order": 1,
+      "reading_position": ""
     },
     {
       "id": "book-102",
@@ -3436,7 +3840,11 @@
       "edition_status": "catalog-match",
       "notes": "",
       "primary_category": "Biography, memoir & personal essays",
-      "fiction_or_nonfiction": "Nonfiction"
+      "fiction_or_nonfiction": "Nonfiction",
+      "reading_family": "Nonfiction — biography, memoir and essays",
+      "reading_section": "Standalone titles",
+      "reading_section_order": 1,
+      "reading_position": ""
     },
     {
       "id": "book-103",
@@ -3464,7 +3872,11 @@
       "edition_status": "catalog-match",
       "notes": "",
       "primary_category": "Biography, memoir & personal essays",
-      "fiction_or_nonfiction": "Nonfiction"
+      "fiction_or_nonfiction": "Nonfiction",
+      "reading_family": "Nonfiction — biography, memoir and essays",
+      "reading_section": "Standalone titles",
+      "reading_section_order": 1,
+      "reading_position": ""
     },
     {
       "id": "book-104",
@@ -3492,7 +3904,11 @@
       "edition_status": "catalog-match",
       "notes": "",
       "primary_category": "Biography, memoir & personal essays",
-      "fiction_or_nonfiction": "Nonfiction"
+      "fiction_or_nonfiction": "Nonfiction",
+      "reading_family": "Nonfiction — biography, memoir and essays",
+      "reading_section": "Standalone titles",
+      "reading_section_order": 1,
+      "reading_position": ""
     },
     {
       "id": "book-105",
@@ -3520,7 +3936,11 @@
       "edition_status": "catalog-match",
       "notes": "",
       "primary_category": "Biography, memoir & personal essays",
-      "fiction_or_nonfiction": "Nonfiction"
+      "fiction_or_nonfiction": "Nonfiction",
+      "reading_family": "Nonfiction — biography, memoir and essays",
+      "reading_section": "Standalone titles",
+      "reading_section_order": 1,
+      "reading_position": ""
     },
     {
       "id": "book-106",
@@ -3548,7 +3968,11 @@
       "edition_status": "catalog-match",
       "notes": "",
       "primary_category": "Society & culture",
-      "fiction_or_nonfiction": "Nonfiction"
+      "fiction_or_nonfiction": "Nonfiction",
+      "reading_family": "Nonfiction — education, society and culture",
+      "reading_section": "Standalone titles",
+      "reading_section_order": 1,
+      "reading_position": ""
     },
     {
       "id": "book-107",
@@ -3583,7 +4007,11 @@
       "edition_status": "catalog-match",
       "notes": "",
       "primary_category": "Fantasy",
-      "fiction_or_nonfiction": "Fiction"
+      "fiction_or_nonfiction": "Fiction",
+      "reading_family": "The Age of Madness",
+      "reading_section": "The Age of Madness",
+      "reading_section_order": 1,
+      "reading_position": "1"
     },
     {
       "id": "book-108",
@@ -3618,7 +4046,11 @@
       "edition_status": "catalog-match",
       "notes": "",
       "primary_category": "History, military & politics",
-      "fiction_or_nonfiction": "Nonfiction"
+      "fiction_or_nonfiction": "Nonfiction",
+      "reading_family": "Richard Rhodes' Nuclear Histories",
+      "reading_section": "Richard Rhodes' Nuclear Histories",
+      "reading_section_order": 1,
+      "reading_position": ""
     },
     {
       "id": "book-109",
@@ -3654,7 +4086,11 @@
       "edition_status": "catalog-match",
       "notes": "",
       "primary_category": "Science fiction",
-      "fiction_or_nonfiction": "Fiction"
+      "fiction_or_nonfiction": "Fiction",
+      "reading_family": "Backyard Starship",
+      "reading_section": "Backyard Starship",
+      "reading_section_order": 1,
+      "reading_position": "1"
     },
     {
       "id": "book-110",
@@ -3682,7 +4118,11 @@
       "edition_status": "catalog-match",
       "notes": "",
       "primary_category": "Health, nutrition & fitness",
-      "fiction_or_nonfiction": "Nonfiction"
+      "fiction_or_nonfiction": "Nonfiction",
+      "reading_family": "Nonfiction — health, parenting and relationships",
+      "reading_section": "Standalone titles",
+      "reading_section_order": 1,
+      "reading_position": ""
     },
     {
       "id": "book-111",
@@ -3717,7 +4157,11 @@
       "edition_status": "catalog-match",
       "notes": "",
       "primary_category": "Thrillers, espionage & mystery",
-      "fiction_or_nonfiction": "Fiction"
+      "fiction_or_nonfiction": "Fiction",
+      "reading_family": "Gray Man",
+      "reading_section": "Gray Man",
+      "reading_section_order": 1,
+      "reading_position": "11"
     },
     {
       "id": "book-112",
@@ -3746,7 +4190,11 @@
       "edition_status": "catalog-match",
       "notes": "",
       "primary_category": "Educational — science, data & learning",
-      "fiction_or_nonfiction": "Nonfiction"
+      "fiction_or_nonfiction": "Nonfiction",
+      "reading_family": "Nonfiction — education, society and culture",
+      "reading_section": "Standalone titles",
+      "reading_section_order": 1,
+      "reading_position": ""
     },
     {
       "id": "book-113",
@@ -3774,7 +4222,11 @@
       "edition_status": "catalog-match",
       "notes": "",
       "primary_category": "Personal development & psychology",
-      "fiction_or_nonfiction": "Nonfiction"
+      "fiction_or_nonfiction": "Nonfiction",
+      "reading_family": "Nonfiction — business, leadership and productivity",
+      "reading_section": "Standalone titles",
+      "reading_section_order": 1,
+      "reading_position": ""
     },
     {
       "id": "book-114",
@@ -3809,7 +4261,11 @@
       "edition_status": "catalog-match",
       "notes": "",
       "primary_category": "Thrillers, espionage & mystery",
-      "fiction_or_nonfiction": "Fiction"
+      "fiction_or_nonfiction": "Fiction",
+      "reading_family": "Gray Man",
+      "reading_section": "Gray Man",
+      "reading_section_order": 1,
+      "reading_position": "10"
     },
     {
       "id": "book-115",
@@ -3844,7 +4300,11 @@
       "edition_status": "catalog-match",
       "notes": "",
       "primary_category": "Fantasy",
-      "fiction_or_nonfiction": "Fiction"
+      "fiction_or_nonfiction": "Fiction",
+      "reading_family": "Convergence",
+      "reading_section": "Convergence",
+      "reading_section_order": 1,
+      "reading_position": "2"
     },
     {
       "id": "book-116",
@@ -3879,7 +4339,11 @@
       "edition_status": "catalog-match",
       "notes": "",
       "primary_category": "Thrillers, espionage & mystery",
-      "fiction_or_nonfiction": "Fiction"
+      "fiction_or_nonfiction": "Fiction",
+      "reading_family": "Gray Man",
+      "reading_section": "Gray Man",
+      "reading_section_order": 1,
+      "reading_position": "9"
     },
     {
       "id": "book-117",
@@ -3914,7 +4378,11 @@
       "edition_status": "catalog-match",
       "notes": "",
       "primary_category": "Science fiction",
-      "fiction_or_nonfiction": "Fiction"
+      "fiction_or_nonfiction": "Fiction",
+      "reading_family": "Freedom's Fire",
+      "reading_section": "Freedom's Fire",
+      "reading_section_order": 1,
+      "reading_position": "1-6"
     },
     {
       "id": "book-118",
@@ -3949,7 +4417,11 @@
       "edition_status": "catalog-match",
       "notes": "",
       "primary_category": "Thrillers, espionage & mystery",
-      "fiction_or_nonfiction": "Fiction"
+      "fiction_or_nonfiction": "Fiction",
+      "reading_family": "Gray Man",
+      "reading_section": "Gray Man",
+      "reading_section_order": 1,
+      "reading_position": "8"
     },
     {
       "id": "book-119",
@@ -3984,7 +4456,11 @@
       "edition_status": "catalog-match",
       "notes": "",
       "primary_category": "Thrillers, espionage & mystery",
-      "fiction_or_nonfiction": "Fiction"
+      "fiction_or_nonfiction": "Fiction",
+      "reading_family": "Gray Man",
+      "reading_section": "Gray Man",
+      "reading_section_order": 1,
+      "reading_position": "7"
     },
     {
       "id": "book-120",
@@ -4019,7 +4495,11 @@
       "edition_status": "catalog-match",
       "notes": "",
       "primary_category": "Thrillers, espionage & mystery",
-      "fiction_or_nonfiction": "Fiction"
+      "fiction_or_nonfiction": "Fiction",
+      "reading_family": "Gray Man",
+      "reading_section": "Gray Man",
+      "reading_section_order": 1,
+      "reading_position": "6"
     },
     {
       "id": "book-121",
@@ -4054,7 +4534,11 @@
       "edition_status": "catalog-match",
       "notes": "",
       "primary_category": "Thrillers, espionage & mystery",
-      "fiction_or_nonfiction": "Fiction"
+      "fiction_or_nonfiction": "Fiction",
+      "reading_family": "Gray Man",
+      "reading_section": "Gray Man",
+      "reading_section_order": 1,
+      "reading_position": "5"
     },
     {
       "id": "book-122",
@@ -4089,7 +4573,11 @@
       "edition_status": "catalog-match",
       "notes": "",
       "primary_category": "Thrillers, espionage & mystery",
-      "fiction_or_nonfiction": "Fiction"
+      "fiction_or_nonfiction": "Fiction",
+      "reading_family": "Gray Man",
+      "reading_section": "Gray Man",
+      "reading_section_order": 1,
+      "reading_position": "4"
     },
     {
       "id": "book-123",
@@ -4124,7 +4612,11 @@
       "edition_status": "catalog-match",
       "notes": "",
       "primary_category": "Science fiction",
-      "fiction_or_nonfiction": "Fiction"
+      "fiction_or_nonfiction": "Fiction",
+      "reading_family": "The Earthburst Saga",
+      "reading_section": "The Earthburst Saga",
+      "reading_section_order": 1,
+      "reading_position": "3"
     },
     {
       "id": "book-124",
@@ -4159,7 +4651,11 @@
       "edition_status": "catalog-match",
       "notes": "",
       "primary_category": "Thrillers, espionage & mystery",
-      "fiction_or_nonfiction": "Fiction"
+      "fiction_or_nonfiction": "Fiction",
+      "reading_family": "Gray Man",
+      "reading_section": "Gray Man",
+      "reading_section_order": 1,
+      "reading_position": "3"
     },
     {
       "id": "book-125",
@@ -4194,7 +4690,11 @@
       "edition_status": "catalog-match",
       "notes": "",
       "primary_category": "Thrillers, espionage & mystery",
-      "fiction_or_nonfiction": "Fiction"
+      "fiction_or_nonfiction": "Fiction",
+      "reading_family": "Gray Man",
+      "reading_section": "Gray Man",
+      "reading_section_order": 1,
+      "reading_position": "2"
     },
     {
       "id": "book-126",
@@ -4229,7 +4729,11 @@
       "edition_status": "catalog-match",
       "notes": "",
       "primary_category": "Thrillers, espionage & mystery",
-      "fiction_or_nonfiction": "Fiction"
+      "fiction_or_nonfiction": "Fiction",
+      "reading_family": "Gray Man",
+      "reading_section": "Gray Man",
+      "reading_section_order": 1,
+      "reading_position": "1"
     },
     {
       "id": "book-127",
@@ -4264,7 +4768,11 @@
       "edition_status": "catalog-match",
       "notes": "",
       "primary_category": "Science fiction",
-      "fiction_or_nonfiction": "Fiction"
+      "fiction_or_nonfiction": "Fiction",
+      "reading_family": "The Earthburst Saga",
+      "reading_section": "The Earthburst Saga",
+      "reading_section_order": 1,
+      "reading_position": "2"
     },
     {
       "id": "book-128",
@@ -4299,7 +4807,11 @@
       "edition_status": "catalog-match",
       "notes": "",
       "primary_category": "Fantasy",
-      "fiction_or_nonfiction": "Fiction"
+      "fiction_or_nonfiction": "Fiction",
+      "reading_family": "Lightbringer Saga",
+      "reading_section": "Lightbringer Saga",
+      "reading_section_order": 1,
+      "reading_position": "5"
     },
     {
       "id": "book-129",
@@ -4334,7 +4846,11 @@
       "edition_status": "catalog-match",
       "notes": "",
       "primary_category": "Fantasy",
-      "fiction_or_nonfiction": "Fiction"
+      "fiction_or_nonfiction": "Fiction",
+      "reading_family": "Lightbringer Saga",
+      "reading_section": "Lightbringer Saga",
+      "reading_section_order": 1,
+      "reading_position": "4"
     },
     {
       "id": "book-130",
@@ -4369,7 +4885,11 @@
       "edition_status": "catalog-match",
       "notes": "",
       "primary_category": "Fantasy",
-      "fiction_or_nonfiction": "Fiction"
+      "fiction_or_nonfiction": "Fiction",
+      "reading_family": "Lightbringer Saga",
+      "reading_section": "Lightbringer Saga",
+      "reading_section_order": 1,
+      "reading_position": "3"
     },
     {
       "id": "book-131",
@@ -4404,7 +4924,11 @@
       "edition_status": "catalog-match",
       "notes": "",
       "primary_category": "Fantasy",
-      "fiction_or_nonfiction": "Fiction"
+      "fiction_or_nonfiction": "Fiction",
+      "reading_family": "Lightbringer Saga",
+      "reading_section": "Lightbringer Saga",
+      "reading_section_order": 1,
+      "reading_position": "2"
     },
     {
       "id": "book-132",
@@ -4439,7 +4963,11 @@
       "edition_status": "catalog-match",
       "notes": "",
       "primary_category": "Science fiction",
-      "fiction_or_nonfiction": "Fiction"
+      "fiction_or_nonfiction": "Fiction",
+      "reading_family": "Expeditionary Force",
+      "reading_section": "Main series",
+      "reading_section_order": 1,
+      "reading_position": "15"
     },
     {
       "id": "book-133",
@@ -4474,7 +5002,11 @@
       "edition_status": "catalog-match",
       "notes": "",
       "primary_category": "Fantasy",
-      "fiction_or_nonfiction": "Fiction"
+      "fiction_or_nonfiction": "Fiction",
+      "reading_family": "Lightbringer Saga",
+      "reading_section": "Lightbringer Saga",
+      "reading_section_order": 1,
+      "reading_position": "1"
     },
     {
       "id": "book-134",
@@ -4509,7 +5041,11 @@
       "edition_status": "catalog-match",
       "notes": "",
       "primary_category": "Science fiction",
-      "fiction_or_nonfiction": "Fiction"
+      "fiction_or_nonfiction": "Fiction",
+      "reading_family": "The Earthburst Saga",
+      "reading_section": "The Earthburst Saga",
+      "reading_section_order": 1,
+      "reading_position": "1"
     },
     {
       "id": "book-135",
@@ -4544,7 +5080,11 @@
       "edition_status": "catalog-match",
       "notes": "",
       "primary_category": "Science fiction",
-      "fiction_or_nonfiction": "Fiction"
+      "fiction_or_nonfiction": "Fiction",
+      "reading_family": "Not Alone",
+      "reading_section": "Not Alone",
+      "reading_section_order": 1,
+      "reading_position": "5"
     },
     {
       "id": "book-136",
@@ -4579,7 +5119,11 @@
       "edition_status": "catalog-match",
       "notes": "",
       "primary_category": "Science fiction",
-      "fiction_or_nonfiction": "Fiction"
+      "fiction_or_nonfiction": "Fiction",
+      "reading_family": "Not Alone",
+      "reading_section": "Not Alone",
+      "reading_section_order": 1,
+      "reading_position": "2"
     },
     {
       "id": "book-137",
@@ -4614,7 +5158,11 @@
       "edition_status": "catalog-match",
       "notes": "",
       "primary_category": "Science fiction",
-      "fiction_or_nonfiction": "Fiction"
+      "fiction_or_nonfiction": "Fiction",
+      "reading_family": "Not Alone",
+      "reading_section": "Not Alone",
+      "reading_section_order": 1,
+      "reading_position": "1"
     },
     {
       "id": "book-138",
@@ -4642,7 +5190,11 @@
       "edition_status": "catalog-match",
       "notes": "",
       "primary_category": "Biography, memoir & personal essays",
-      "fiction_or_nonfiction": "Nonfiction"
+      "fiction_or_nonfiction": "Nonfiction",
+      "reading_family": "Nonfiction — biography, memoir and essays",
+      "reading_section": "Standalone titles",
+      "reading_section_order": 1,
+      "reading_position": ""
     },
     {
       "id": "book-139",
@@ -4670,7 +5222,11 @@
       "edition_status": "catalog-match",
       "notes": "",
       "primary_category": "Science fiction",
-      "fiction_or_nonfiction": "Fiction"
+      "fiction_or_nonfiction": "Fiction",
+      "reading_family": "Fiction — science fiction and thrillers",
+      "reading_section": "Standalone titles",
+      "reading_section_order": 1,
+      "reading_position": ""
     },
     {
       "id": "book-140",
@@ -4705,7 +5261,11 @@
       "edition_status": "catalog-match",
       "notes": "",
       "primary_category": "Fantasy",
-      "fiction_or_nonfiction": "Fiction"
+      "fiction_or_nonfiction": "Fiction",
+      "reading_family": "Convergence",
+      "reading_section": "Convergence",
+      "reading_section_order": 1,
+      "reading_position": "1"
     },
     {
       "id": "book-141",
@@ -4733,7 +5293,11 @@
       "edition_status": "catalog-match",
       "notes": "",
       "primary_category": "Science fiction",
-      "fiction_or_nonfiction": "Fiction"
+      "fiction_or_nonfiction": "Fiction",
+      "reading_family": "Fiction — science fiction and thrillers",
+      "reading_section": "Standalone titles",
+      "reading_section_order": 1,
+      "reading_position": ""
     },
     {
       "id": "book-142",
@@ -4770,7 +5334,11 @@
       "edition_status": "catalog-match",
       "notes": "",
       "primary_category": "Business, leadership & productivity",
-      "fiction_or_nonfiction": "Nonfiction"
+      "fiction_or_nonfiction": "Nonfiction",
+      "reading_family": "Extreme Ownership",
+      "reading_section": "Extreme Ownership",
+      "reading_section_order": 1,
+      "reading_position": ""
     },
     {
       "id": "book-143",
@@ -4799,7 +5367,11 @@
       "edition_status": "catalog-match",
       "notes": "",
       "primary_category": "Business, leadership & productivity",
-      "fiction_or_nonfiction": "Nonfiction"
+      "fiction_or_nonfiction": "Nonfiction",
+      "reading_family": "Nonfiction — business, leadership and productivity",
+      "reading_section": "Standalone titles",
+      "reading_section_order": 1,
+      "reading_position": ""
     },
     {
       "id": "book-144",
@@ -4827,7 +5399,11 @@
       "edition_status": "catalog-match",
       "notes": "",
       "primary_category": "Science fiction",
-      "fiction_or_nonfiction": "Fiction"
+      "fiction_or_nonfiction": "Fiction",
+      "reading_family": "Fiction — science fiction and thrillers",
+      "reading_section": "Standalone titles",
+      "reading_section_order": 1,
+      "reading_position": ""
     },
     {
       "id": "book-145",
@@ -4862,7 +5438,11 @@
       "edition_status": "catalog-match",
       "notes": "",
       "primary_category": "Science fiction",
-      "fiction_or_nonfiction": "Fiction"
+      "fiction_or_nonfiction": "Fiction",
+      "reading_family": "Expeditionary Force",
+      "reading_section": "Main series",
+      "reading_section_order": 1,
+      "reading_position": "14"
     },
     {
       "id": "book-146",
@@ -4898,7 +5478,11 @@
       "edition_status": "catalog-match",
       "notes": "",
       "primary_category": "Business, leadership & productivity",
-      "fiction_or_nonfiction": "Nonfiction"
+      "fiction_or_nonfiction": "Nonfiction",
+      "reading_family": "Good to Great",
+      "reading_section": "Good to Great",
+      "reading_section_order": 1,
+      "reading_position": "2"
     },
     {
       "id": "book-147",
@@ -4933,7 +5517,11 @@
       "edition_status": "catalog-match",
       "notes": "",
       "primary_category": "Science fiction",
-      "fiction_or_nonfiction": "Fiction"
+      "fiction_or_nonfiction": "Fiction",
+      "reading_family": "Infinite Timeline",
+      "reading_section": "Infinite Timeline",
+      "reading_section_order": 1,
+      "reading_position": "11"
     },
     {
       "id": "book-148",
@@ -4961,7 +5549,11 @@
       "edition_status": "catalog-match",
       "notes": "",
       "primary_category": "Business, leadership & productivity",
-      "fiction_or_nonfiction": "Nonfiction"
+      "fiction_or_nonfiction": "Nonfiction",
+      "reading_family": "Good to Great",
+      "reading_section": "Good to Great",
+      "reading_section_order": 1,
+      "reading_position": ""
     },
     {
       "id": "book-149",
@@ -4990,7 +5582,11 @@
       "edition_status": "catalog-match",
       "notes": "",
       "primary_category": "Business, leadership & productivity",
-      "fiction_or_nonfiction": "Nonfiction"
+      "fiction_or_nonfiction": "Nonfiction",
+      "reading_family": "Nonfiction — business, leadership and productivity",
+      "reading_section": "Standalone titles",
+      "reading_section_order": 1,
+      "reading_position": ""
     },
     {
       "id": "book-150",
@@ -5018,7 +5614,11 @@
       "edition_status": "current-edition-substitute",
       "notes": "The recording shows Start with Why without an anniversary label. The link and cover use the currently listed 15th Anniversary Edition; the original edition could not be verified.",
       "primary_category": "Business, leadership & productivity",
-      "fiction_or_nonfiction": "Nonfiction"
+      "fiction_or_nonfiction": "Nonfiction",
+      "reading_family": "Start with Why",
+      "reading_section": "Start with Why",
+      "reading_section_order": 1,
+      "reading_position": "1"
     },
     {
       "id": "book-151",
@@ -5053,7 +5653,11 @@
       "edition_status": "catalog-match",
       "notes": "",
       "primary_category": "Science fiction",
-      "fiction_or_nonfiction": "Fiction"
+      "fiction_or_nonfiction": "Fiction",
+      "reading_family": "Planetside",
+      "reading_section": "Planetside",
+      "reading_section_order": 1,
+      "reading_position": "3"
     },
     {
       "id": "book-152",
@@ -5088,7 +5692,11 @@
       "edition_status": "catalog-match",
       "notes": "",
       "primary_category": "Science fiction",
-      "fiction_or_nonfiction": "Fiction"
+      "fiction_or_nonfiction": "Fiction",
+      "reading_family": "Planetside",
+      "reading_section": "Planetside",
+      "reading_section_order": 1,
+      "reading_position": "2"
     },
     {
       "id": "book-153",
@@ -5123,7 +5731,11 @@
       "edition_status": "catalog-match",
       "notes": "",
       "primary_category": "Science fiction",
-      "fiction_or_nonfiction": "Fiction"
+      "fiction_or_nonfiction": "Fiction",
+      "reading_family": "Planetside",
+      "reading_section": "Planetside",
+      "reading_section_order": 1,
+      "reading_position": "1"
     },
     {
       "id": "book-154",
@@ -5158,7 +5770,11 @@
       "edition_status": "catalog-match",
       "notes": "",
       "primary_category": "Science fiction",
-      "fiction_or_nonfiction": "Fiction"
+      "fiction_or_nonfiction": "Fiction",
+      "reading_family": "Infinite Timeline",
+      "reading_section": "Infinite Timeline",
+      "reading_section_order": 1,
+      "reading_position": "10"
     },
     {
       "id": "book-155",
@@ -5193,7 +5809,11 @@
       "edition_status": "catalog-match",
       "notes": "",
       "primary_category": "Science fiction",
-      "fiction_or_nonfiction": "Fiction"
+      "fiction_or_nonfiction": "Fiction",
+      "reading_family": "Infinite Timeline",
+      "reading_section": "Infinite Timeline",
+      "reading_section_order": 1,
+      "reading_position": "1"
     },
     {
       "id": "book-156",
@@ -5228,7 +5848,11 @@
       "edition_status": "catalog-match",
       "notes": "",
       "primary_category": "Science fiction",
-      "fiction_or_nonfiction": "Fiction"
+      "fiction_or_nonfiction": "Fiction",
+      "reading_family": "Infinite Timeline",
+      "reading_section": "Infinite Timeline",
+      "reading_section_order": 1,
+      "reading_position": "8"
     },
     {
       "id": "book-157",
@@ -5265,7 +5889,11 @@
       "edition_status": "catalog-match",
       "notes": "",
       "primary_category": "Science fiction",
-      "fiction_or_nonfiction": "Fiction"
+      "fiction_or_nonfiction": "Fiction",
+      "reading_family": "Old Man's War",
+      "reading_section": "Old Man's War",
+      "reading_section_order": 1,
+      "reading_position": "6"
     },
     {
       "id": "book-158",
@@ -5300,7 +5928,11 @@
       "edition_status": "catalog-match",
       "notes": "",
       "primary_category": "Science fiction",
-      "fiction_or_nonfiction": "Fiction"
+      "fiction_or_nonfiction": "Fiction",
+      "reading_family": "Old Man's War",
+      "reading_section": "Old Man's War",
+      "reading_section_order": 1,
+      "reading_position": "5"
     },
     {
       "id": "book-159",
@@ -5335,7 +5967,11 @@
       "edition_status": "catalog-match",
       "notes": "",
       "primary_category": "Science fiction",
-      "fiction_or_nonfiction": "Fiction"
+      "fiction_or_nonfiction": "Fiction",
+      "reading_family": "Old Man's War",
+      "reading_section": "Old Man's War",
+      "reading_section_order": 1,
+      "reading_position": "4"
     },
     {
       "id": "book-160",
@@ -5370,7 +6006,11 @@
       "edition_status": "catalog-match",
       "notes": "",
       "primary_category": "Science fiction",
-      "fiction_or_nonfiction": "Fiction"
+      "fiction_or_nonfiction": "Fiction",
+      "reading_family": "Old Man's War",
+      "reading_section": "Old Man's War",
+      "reading_section_order": 1,
+      "reading_position": "3"
     },
     {
       "id": "book-161",
@@ -5405,7 +6045,11 @@
       "edition_status": "catalog-match",
       "notes": "",
       "primary_category": "Science fiction",
-      "fiction_or_nonfiction": "Fiction"
+      "fiction_or_nonfiction": "Fiction",
+      "reading_family": "Old Man's War",
+      "reading_section": "Old Man's War",
+      "reading_section_order": 1,
+      "reading_position": "2"
     },
     {
       "id": "book-162",
@@ -5440,7 +6084,11 @@
       "edition_status": "catalog-match",
       "notes": "",
       "primary_category": "Science fiction",
-      "fiction_or_nonfiction": "Fiction"
+      "fiction_or_nonfiction": "Fiction",
+      "reading_family": "The Expanse",
+      "reading_section": "The Expanse",
+      "reading_section_order": 1,
+      "reading_position": "9"
     },
     {
       "id": "book-163",
@@ -5475,7 +6123,11 @@
       "edition_status": "catalog-match",
       "notes": "",
       "primary_category": "Science fiction",
-      "fiction_or_nonfiction": "Fiction"
+      "fiction_or_nonfiction": "Fiction",
+      "reading_family": "Expeditionary Force",
+      "reading_section": "Main series",
+      "reading_section_order": 1,
+      "reading_position": "13"
     },
     {
       "id": "book-164",
@@ -5510,7 +6162,11 @@
       "edition_status": "catalog-match",
       "notes": "",
       "primary_category": "Science fiction",
-      "fiction_or_nonfiction": "Fiction"
+      "fiction_or_nonfiction": "Fiction",
+      "reading_family": "Old Man's War",
+      "reading_section": "Old Man's War",
+      "reading_section_order": 1,
+      "reading_position": "1"
     },
     {
       "id": "book-165",
@@ -5545,7 +6201,11 @@
       "edition_status": "catalog-match",
       "notes": "",
       "primary_category": "Science fiction",
-      "fiction_or_nonfiction": "Fiction"
+      "fiction_or_nonfiction": "Fiction",
+      "reading_family": "Commonwealth universe",
+      "reading_section": "Void Trilogy",
+      "reading_section_order": 2,
+      "reading_position": "2"
     },
     {
       "id": "book-166",
@@ -5580,7 +6240,11 @@
       "edition_status": "catalog-match",
       "notes": "",
       "primary_category": "Science fiction",
-      "fiction_or_nonfiction": "Fiction"
+      "fiction_or_nonfiction": "Fiction",
+      "reading_family": "Commonwealth universe",
+      "reading_section": "Void Trilogy",
+      "reading_section_order": 2,
+      "reading_position": "3"
     },
     {
       "id": "book-167",
@@ -5615,7 +6279,11 @@
       "edition_status": "catalog-match",
       "notes": "",
       "primary_category": "Science fiction",
-      "fiction_or_nonfiction": "Fiction"
+      "fiction_or_nonfiction": "Fiction",
+      "reading_family": "Revelation Space universe",
+      "reading_section": "Inhibitor sequel",
+      "reading_section_order": 2,
+      "reading_position": "1"
     },
     {
       "id": "book-168",
@@ -5650,7 +6318,11 @@
       "edition_status": "catalog-match",
       "notes": "",
       "primary_category": "Science fiction",
-      "fiction_or_nonfiction": "Fiction"
+      "fiction_or_nonfiction": "Fiction",
+      "reading_family": "Commonwealth universe",
+      "reading_section": "Void Trilogy",
+      "reading_section_order": 2,
+      "reading_position": "1"
     },
     {
       "id": "book-169",
@@ -5685,7 +6357,11 @@
       "edition_status": "catalog-match",
       "notes": "",
       "primary_category": "Science fiction",
-      "fiction_or_nonfiction": "Fiction"
+      "fiction_or_nonfiction": "Fiction",
+      "reading_family": "Commonwealth universe",
+      "reading_section": "Commonwealth Saga",
+      "reading_section_order": 1,
+      "reading_position": "2"
     },
     {
       "id": "book-170",
@@ -5720,7 +6396,11 @@
       "edition_status": "catalog-match",
       "notes": "",
       "primary_category": "Science fiction",
-      "fiction_or_nonfiction": "Fiction"
+      "fiction_or_nonfiction": "Fiction",
+      "reading_family": "Commonwealth universe",
+      "reading_section": "Commonwealth Saga",
+      "reading_section_order": 1,
+      "reading_position": "1"
     },
     {
       "id": "book-171",
@@ -5755,7 +6435,11 @@
       "edition_status": "catalog-match",
       "notes": "",
       "primary_category": "Science fiction",
-      "fiction_or_nonfiction": "Fiction"
+      "fiction_or_nonfiction": "Fiction",
+      "reading_family": "Expeditionary Force",
+      "reading_section": "Expeditionary Force Mavericks",
+      "reading_section_order": 2,
+      "reading_position": "2"
     },
     {
       "id": "book-172",
@@ -5790,7 +6474,11 @@
       "edition_status": "catalog-match",
       "notes": "",
       "primary_category": "Science fiction",
-      "fiction_or_nonfiction": "Fiction"
+      "fiction_or_nonfiction": "Fiction",
+      "reading_family": "Expeditionary Force",
+      "reading_section": "Main series",
+      "reading_section_order": 1,
+      "reading_position": "12"
     },
     {
       "id": "book-173",
@@ -5825,7 +6513,11 @@
       "edition_status": "catalog-match",
       "notes": "",
       "primary_category": "Science fiction",
-      "fiction_or_nonfiction": "Fiction"
+      "fiction_or_nonfiction": "Fiction",
+      "reading_family": "Expeditionary Force",
+      "reading_section": "Main series",
+      "reading_section_order": 1,
+      "reading_position": "11"
     },
     {
       "id": "book-174",
@@ -5860,7 +6552,11 @@
       "edition_status": "catalog-match",
       "notes": "",
       "primary_category": "Science fiction",
-      "fiction_or_nonfiction": "Fiction"
+      "fiction_or_nonfiction": "Fiction",
+      "reading_family": "Expeditionary Force",
+      "reading_section": "Main series",
+      "reading_section_order": 1,
+      "reading_position": "10"
     },
     {
       "id": "book-175",
@@ -5895,7 +6591,11 @@
       "edition_status": "catalog-match",
       "notes": "",
       "primary_category": "Science fiction",
-      "fiction_or_nonfiction": "Fiction"
+      "fiction_or_nonfiction": "Fiction",
+      "reading_family": "Expeditionary Force",
+      "reading_section": "Expeditionary Force Mavericks",
+      "reading_section_order": 2,
+      "reading_position": "1"
     },
     {
       "id": "book-176",
@@ -5930,7 +6630,11 @@
       "edition_status": "catalog-match",
       "notes": "",
       "primary_category": "Science fiction",
-      "fiction_or_nonfiction": "Fiction"
+      "fiction_or_nonfiction": "Fiction",
+      "reading_family": "Expeditionary Force",
+      "reading_section": "Main series",
+      "reading_section_order": 1,
+      "reading_position": "9"
     },
     {
       "id": "book-177",
@@ -5965,7 +6669,11 @@
       "edition_status": "catalog-match",
       "notes": "",
       "primary_category": "Science fiction",
-      "fiction_or_nonfiction": "Fiction"
+      "fiction_or_nonfiction": "Fiction",
+      "reading_family": "Expeditionary Force",
+      "reading_section": "Main series",
+      "reading_section_order": 1,
+      "reading_position": "8"
     },
     {
       "id": "book-178",
@@ -6000,7 +6708,11 @@
       "edition_status": "catalog-match",
       "notes": "",
       "primary_category": "Science fiction",
-      "fiction_or_nonfiction": "Fiction"
+      "fiction_or_nonfiction": "Fiction",
+      "reading_family": "Expeditionary Force",
+      "reading_section": "Main series",
+      "reading_section_order": 1,
+      "reading_position": "7"
     },
     {
       "id": "book-179",
@@ -6035,7 +6747,11 @@
       "edition_status": "catalog-match",
       "notes": "",
       "primary_category": "Science fiction",
-      "fiction_or_nonfiction": "Fiction"
+      "fiction_or_nonfiction": "Fiction",
+      "reading_family": "Expeditionary Force",
+      "reading_section": "Main series",
+      "reading_section_order": 1,
+      "reading_position": "6"
     },
     {
       "id": "book-180",
@@ -6070,7 +6786,11 @@
       "edition_status": "catalog-match",
       "notes": "",
       "primary_category": "Science fiction",
-      "fiction_or_nonfiction": "Fiction"
+      "fiction_or_nonfiction": "Fiction",
+      "reading_family": "Expeditionary Force",
+      "reading_section": "Main series",
+      "reading_section_order": 1,
+      "reading_position": "5"
     },
     {
       "id": "book-181",
@@ -6105,7 +6825,11 @@
       "edition_status": "catalog-match",
       "notes": "",
       "primary_category": "Science fiction",
-      "fiction_or_nonfiction": "Fiction"
+      "fiction_or_nonfiction": "Fiction",
+      "reading_family": "Bobiverse",
+      "reading_section": "Bobiverse",
+      "reading_section_order": 1,
+      "reading_position": "3"
     },
     {
       "id": "book-182",
@@ -6140,7 +6864,11 @@
       "edition_status": "catalog-match",
       "notes": "",
       "primary_category": "Science fiction",
-      "fiction_or_nonfiction": "Fiction"
+      "fiction_or_nonfiction": "Fiction",
+      "reading_family": "Bobiverse",
+      "reading_section": "Bobiverse",
+      "reading_section_order": 1,
+      "reading_position": "2"
     },
     {
       "id": "book-183",
@@ -6175,7 +6903,11 @@
       "edition_status": "catalog-match",
       "notes": "",
       "primary_category": "Science fiction",
-      "fiction_or_nonfiction": "Fiction"
+      "fiction_or_nonfiction": "Fiction",
+      "reading_family": "Bobiverse",
+      "reading_section": "Bobiverse",
+      "reading_section_order": 1,
+      "reading_position": "1"
     },
     {
       "id": "book-184",
@@ -6210,7 +6942,11 @@
       "edition_status": "catalog-match",
       "notes": "",
       "primary_category": "Science fiction",
-      "fiction_or_nonfiction": "Fiction"
+      "fiction_or_nonfiction": "Fiction",
+      "reading_family": "Revelation Space universe",
+      "reading_section": "Companion novels and collections",
+      "reading_section_order": 3,
+      "reading_position": "3"
     },
     {
       "id": "book-185",
@@ -6245,7 +6981,11 @@
       "edition_status": "catalog-match",
       "notes": "",
       "primary_category": "Science fiction",
-      "fiction_or_nonfiction": "Fiction"
+      "fiction_or_nonfiction": "Fiction",
+      "reading_family": "Revelation Space universe",
+      "reading_section": "The Prefect Dreyfus Emergencies",
+      "reading_section_order": 4,
+      "reading_position": "2"
     },
     {
       "id": "book-186",
@@ -6273,7 +7013,11 @@
       "edition_status": "catalog-match",
       "notes": "",
       "primary_category": "Parenting & relationships",
-      "fiction_or_nonfiction": "Nonfiction"
+      "fiction_or_nonfiction": "Nonfiction",
+      "reading_family": "Nonfiction — health, parenting and relationships",
+      "reading_section": "Standalone titles",
+      "reading_section_order": 1,
+      "reading_position": ""
     },
     {
       "id": "book-187",
@@ -6308,7 +7052,11 @@
       "edition_status": "catalog-match",
       "notes": "",
       "primary_category": "Science fiction",
-      "fiction_or_nonfiction": "Fiction"
+      "fiction_or_nonfiction": "Fiction",
+      "reading_family": "Revelation Space universe",
+      "reading_section": "Original Inhibitor sequence",
+      "reading_section_order": 1,
+      "reading_position": "3"
     },
     {
       "id": "book-188",
@@ -6343,7 +7091,11 @@
       "edition_status": "catalog-match",
       "notes": "",
       "primary_category": "Science fiction",
-      "fiction_or_nonfiction": "Fiction"
+      "fiction_or_nonfiction": "Fiction",
+      "reading_family": "Revelation Space universe",
+      "reading_section": "Original Inhibitor sequence",
+      "reading_section_order": 1,
+      "reading_position": "2"
     },
     {
       "id": "book-189",
@@ -6378,7 +7130,11 @@
       "edition_status": "catalog-match",
       "notes": "",
       "primary_category": "Science fiction",
-      "fiction_or_nonfiction": "Fiction"
+      "fiction_or_nonfiction": "Fiction",
+      "reading_family": "Revelation Space universe",
+      "reading_section": "Companion novels and collections",
+      "reading_section_order": 3,
+      "reading_position": "1"
     },
     {
       "id": "book-190",
@@ -6413,7 +7169,11 @@
       "edition_status": "catalog-match",
       "notes": "",
       "primary_category": "Science fiction",
-      "fiction_or_nonfiction": "Fiction"
+      "fiction_or_nonfiction": "Fiction",
+      "reading_family": "Revelation Space universe",
+      "reading_section": "Original Inhibitor sequence",
+      "reading_section_order": 1,
+      "reading_position": "1"
     },
     {
       "id": "book-191",
@@ -6448,7 +7208,11 @@
       "edition_status": "catalog-match",
       "notes": "",
       "primary_category": "Science fiction",
-      "fiction_or_nonfiction": "Fiction"
+      "fiction_or_nonfiction": "Fiction",
+      "reading_family": "The Fear Saga",
+      "reading_section": "The Fear Saga",
+      "reading_section_order": 1,
+      "reading_position": "3"
     },
     {
       "id": "book-192",
@@ -6483,7 +7247,11 @@
       "edition_status": "catalog-match",
       "notes": "",
       "primary_category": "Science fiction",
-      "fiction_or_nonfiction": "Fiction"
+      "fiction_or_nonfiction": "Fiction",
+      "reading_family": "The Fear Saga",
+      "reading_section": "The Fear Saga",
+      "reading_section_order": 1,
+      "reading_position": "2"
     },
     {
       "id": "book-193",
@@ -6518,7 +7286,11 @@
       "edition_status": "catalog-match",
       "notes": "",
       "primary_category": "Science fiction",
-      "fiction_or_nonfiction": "Fiction"
+      "fiction_or_nonfiction": "Fiction",
+      "reading_family": "The Fear Saga",
+      "reading_section": "The Fear Saga",
+      "reading_section_order": 1,
+      "reading_position": "1"
     },
     {
       "id": "book-194",
@@ -6553,7 +7325,11 @@
       "edition_status": "catalog-match",
       "notes": "",
       "primary_category": "Science fiction",
-      "fiction_or_nonfiction": "Fiction"
+      "fiction_or_nonfiction": "Fiction",
+      "reading_family": "The Expanse",
+      "reading_section": "The Expanse",
+      "reading_section_order": 1,
+      "reading_position": "7"
     },
     {
       "id": "book-195",
@@ -6588,7 +7364,11 @@
       "edition_status": "catalog-match",
       "notes": "",
       "primary_category": "Science fiction",
-      "fiction_or_nonfiction": "Fiction"
+      "fiction_or_nonfiction": "Fiction",
+      "reading_family": "The Expanse",
+      "reading_section": "The Expanse",
+      "reading_section_order": 1,
+      "reading_position": "6"
     },
     {
       "id": "book-196",
@@ -6623,7 +7403,11 @@
       "edition_status": "catalog-match",
       "notes": "",
       "primary_category": "Science fiction",
-      "fiction_or_nonfiction": "Fiction"
+      "fiction_or_nonfiction": "Fiction",
+      "reading_family": "The Expanse",
+      "reading_section": "The Expanse",
+      "reading_section_order": 1,
+      "reading_position": "5"
     },
     {
       "id": "book-197",
@@ -6658,7 +7442,11 @@
       "edition_status": "catalog-match",
       "notes": "",
       "primary_category": "Science fiction",
-      "fiction_or_nonfiction": "Fiction"
+      "fiction_or_nonfiction": "Fiction",
+      "reading_family": "The Expanse",
+      "reading_section": "The Expanse",
+      "reading_section_order": 1,
+      "reading_position": "4"
     },
     {
       "id": "book-198",
@@ -6693,7 +7481,11 @@
       "edition_status": "catalog-match",
       "notes": "",
       "primary_category": "Science fiction",
-      "fiction_or_nonfiction": "Fiction"
+      "fiction_or_nonfiction": "Fiction",
+      "reading_family": "The Expanse",
+      "reading_section": "The Expanse",
+      "reading_section_order": 1,
+      "reading_position": "3"
     },
     {
       "id": "book-199",
@@ -6728,7 +7520,11 @@
       "edition_status": "catalog-match",
       "notes": "",
       "primary_category": "Science fiction",
-      "fiction_or_nonfiction": "Fiction"
+      "fiction_or_nonfiction": "Fiction",
+      "reading_family": "The Expanse",
+      "reading_section": "The Expanse",
+      "reading_section_order": 1,
+      "reading_position": "2"
     },
     {
       "id": "book-200",
@@ -6763,7 +7559,11 @@
       "edition_status": "catalog-match",
       "notes": "",
       "primary_category": "Science fiction",
-      "fiction_or_nonfiction": "Fiction"
+      "fiction_or_nonfiction": "Fiction",
+      "reading_family": "The Expanse",
+      "reading_section": "The Expanse",
+      "reading_section_order": 1,
+      "reading_position": "1"
     },
     {
       "id": "book-201",
@@ -6791,7 +7591,11 @@
       "edition_status": "catalog-match",
       "notes": "",
       "primary_category": "Parenting & relationships",
-      "fiction_or_nonfiction": "Nonfiction"
+      "fiction_or_nonfiction": "Nonfiction",
+      "reading_family": "Nonfiction — health, parenting and relationships",
+      "reading_section": "Standalone titles",
+      "reading_section_order": 1,
+      "reading_position": ""
     },
     {
       "id": "book-202",
@@ -6830,7 +7634,11 @@
       "edition_status": "catalog-match",
       "notes": "",
       "primary_category": "Science fiction",
-      "fiction_or_nonfiction": "Fiction"
+      "fiction_or_nonfiction": "Fiction",
+      "reading_family": "Red Rising",
+      "reading_section": "Sequel saga",
+      "reading_section_order": 2,
+      "reading_position": "2"
     },
     {
       "id": "book-203",
@@ -6868,7 +7676,11 @@
       "edition_status": "catalog-match",
       "notes": "",
       "primary_category": "Science fiction",
-      "fiction_or_nonfiction": "Fiction"
+      "fiction_or_nonfiction": "Fiction",
+      "reading_family": "Red Rising",
+      "reading_section": "Sequel saga",
+      "reading_section_order": 2,
+      "reading_position": "1"
     },
     {
       "id": "book-204",
@@ -6903,7 +7715,11 @@
       "edition_status": "catalog-match",
       "notes": "",
       "primary_category": "Science fiction",
-      "fiction_or_nonfiction": "Fiction"
+      "fiction_or_nonfiction": "Fiction",
+      "reading_family": "Red Rising",
+      "reading_section": "Original Red Rising trilogy",
+      "reading_section_order": 1,
+      "reading_position": "3"
     },
     {
       "id": "book-205",
@@ -6938,7 +7754,11 @@
       "edition_status": "catalog-match",
       "notes": "",
       "primary_category": "Science fiction",
-      "fiction_or_nonfiction": "Fiction"
+      "fiction_or_nonfiction": "Fiction",
+      "reading_family": "Red Rising",
+      "reading_section": "Original Red Rising trilogy",
+      "reading_section_order": 1,
+      "reading_position": "2"
     },
     {
       "id": "book-206",
@@ -6974,7 +7794,11 @@
       "edition_status": "catalog-match",
       "notes": "",
       "primary_category": "Science fiction",
-      "fiction_or_nonfiction": "Fiction"
+      "fiction_or_nonfiction": "Fiction",
+      "reading_family": "The Remembrance of Earth's Past",
+      "reading_section": "The Remembrance of Earth's Past",
+      "reading_section_order": 1,
+      "reading_position": "3"
     },
     {
       "id": "book-207",
@@ -7010,7 +7834,11 @@
       "edition_status": "catalog-match",
       "notes": "",
       "primary_category": "Science fiction",
-      "fiction_or_nonfiction": "Fiction"
+      "fiction_or_nonfiction": "Fiction",
+      "reading_family": "The Remembrance of Earth's Past",
+      "reading_section": "The Remembrance of Earth's Past",
+      "reading_section_order": 1,
+      "reading_position": "2"
     },
     {
       "id": "book-208",
@@ -7039,7 +7867,11 @@
       "edition_status": "catalog-match",
       "notes": "",
       "primary_category": "Science fiction",
-      "fiction_or_nonfiction": "Fiction"
+      "fiction_or_nonfiction": "Fiction",
+      "reading_family": "Fiction — science fiction and thrillers",
+      "reading_section": "Standalone titles",
+      "reading_section_order": 1,
+      "reading_position": ""
     },
     {
       "id": "book-209",
@@ -7075,7 +7907,11 @@
       "edition_status": "catalog-match",
       "notes": "",
       "primary_category": "Science fiction",
-      "fiction_or_nonfiction": "Fiction"
+      "fiction_or_nonfiction": "Fiction",
+      "reading_family": "The Remembrance of Earth's Past",
+      "reading_section": "The Remembrance of Earth's Past",
+      "reading_section_order": 1,
+      "reading_position": "1"
     },
     {
       "id": "book-210",
@@ -7110,7 +7946,11 @@
       "edition_status": "catalog-match",
       "notes": "",
       "primary_category": "Science fiction",
-      "fiction_or_nonfiction": "Fiction"
+      "fiction_or_nonfiction": "Fiction",
+      "reading_family": "Red Rising",
+      "reading_section": "Original Red Rising trilogy",
+      "reading_section_order": 1,
+      "reading_position": "1"
     },
     {
       "id": "book-211",
@@ -7138,7 +7978,11 @@
       "edition_status": "catalog-match",
       "notes": "",
       "primary_category": "Business, leadership & productivity",
-      "fiction_or_nonfiction": "Nonfiction"
+      "fiction_or_nonfiction": "Nonfiction",
+      "reading_family": "Nonfiction — business, leadership and productivity",
+      "reading_section": "Standalone titles",
+      "reading_section_order": 1,
+      "reading_position": ""
     },
     {
       "id": "book-212",
@@ -7179,7 +8023,11 @@
       "edition_status": "catalog-match",
       "notes": "",
       "primary_category": "Science fiction",
-      "fiction_or_nonfiction": "Fiction"
+      "fiction_or_nonfiction": "Fiction",
+      "reading_family": "Uplift Saga",
+      "reading_section": "Uplift Trilogy",
+      "reading_section_order": 2,
+      "reading_position": "3"
     },
     {
       "id": "book-213",
@@ -7220,7 +8068,11 @@
       "edition_status": "catalog-match",
       "notes": "",
       "primary_category": "Science fiction",
-      "fiction_or_nonfiction": "Fiction"
+      "fiction_or_nonfiction": "Fiction",
+      "reading_family": "Uplift Saga",
+      "reading_section": "Uplift Trilogy",
+      "reading_section_order": 2,
+      "reading_position": "2"
     },
     {
       "id": "book-214",
@@ -7261,7 +8113,11 @@
       "edition_status": "catalog-match",
       "notes": "",
       "primary_category": "Science fiction",
-      "fiction_or_nonfiction": "Fiction"
+      "fiction_or_nonfiction": "Fiction",
+      "reading_family": "Uplift Saga",
+      "reading_section": "Uplift Trilogy",
+      "reading_section_order": 2,
+      "reading_position": "1"
     },
     {
       "id": "book-215",
@@ -7289,7 +8145,11 @@
       "edition_status": "catalog-match",
       "notes": "",
       "primary_category": "Biography, memoir & personal essays",
-      "fiction_or_nonfiction": "Nonfiction"
+      "fiction_or_nonfiction": "Nonfiction",
+      "reading_family": "Nonfiction — biography, memoir and essays",
+      "reading_section": "Standalone titles",
+      "reading_section_order": 1,
+      "reading_position": ""
     },
     {
       "id": "book-216",
@@ -7317,7 +8177,11 @@
       "edition_status": "catalog-match",
       "notes": "",
       "primary_category": "History, military & politics",
-      "fiction_or_nonfiction": "Nonfiction"
+      "fiction_or_nonfiction": "Nonfiction",
+      "reading_family": "Nonfiction — history, war and politics",
+      "reading_section": "Standalone titles",
+      "reading_section_order": 1,
+      "reading_position": ""
     },
     {
       "id": "book-217",
@@ -7345,7 +8209,11 @@
       "edition_status": "catalog-match",
       "notes": "",
       "primary_category": "Personal development & psychology",
-      "fiction_or_nonfiction": "Nonfiction"
+      "fiction_or_nonfiction": "Nonfiction",
+      "reading_family": "Nonfiction — health, parenting and relationships",
+      "reading_section": "Standalone titles",
+      "reading_section_order": 1,
+      "reading_position": ""
     },
     {
       "id": "book-218",
@@ -7373,7 +8241,11 @@
       "edition_status": "catalog-match",
       "notes": "",
       "primary_category": "Educational — science, data & learning",
-      "fiction_or_nonfiction": "Nonfiction"
+      "fiction_or_nonfiction": "Nonfiction",
+      "reading_family": "Nonfiction — data and personal finance",
+      "reading_section": "Standalone titles",
+      "reading_section_order": 1,
+      "reading_position": ""
     },
     {
       "id": "book-219",
@@ -7401,7 +8273,11 @@
       "edition_status": "catalog-match",
       "notes": "",
       "primary_category": "History, military & politics",
-      "fiction_or_nonfiction": "Nonfiction"
+      "fiction_or_nonfiction": "Nonfiction",
+      "reading_family": "Nonfiction — history, war and politics",
+      "reading_section": "Standalone titles",
+      "reading_section_order": 1,
+      "reading_position": ""
     },
     {
       "id": "book-220",
@@ -7442,7 +8318,11 @@
       "edition_status": "catalog-match",
       "notes": "",
       "primary_category": "Business, leadership & productivity",
-      "fiction_or_nonfiction": "Nonfiction"
+      "fiction_or_nonfiction": "Nonfiction",
+      "reading_family": "Nonfiction — business, leadership and productivity",
+      "reading_section": "Standalone titles",
+      "reading_section_order": 1,
+      "reading_position": ""
     },
     {
       "id": "book-221",
@@ -7472,7 +8352,11 @@
       "edition_status": "catalog-match",
       "notes": "",
       "primary_category": "Business, leadership & productivity",
-      "fiction_or_nonfiction": "Nonfiction"
+      "fiction_or_nonfiction": "Nonfiction",
+      "reading_family": "Nonfiction — business, leadership and productivity",
+      "reading_section": "Standalone titles",
+      "reading_section_order": 1,
+      "reading_position": ""
     },
     {
       "id": "book-222",
@@ -7501,7 +8385,11 @@
       "edition_status": "catalog-match",
       "notes": "",
       "primary_category": "Business, leadership & productivity",
-      "fiction_or_nonfiction": "Nonfiction"
+      "fiction_or_nonfiction": "Nonfiction",
+      "reading_family": "Nonfiction — business, leadership and productivity",
+      "reading_section": "Standalone titles",
+      "reading_section_order": 1,
+      "reading_position": ""
     },
     {
       "id": "book-223",
@@ -7529,7 +8417,11 @@
       "edition_status": "catalog-match",
       "notes": "",
       "primary_category": "Biography, memoir & personal essays",
-      "fiction_or_nonfiction": "Nonfiction"
+      "fiction_or_nonfiction": "Nonfiction",
+      "reading_family": "Nonfiction — biography, memoir and essays",
+      "reading_section": "Standalone titles",
+      "reading_section_order": 1,
+      "reading_position": ""
     },
     {
       "id": "book-224",
@@ -7557,7 +8449,11 @@
       "edition_status": "catalog-match",
       "notes": "",
       "primary_category": "Business, leadership & productivity",
-      "fiction_or_nonfiction": "Nonfiction"
+      "fiction_or_nonfiction": "Nonfiction",
+      "reading_family": "Nonfiction — business, leadership and productivity",
+      "reading_section": "Standalone titles",
+      "reading_section_order": 1,
+      "reading_position": ""
     },
     {
       "id": "book-225",
@@ -7585,7 +8481,11 @@
       "edition_status": "catalog-match",
       "notes": "",
       "primary_category": "Thrillers, espionage & mystery",
-      "fiction_or_nonfiction": "Fiction"
+      "fiction_or_nonfiction": "Fiction",
+      "reading_family": "Fiction — science fiction and thrillers",
+      "reading_section": "Standalone titles",
+      "reading_section_order": 1,
+      "reading_position": ""
     },
     {
       "id": "book-226",
@@ -7620,7 +8520,11 @@
       "edition_status": "catalog-match",
       "notes": "",
       "primary_category": "Science fiction",
-      "fiction_or_nonfiction": "Fiction"
+      "fiction_or_nonfiction": "Fiction",
+      "reading_family": "Uplift Saga",
+      "reading_section": "Original Uplift novels",
+      "reading_section_order": 1,
+      "reading_position": "2"
     },
     {
       "id": "book-227",
@@ -7648,7 +8552,11 @@
       "edition_status": "catalog-match",
       "notes": "Abridged edition narrated by Richard Thomas; 9h 28m in the recording matches this edition.",
       "primary_category": "History, military & politics",
-      "fiction_or_nonfiction": "Nonfiction"
+      "fiction_or_nonfiction": "Nonfiction",
+      "reading_family": "Nonfiction — history, war and politics",
+      "reading_section": "Standalone titles",
+      "reading_section_order": 1,
+      "reading_position": ""
     },
     {
       "id": "book-228",
@@ -7676,7 +8584,11 @@
       "edition_status": "catalog-match",
       "notes": "",
       "primary_category": "History, military & politics",
-      "fiction_or_nonfiction": "Nonfiction"
+      "fiction_or_nonfiction": "Nonfiction",
+      "reading_family": "Nonfiction — history, war and politics",
+      "reading_section": "Standalone titles",
+      "reading_section_order": 1,
+      "reading_position": ""
     },
     {
       "id": "book-229",
@@ -7711,7 +8623,11 @@
       "edition_status": "catalog-match",
       "notes": "",
       "primary_category": "Thrillers, espionage & mystery",
-      "fiction_or_nonfiction": "Fiction"
+      "fiction_or_nonfiction": "Fiction",
+      "reading_family": "Jason Bourne Series",
+      "reading_section": "Jason Bourne Series",
+      "reading_section_order": 1,
+      "reading_position": "5"
     },
     {
       "id": "book-230",
@@ -7746,7 +8662,11 @@
       "edition_status": "catalog-match",
       "notes": "",
       "primary_category": "Thrillers, espionage & mystery",
-      "fiction_or_nonfiction": "Fiction"
+      "fiction_or_nonfiction": "Fiction",
+      "reading_family": "Mitch Rapp",
+      "reading_section": "Mitch Rapp",
+      "reading_section_order": 1,
+      "reading_position": "11"
     },
     {
       "id": "book-231",
@@ -7775,7 +8695,11 @@
       "edition_status": "current-edition-substitute",
       "notes": "The recording shows a 7h 9m edition. The link and cover use the currently listed 10h 17m edition; the original edition could not be verified.",
       "primary_category": "Business, leadership & productivity",
-      "fiction_or_nonfiction": "Nonfiction"
+      "fiction_or_nonfiction": "Nonfiction",
+      "reading_family": "Nonfiction — business, leadership and productivity",
+      "reading_section": "Standalone titles",
+      "reading_section_order": 1,
+      "reading_position": ""
     },
     {
       "id": "book-232",
@@ -7810,7 +8734,11 @@
       "edition_status": "catalog-match",
       "notes": "",
       "primary_category": "Science fiction",
-      "fiction_or_nonfiction": "Fiction"
+      "fiction_or_nonfiction": "Fiction",
+      "reading_family": "Uplift Saga",
+      "reading_section": "Original Uplift novels",
+      "reading_section_order": 1,
+      "reading_position": "3"
     },
     {
       "id": "book-233",
@@ -7845,7 +8773,11 @@
       "edition_status": "catalog-match",
       "notes": "",
       "primary_category": "Science fiction",
-      "fiction_or_nonfiction": "Fiction"
+      "fiction_or_nonfiction": "Fiction",
+      "reading_family": "Uplift Saga",
+      "reading_section": "Original Uplift novels",
+      "reading_section_order": 1,
+      "reading_position": "1"
     },
     {
       "id": "book-234",
@@ -7880,7 +8812,11 @@
       "edition_status": "catalog-match",
       "notes": "",
       "primary_category": "Thrillers, espionage & mystery",
-      "fiction_or_nonfiction": "Fiction"
+      "fiction_or_nonfiction": "Fiction",
+      "reading_family": "Night Soldiers",
+      "reading_section": "Night Soldiers",
+      "reading_section_order": 1,
+      "reading_position": "2"
     },
     {
       "id": "book-235",
@@ -7915,7 +8851,11 @@
       "edition_status": "catalog-match",
       "notes": "",
       "primary_category": "Thrillers, espionage & mystery",
-      "fiction_or_nonfiction": "Fiction"
+      "fiction_or_nonfiction": "Fiction",
+      "reading_family": "Night Soldiers",
+      "reading_section": "Night Soldiers",
+      "reading_section_order": 1,
+      "reading_position": "1"
     },
     {
       "id": "book-236",
@@ -7943,7 +8883,11 @@
       "edition_status": "catalog-match",
       "notes": "",
       "primary_category": "Educational — science, data & learning",
-      "fiction_or_nonfiction": "Nonfiction"
+      "fiction_or_nonfiction": "Nonfiction",
+      "reading_family": "Nonfiction — data and personal finance",
+      "reading_section": "Standalone titles",
+      "reading_section_order": 1,
+      "reading_position": ""
     },
     {
       "id": "book-237",
@@ -7971,7 +8915,11 @@
       "edition_status": "catalog-match",
       "notes": "",
       "primary_category": "Personal finance & investing",
-      "fiction_or_nonfiction": "Nonfiction"
+      "fiction_or_nonfiction": "Nonfiction",
+      "reading_family": "Nonfiction — data and personal finance",
+      "reading_section": "Standalone titles",
+      "reading_section_order": 1,
+      "reading_position": ""
     },
     {
       "id": "book-238",
@@ -7999,7 +8947,11 @@
       "edition_status": "catalog-match",
       "notes": "",
       "primary_category": "Business, leadership & productivity",
-      "fiction_or_nonfiction": "Nonfiction"
+      "fiction_or_nonfiction": "Nonfiction",
+      "reading_family": "Nonfiction — business, leadership and productivity",
+      "reading_section": "Standalone titles",
+      "reading_section_order": 1,
+      "reading_position": ""
     }
   ],
   "category_scheme": {
@@ -8078,6 +9030,31 @@
       "The Iliad and The Three Musketeers are literary classics, not nonfiction history.",
       "History includes The Making of the Atomic Bomb (cataloged as Making of the Atomic Bomb), Titan II, and Nuclear War: A Scenario; the last is forward-looking risk analysis rather than a historical narrative.",
       "Educational is a narrow category: Norms and Nobility, The Consuming Instinct, How to Lie with Statistics, and Super Crunchers. It is not an umbrella total for all nonfiction."
+    ]
+  },
+  "reading_order": {
+    "method": "Group by series/universe, then trilogy or subseries, then numeric book position. Original Audible series metadata and sequence are retained separately. Unnumbered standalone titles sort alphabetically. Subseries are kept intact rather than interleaved; this is not a universal timeline across every story.",
+    "sources": [
+      {
+        "label": "Black Fleet Saga — author series index",
+        "url": "https://joshuadalzelle.com/series/black-fleet-saga"
+      },
+      {
+        "label": "Uplift novels and second trilogy — David Brin",
+        "url": "https://www.davidbrin.com/fiction/upliftwar1.html"
+      },
+      {
+        "label": "Commonwealth: The Void Trilogy — publisher",
+        "url": "https://www.penguinrandomhouse.com/series/TVT/commonwealth-the-void-trilogy/"
+      },
+      {
+        "label": "Red Rising original trilogy — publisher",
+        "url": "https://penguinrandomhouselibrary.com/book/?isbn=9780593724460"
+      },
+      {
+        "label": "Revelation Space reading sequence — Alastair Reynolds",
+        "url": "https://www.alastairreynolds.com/novels/"
+      }
     ]
   }
 }

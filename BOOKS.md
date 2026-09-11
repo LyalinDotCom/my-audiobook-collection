@@ -6,7 +6,7 @@ Cataloged from the supplied Audible library recording on **September 10, 2026**.
 
 Click any cover or **Audible** link to open the product page. **Cover art** opens the full image. **Video** is the first observed timestamp in the source recording, rounded down to a whole second.
 
-Series are sorted by Audible’s sequence, including novellas and omnibus ranges. This is a catalog of the books shown, not a claim that every series is complete. Books without a cataloged series are grouped by subject. See [verification and edition notes](VERIFICATION.md).
+Browse by **series/universe → trilogy or subseries → book number**. Related trilogies stay together. Order numbers are local to each subsection; the original Audible sequence is retained in the JSON. Longer series are not artificially divided into trilogies. This catalog contains only the books shown, and does not imply every series is complete. See [verification and reading-order notes](VERIFICATION.md).
 
 **Edition exceptions:** *Start with Why* and *Getting Things Done* link to current editions that may differ from the recordings owned. The edition of *Intelligence in War* remains unconfirmed. *The Iliad* and *Team of Rivals* are matched to the abridged editions shown.
 
@@ -35,97 +35,80 @@ Each library title is assigned one primary genre or subject. These are editorial
 
 “Educational” here covers science, data, and learning. History, business, health, and self-help are counted separately. See [the category index](CATEGORIES.md) for definitions, individual titles, and crossover notes.
 
-## Index
+## Series and trilogy index
 
-| Series / collection / category | Titles |
-|---|---:|
-| [A History of the English-Speaking Peoples](#group-01) | 4 |
-| [A Tom Reece Thriller](#group-02) | 1 |
-| [Alex Hunter](#group-03) | 1 |
-| [Backyard Starship](#group-04) | 1 |
-| [Black Fleet Trilogy](#group-05) | 3 |
-| [Bobiverse](#group-06) | 6 |
-| [Children of Time](#group-07) | 3 |
-| [Churchill's WWII](#group-08) | 4 |
-| [Commonwealth Saga](#group-09) | 2 |
-| [Convergence](#group-10) | 5 |
-| [D'Artagnan: The Musketeers Cycle](#group-11) | 1 |
-| [E-Day Trilogy](#group-12) | 1 |
-| [Exodus](#group-13) | 2 |
-| [Expeditionary Force](#group-14) | 21 |
-| [Expeditionary Force Mavericks](#group-15) | 2 |
-| [Extreme Ownership](#group-16) | 1 |
-| [Forgotten Vengeance](#group-17) | 1 |
-| [Freedom's Fire](#group-18) | 1 |
-| [Galaxy's Edge](#group-19) | 1 |
-| [Good to Great](#group-20) | 2 |
-| [Gray Man](#group-21) | 15 |
-| [Green Zone War](#group-22) | 1 |
-| [Iliad & Odyssey](#group-23) | 1 |
-| [Infinite Timeline](#group-24) | 4 |
-| [Jason Bourne Series](#group-25) | 1 |
-| [Lightbringer Saga](#group-26) | 5 |
-| [Mitch Rapp](#group-27) | 1 |
-| [Murderbot Diaries](#group-28) | 7 |
-| [Night Soldiers](#group-29) | 2 |
-| [Not Alone](#group-30) | 3 |
-| [Old Guns](#group-31) | 1 |
-| [Old Man's War](#group-32) | 6 |
-| [Orphan X](#group-33) | 7 |
-| [Planetside](#group-34) | 4 |
-| [Red Rising](#group-35) | 6 |
-| [Revelation Space](#group-36) | 7 |
-| [Richard Rhodes' Nuclear Histories](#group-37) | 1 |
-| [Start with Why](#group-38) | 1 |
-| [The Age of Madness](#group-39) | 1 |
-| [The Captive's War](#group-40) | 1 |
-| [The Earthburst Saga](#group-41) | 3 |
-| [The Expanse](#group-42) | 9 |
-| [The Expansion Wars Trilogy](#group-43) | 3 |
-| [The Fear Saga](#group-44) | 3 |
-| [The Final Architecture](#group-45) | 1 |
-| [The Fourth Option](#group-46) | 1 |
-| [The Plant Paradox](#group-47) | 1 |
-| [The Prefect Dreyfus Emergencies](#group-48) | 3 |
-| [The Remembrance of Earth's Past](#group-49) | 3 |
-| [The Terminal List](#group-50) | 7 |
-| [The Unification War Trilogy](#group-51) | 3 |
-| [The World Crisis](#group-52) | 1 |
-| [Uplift Saga](#group-53) | 6 |
-| [Void Trilogy](#group-54) | 3 |
-| [Fiction — literary classics](#group-55) | 1 |
-| [Fiction — science fiction and thrillers](#group-56) | 8 |
-| [Nonfiction — biography, memoir and essays](#group-57) | 9 |
-| [Nonfiction — business, leadership and productivity](#group-58) | 12 |
-| [Nonfiction — data and personal finance](#group-59) | 3 |
-| [Nonfiction — education, society and culture](#group-60) | 6 |
-| [Nonfiction — health, parenting and relationships](#group-61) | 5 |
-| [Nonfiction — history, war and politics](#group-62) | 9 |
+| Series / universe / category | Trilogies and subseries | Titles |
+|---|---|---:|
+| [The Age of Madness](#group-01) | — | 1 |
+| [Alex Hunter](#group-02) | — | 1 |
+| [Backyard Starship](#group-03) | — | 1 |
+| [Black Fleet Saga](#group-04) | Black Fleet Trilogy → The Expansion Wars Trilogy → The Unification War Trilogy | 9 |
+| [Bobiverse](#group-05) | — | 6 |
+| [The Captive's War](#group-06) | — | 1 |
+| [Children of Time](#group-07) | — | 3 |
+| [Churchill's WWII](#group-08) | — | 4 |
+| [Commonwealth universe](#group-09) | Commonwealth Saga → Void Trilogy | 5 |
+| [Convergence](#group-10) | — | 5 |
+| [D'Artagnan: The Musketeers Cycle](#group-11) | — | 1 |
+| [E-Day Trilogy](#group-12) | — | 1 |
+| [The Earthburst Saga](#group-13) | — | 3 |
+| [Exodus](#group-14) | — | 2 |
+| [The Expanse](#group-15) | — | 9 |
+| [Expeditionary Force](#group-16) | Main series → Expeditionary Force Mavericks | 23 |
+| [Extreme Ownership](#group-17) | — | 1 |
+| [The Fear Saga](#group-18) | — | 3 |
+| [The Final Architecture](#group-19) | — | 1 |
+| [Forgotten Vengeance](#group-20) | — | 1 |
+| [The Fourth Option](#group-21) | — | 1 |
+| [Freedom's Fire](#group-22) | — | 1 |
+| [Galaxy's Edge](#group-23) | — | 1 |
+| [Good to Great](#group-24) | — | 2 |
+| [Gray Man](#group-25) | — | 15 |
+| [Green Zone War](#group-26) | — | 1 |
+| [A History of the English-Speaking Peoples](#group-27) | — | 4 |
+| [Iliad & Odyssey](#group-28) | — | 1 |
+| [Infinite Timeline](#group-29) | — | 4 |
+| [Jason Bourne Series](#group-30) | — | 1 |
+| [Lightbringer Saga](#group-31) | — | 5 |
+| [Mitch Rapp](#group-32) | — | 1 |
+| [Murderbot Diaries](#group-33) | — | 7 |
+| [Night Soldiers](#group-34) | — | 2 |
+| [Not Alone](#group-35) | — | 3 |
+| [Old Guns](#group-36) | — | 1 |
+| [Old Man's War](#group-37) | — | 6 |
+| [Orphan X](#group-38) | — | 7 |
+| [Planetside](#group-39) | — | 4 |
+| [The Plant Paradox](#group-40) | — | 1 |
+| [Red Rising](#group-41) | Original Red Rising trilogy → Sequel saga | 6 |
+| [The Remembrance of Earth's Past](#group-42) | — | 3 |
+| [Revelation Space universe](#group-43) | Original Inhibitor sequence → Inhibitor sequel → Companion novels and collections → The Prefect Dreyfus Emergencies | 10 |
+| [Richard Rhodes' Nuclear Histories](#group-44) | — | 1 |
+| [Start with Why](#group-45) | — | 1 |
+| [The Terminal List](#group-46) | — | 7 |
+| [A Tom Reece Thriller](#group-47) | — | 1 |
+| [Uplift Saga](#group-48) | Original Uplift novels → Uplift Trilogy | 6 |
+| [The World Crisis](#group-49) | — | 1 |
+| [Fiction — literary classics](#group-50) | Standalone titles | 1 |
+| [Fiction — science fiction and thrillers](#group-51) | Standalone titles | 8 |
+| [Nonfiction — biography, memoir and essays](#group-52) | Standalone titles | 9 |
+| [Nonfiction — business, leadership and productivity](#group-53) | Standalone titles | 12 |
+| [Nonfiction — data and personal finance](#group-54) | Standalone titles | 3 |
+| [Nonfiction — education, society and culture](#group-55) | Standalone titles | 6 |
+| [Nonfiction — health, parenting and relationships](#group-56) | Standalone titles | 5 |
+| [Nonfiction — history, war and politics](#group-57) | Standalone titles | 9 |
 
 <a id="group-01"></a>
 
-## A History of the English-Speaking Peoples
-
-4 titles.
-
-| Cover | Order | Book and author | Links | Video |
-|---|---:|---|---|---|
-| <a href="https://www.audible.com/pd/B002V0QGTQ"><img src="https://m.media-amazon.com/images/I/51ETTdhmxpL._SL500_.jpg" alt="The Birth of Britain cover" width="80" height="80"></a> | 1 | **The Birth of Britain**<br>Sir Winston Churchill<br><small>History, military &amp; politics</small> | [Audible](https://www.audible.com/pd/B002V0QGTQ) · [Cover art](https://m.media-amazon.com/images/I/51ETTdhmxpL._SL500_.jpg) | 0:34 |
-| <a href="https://www.audible.com/pd/B002V0K7Y6"><img src="https://m.media-amazon.com/images/I/51-93O2HW3L._SL500_.jpg" alt="The New World cover" width="80" height="80"></a> | 2 | **The New World**<br>Sir Winston Churchill<br><small>History, military &amp; politics</small> | [Audible](https://www.audible.com/pd/B002V0K7Y6) · [Cover art](https://m.media-amazon.com/images/I/51-93O2HW3L._SL500_.jpg) | 0:37 |
-| <a href="https://www.audible.com/pd/B002V1LMSK"><img src="https://m.media-amazon.com/images/I/51+4xuNKwtL._SL500_.jpg" alt="The Age of Revolution cover" width="80" height="80"></a> | 3 | **The Age of Revolution**<br>Sir Winston Churchill<br><small>History, military &amp; politics</small> | [Audible](https://www.audible.com/pd/B002V1LMSK) · [Cover art](https://m.media-amazon.com/images/I/51+4xuNKwtL._SL500_.jpg) | 0:35 |
-| <a href="https://www.audible.com/pd/B002V1OIRW"><img src="https://m.media-amazon.com/images/I/51quMwEG+qL._SL500_.jpg" alt="The Great Democracies cover" width="80" height="80"></a> | 4 | **The Great Democracies**<br>Sir Winston Churchill<br><small>History, military &amp; politics</small> | [Audible](https://www.audible.com/pd/B002V1OIRW) · [Cover art](https://m.media-amazon.com/images/I/51quMwEG+qL._SL500_.jpg) | 0:34 |
-
-<a id="group-02"></a>
-
-## A Tom Reece Thriller
+## The Age of Madness
 
 1 title.
 
 | Cover | Order | Book and author | Links | Video |
 |---|---:|---|---|---|
-| <a href="https://www.audible.com/pd/B0DHY73W12"><img src="https://m.media-amazon.com/images/I/51ai8nwDN5L._SL500_.jpg" alt="Cry Havoc cover" width="80" height="80"></a> | 1 | **Cry Havoc**<br>Jack Carr<br><small>Thrillers, espionage &amp; mystery</small> | [Audible](https://www.audible.com/pd/B0DHY73W12) · [Cover art](https://m.media-amazon.com/images/I/51ai8nwDN5L._SL500_.jpg) | 0:08 |
+| <a href="https://www.audible.com/pd/1478916591"><img src="https://m.media-amazon.com/images/I/61u1vYY6gaL._SL500_.jpg" alt="A Little Hatred cover" width="80" height="80"></a> | 1 | **A Little Hatred**<br>Joe Abercrombie<br><small>Fantasy</small> | [Audible](https://www.audible.com/pd/1478916591) · [Cover art](https://m.media-amazon.com/images/I/61u1vYY6gaL._SL500_.jpg) | 0:43 |
 
-<a id="group-03"></a>
+
+<a id="group-02"></a>
 
 ## Alex Hunter
 
@@ -135,7 +118,8 @@ Each library title is assigned one primary genre or subject. These are editorial
 |---|---:|---|---|---|
 | <a href="https://www.audible.com/pd/B0065717C2"><img src="https://m.media-amazon.com/images/I/51LJBdiQ2zL._SL500_.jpg" alt="Beneath the Dark Ice cover" width="80" height="80"></a> | 1 | **Beneath the Dark Ice**<br>Greig Beck<br><small>Thrillers, espionage &amp; mystery</small><br><em>Original cover matched to the Sean Mangan edition, rather than the newer edition with an additional narrator.</em> | [Audible](https://www.audible.com/pd/B0065717C2) · [Cover art](https://m.media-amazon.com/images/I/51LJBdiQ2zL._SL500_.jpg) | 0:24 |
 
-<a id="group-04"></a>
+
+<a id="group-03"></a>
 
 ## Backyard Starship
 
@@ -145,11 +129,14 @@ Each library title is assigned one primary genre or subject. These are editorial
 |---|---:|---|---|---|
 | <a href="https://www.audible.com/pd/B09HW5NYSY"><img src="https://m.media-amazon.com/images/I/51xUIn6DDfL._SL500_.jpg" alt="Backyard Starship cover" width="80" height="80"></a> | 1 | **Backyard Starship**<br>J.N. Chaney; Terry Maggert<br><small>Science fiction</small> | [Audible](https://www.audible.com/pd/B09HW5NYSY) · [Cover art](https://m.media-amazon.com/images/I/51xUIn6DDfL._SL500_.jpg) | 0:44 |
 
-<a id="group-05"></a>
 
-## Black Fleet Trilogy
+<a id="group-04"></a>
 
-3 titles.
+## Black Fleet Saga
+
+9 titles.
+
+### Black Fleet Trilogy
 
 | Cover | Order | Book and author | Links | Video |
 |---|---:|---|---|---|
@@ -157,7 +144,24 @@ Each library title is assigned one primary genre or subject. These are editorial
 | <a href="https://www.audible.com/pd/B01AGMIFIU"><img src="https://m.media-amazon.com/images/I/5127UqEAIHL._SL500_.jpg" alt="Call to Arms cover" width="80" height="80"></a> | 2 | **Call to Arms**<br>Joshua Dalzelle<br><small>Science fiction</small> | [Audible](https://www.audible.com/pd/B01AGMIFIU) · [Cover art](https://m.media-amazon.com/images/I/5127UqEAIHL._SL500_.jpg) | 0:41 |
 | <a href="https://www.audible.com/pd/B01GU941JU"><img src="https://m.media-amazon.com/images/I/513eYwANjoL._SL500_.jpg" alt="Counterstrike cover" width="80" height="80"></a> | 3 | **Counterstrike**<br>Joshua Dalzelle<br><small>Science fiction</small> | [Audible](https://www.audible.com/pd/B01GU941JU) · [Cover art](https://m.media-amazon.com/images/I/513eYwANjoL._SL500_.jpg) | 0:40 |
 
-<a id="group-06"></a>
+### The Expansion Wars Trilogy
+
+| Cover | Order | Book and author | Links | Video |
+|---|---:|---|---|---|
+| <a href="https://www.audible.com/pd/B06XR59MLQ"><img src="https://m.media-amazon.com/images/I/51pu9pJIiEL._SL500_.jpg" alt="New Frontiers cover" width="80" height="80"></a> | 1 | **New Frontiers**<br>Joshua Dalzelle<br><small>Science fiction</small> | [Audible](https://www.audible.com/pd/B06XR59MLQ) · [Cover art](https://m.media-amazon.com/images/I/51pu9pJIiEL._SL500_.jpg) | 0:40 |
+| <a href="https://www.audible.com/pd/B072QFWDWL"><img src="https://m.media-amazon.com/images/I/51uQOmrnfvL._SL500_.jpg" alt="Iron and Blood cover" width="80" height="80"></a> | 2 | **Iron and Blood**<br>Joshua Dalzelle<br><small>Science fiction</small> | [Audible](https://www.audible.com/pd/B072QFWDWL) · [Cover art](https://m.media-amazon.com/images/I/51uQOmrnfvL._SL500_.jpg) | 0:40 |
+| <a href="https://www.audible.com/pd/B078P2HC19"><img src="https://m.media-amazon.com/images/I/51BlsLDdx9L._SL500_.jpg" alt="Destroyer cover" width="80" height="80"></a> | 3 | **Destroyer**<br>Joshua Dalzelle<br><small>Science fiction</small> | [Audible](https://www.audible.com/pd/B078P2HC19) · [Cover art](https://m.media-amazon.com/images/I/51BlsLDdx9L._SL500_.jpg) | 0:40 |
+
+### The Unification War Trilogy
+
+| Cover | Order | Book and author | Links | Video |
+|---|---:|---|---|---|
+| <a href="https://www.audible.com/pd/177424344X"><img src="https://m.media-amazon.com/images/I/51rVvwT3ZRL._SL500_.jpg" alt="Battleground cover" width="80" height="80"></a> | 1 | **Battleground**<br>Joshua Dalzelle<br><small>Science fiction</small> | [Audible](https://www.audible.com/pd/177424344X) · [Cover art](https://m.media-amazon.com/images/I/51rVvwT3ZRL._SL500_.jpg) | 0:39 |
+| <a href="https://www.audible.com/pd/B09LRM3SFN"><img src="https://m.media-amazon.com/images/I/51xyQehXd7L._SL500_.jpg" alt="No Quarter cover" width="80" height="80"></a> | 2 | **No Quarter**<br>Joshua Dalzelle<br><small>Science fiction</small> | [Audible](https://www.audible.com/pd/B09LRM3SFN) · [Cover art](https://m.media-amazon.com/images/I/51xyQehXd7L._SL500_.jpg) | 0:38 |
+| <a href="https://www.audible.com/pd/B09V98WX2B"><img src="https://m.media-amazon.com/images/I/51rxjgJSU9L._SL500_.jpg" alt="Empire cover" width="80" height="80"></a> | 3 | **Empire**<br>Joshua Dalzelle<br><small>Science fiction</small> | [Audible](https://www.audible.com/pd/B09V98WX2B) · [Cover art](https://m.media-amazon.com/images/I/51rxjgJSU9L._SL500_.jpg) | 0:38 |
+
+
+<a id="group-05"></a>
 
 ## Bobiverse
 
@@ -172,6 +176,18 @@ Each library title is assigned one primary genre or subject. These are editorial
 | <a href="https://www.audible.com/pd/B0CW23CC7L"><img src="https://m.media-amazon.com/images/I/51Lrwt49zdL._SL500_.jpg" alt="Not Till We Are Lost cover" width="80" height="80"></a> | 5 | **Not Till We Are Lost**<br>Dennis E. Taylor<br><small>Science fiction</small> | [Audible](https://www.audible.com/pd/B0CW23CC7L) · [Cover art](https://m.media-amazon.com/images/I/51Lrwt49zdL._SL500_.jpg) | 0:27 |
 | <a href="https://www.audible.com/pd/B0H8SY9QMX"><img src="https://m.media-amazon.com/images/I/51O1HmGSbEL._SL500_.jpg" alt="The Infinite Extent cover" width="80" height="80"></a> | 6 | **The Infinite Extent**<br>Dennis E. Taylor<br><small>Science fiction</small> | [Audible](https://www.audible.com/pd/B0H8SY9QMX) · [Cover art](https://m.media-amazon.com/images/I/51O1HmGSbEL._SL500_.jpg) | 0:00 |
 
+
+<a id="group-06"></a>
+
+## The Captive's War
+
+1 title.
+
+| Cover | Order | Book and author | Links | Video |
+|---|---:|---|---|---|
+| <a href="https://www.audible.com/pd/B0CQZ5167B"><img src="https://m.media-amazon.com/images/I/51n1QX6rs9L._SL500_.jpg" alt="The Mercy of Gods cover" width="80" height="80"></a> | 1 | **The Mercy of Gods**<br>James S. A. Corey<br><small>Science fiction</small> | [Audible](https://www.audible.com/pd/B0CQZ5167B) · [Cover art](https://m.media-amazon.com/images/I/51n1QX6rs9L._SL500_.jpg) | 0:07 |
+
+
 <a id="group-07"></a>
 
 ## Children of Time
@@ -183,6 +199,7 @@ Each library title is assigned one primary genre or subject. These are editorial
 | <a href="https://www.audible.com/pd/1549119788"><img src="https://m.media-amazon.com/images/I/51vDppBbuKL._SL500_.jpg" alt="Children of Ruin cover" width="80" height="80"></a> | 2 | **Children of Ruin**<br>Adrian Tchaikovsky<br><small>Science fiction</small> | [Audible](https://www.audible.com/pd/1549119788) · [Cover art](https://m.media-amazon.com/images/I/51vDppBbuKL._SL500_.jpg) | 0:11 |
 | <a href="https://www.audible.com/pd/B0B8446C65"><img src="https://m.media-amazon.com/images/I/51Y3wGXQU9L._SL500_.jpg" alt="Children of Memory cover" width="80" height="80"></a> | 3 | **Children of Memory**<br>Adrian Tchaikovsky<br><small>Science fiction</small> | [Audible](https://www.audible.com/pd/B0B8446C65) · [Cover art](https://m.media-amazon.com/images/I/51Y3wGXQU9L._SL500_.jpg) | 0:10 |
 | <a href="https://www.audible.com/pd/B0FH7DN3SW"><img src="https://m.media-amazon.com/images/I/51NN9b4e7CL._SL500_.jpg" alt="Children of Strife cover" width="80" height="80"></a> | 4 | **Children of Strife**<br>Adrian Tchaikovsky<br><small>Science fiction</small> | [Audible](https://www.audible.com/pd/B0FH7DN3SW) · [Cover art](https://m.media-amazon.com/images/I/51NN9b4e7CL._SL500_.jpg) | 0:08 |
+
 
 <a id="group-08"></a>
 
@@ -197,16 +214,28 @@ Each library title is assigned one primary genre or subject. These are editorial
 | <a href="https://www.audible.com/pd/B002VACE92"><img src="https://m.media-amazon.com/images/I/51Sehc+w9FL._SL500_.jpg" alt="The Second World War: The Grand Alliance cover" width="80" height="80"></a> | 3 | **The Second World War: The Grand Alliance**<br>Sir Winston Churchill<br><small>History, military &amp; politics</small> | [Audible](https://www.audible.com/pd/B002VACE92) · [Cover art](https://m.media-amazon.com/images/I/51Sehc+w9FL._SL500_.jpg) | 0:30 |
 | <a href="https://www.audible.com/pd/B002V0PQCE"><img src="https://m.media-amazon.com/images/I/51KYT8o9aNL._SL500_.jpg" alt="The Second World War: Triumph and Tragedy cover" width="80" height="80"></a> | 4 | **The Second World War: Triumph and Tragedy**<br>Sir Winston Churchill<br><small>History, military &amp; politics</small> | [Audible](https://www.audible.com/pd/B002V0PQCE) · [Cover art](https://m.media-amazon.com/images/I/51KYT8o9aNL._SL500_.jpg) | 0:28 |
 
+
 <a id="group-09"></a>
 
-## Commonwealth Saga
+## Commonwealth universe
 
-2 titles.
+5 titles.
+
+### Commonwealth Saga
 
 | Cover | Order | Book and author | Links | Video |
 |---|---:|---|---|---|
 | <a href="https://www.audible.com/pd/B002V5BDXK"><img src="https://m.media-amazon.com/images/I/5112Bexot+L._SL500_.jpg" alt="Pandora&#x27;s Star cover" width="80" height="80"></a> | 1 | **Pandora&#x27;s Star**<br>Peter F. Hamilton<br><small>Science fiction</small> | [Audible](https://www.audible.com/pd/B002V5BDXK) · [Cover art](https://m.media-amazon.com/images/I/5112Bexot+L._SL500_.jpg) | 1:03 |
 | <a href="https://www.audible.com/pd/B002V0QZL0"><img src="https://m.media-amazon.com/images/I/514o6F3-l2L._SL500_.jpg" alt="Judas Unchained cover" width="80" height="80"></a> | 2 | **Judas Unchained**<br>Peter F. Hamilton<br><small>Science fiction</small> | [Audible](https://www.audible.com/pd/B002V0QZL0) · [Cover art](https://m.media-amazon.com/images/I/514o6F3-l2L._SL500_.jpg) | 1:02 |
+
+### Void Trilogy
+
+| Cover | Order | Book and author | Links | Video |
+|---|---:|---|---|---|
+| <a href="https://www.audible.com/pd/B002V0PW2I"><img src="https://m.media-amazon.com/images/I/51OGb-Epy-L._SL500_.jpg" alt="The Dreaming Void cover" width="80" height="80"></a> | 1 | **The Dreaming Void**<br>Peter F. Hamilton<br><small>Science fiction</small> | [Audible](https://www.audible.com/pd/B002V0PW2I) · [Cover art](https://m.media-amazon.com/images/I/51OGb-Epy-L._SL500_.jpg) | 1:02 |
+| <a href="https://www.audible.com/pd/B002V59VPW"><img src="https://m.media-amazon.com/images/I/51lOOcyP1DL._SL500_.jpg" alt="The Temporal Void cover" width="80" height="80"></a> | 2 | **The Temporal Void**<br>Peter F. Hamilton<br><small>Science fiction</small> | [Audible](https://www.audible.com/pd/B002V59VPW) · [Cover art](https://m.media-amazon.com/images/I/51lOOcyP1DL._SL500_.jpg) | 1:01 |
+| <a href="https://www.audible.com/pd/B004287I7O"><img src="https://m.media-amazon.com/images/I/61qyxSLzIDL._SL500_.jpg" alt="The Evolutionary Void cover" width="80" height="80"></a> | 3 | **The Evolutionary Void**<br>Peter F. Hamilton<br><small>Science fiction</small> | [Audible](https://www.audible.com/pd/B004287I7O) · [Cover art](https://m.media-amazon.com/images/I/61qyxSLzIDL._SL500_.jpg) | 1:01 |
+
 
 <a id="group-10"></a>
 
@@ -222,6 +251,7 @@ Each library title is assigned one primary genre or subject. These are editorial
 | <a href="https://www.audible.com/pd/B0FH7CT5WH"><img src="https://m.media-amazon.com/images/I/51s6+ddn+YL._SL500_.jpg" alt="Desperate Measures cover" width="80" height="80"></a> | 5 | **Desperate Measures**<br>Craig Alanson<br><small>Fantasy</small> | [Audible](https://www.audible.com/pd/B0FH7CT5WH) · [Cover art](https://m.media-amazon.com/images/I/51s6+ddn+YL._SL500_.jpg) | 0:14 |
 | <a href="https://www.audible.com/pd/B0GXLDSRR5"><img src="https://m.media-amazon.com/images/I/41IvYOYYUAL._SL500_.jpg" alt="Dead World cover" width="80" height="80"></a> | 6 | **Dead World**<br>Craig Alanson<br><small>Fantasy</small> | [Audible](https://www.audible.com/pd/B0GXLDSRR5) · [Cover art](https://m.media-amazon.com/images/I/41IvYOYYUAL._SL500_.jpg) | 0:05 |
 
+
 <a id="group-11"></a>
 
 ## D'Artagnan: The Musketeers Cycle
@@ -231,6 +261,7 @@ Each library title is assigned one primary genre or subject. These are editorial
 | Cover | Order | Book and author | Links | Video |
 |---|---:|---|---|---|
 | <a href="https://www.audible.com/pd/1978676204"><img src="https://m.media-amazon.com/images/I/51tO6A+3TZL._SL500_.jpg" alt="The Three Musketeers (AmazonClassics Edition) cover" width="80" height="80"></a> | 1 | **The Three Musketeers (AmazonClassics Edition)**<br>Alexandre Dumas; William Robson - translator<br><small>Literary classics &amp; mythology</small> | [Audible](https://www.audible.com/pd/1978676204) · [Cover art](https://m.media-amazon.com/images/I/51tO6A+3TZL._SL500_.jpg) | 0:33 |
+
 
 <a id="group-12"></a>
 
@@ -242,7 +273,21 @@ Each library title is assigned one primary genre or subject. These are editorial
 |---|---:|---|---|---|
 | <a href="https://www.audible.com/pd/1980068887"><img src="https://m.media-amazon.com/images/I/51gsH2t+EdL._SL500_.jpg" alt="E-Day cover" width="80" height="80"></a> | 1 | **E-Day**<br>Nicholas Sansbury Smith<br><small>Science fiction</small> | [Audible](https://www.audible.com/pd/1980068887) · [Cover art](https://m.media-amazon.com/images/I/51gsH2t+EdL._SL500_.jpg) | 0:26 |
 
+
 <a id="group-13"></a>
+
+## The Earthburst Saga
+
+3 titles.
+
+| Cover | Order | Book and author | Links | Video |
+|---|---:|---|---|---|
+| <a href="https://www.audible.com/pd/B0BHJJWW7R"><img src="https://m.media-amazon.com/images/I/51K7lmBHvOL._SL500_.jpg" alt="Last Man Standing cover" width="80" height="80"></a> | 1 | **Last Man Standing**<br>Craig A. Falconer<br><small>Science fiction</small> | [Audible](https://www.audible.com/pd/B0BHJJWW7R) · [Cover art](https://m.media-amazon.com/images/I/51K7lmBHvOL._SL500_.jpg) | 0:52 |
+| <a href="https://www.audible.com/pd/B0BP899QYT"><img src="https://m.media-amazon.com/images/I/51UaUa5BNsL._SL500_.jpg" alt="Into the Fire cover" width="80" height="80"></a> | 2 | **Into the Fire**<br>Craig A. Falconer<br><small>Science fiction</small> | [Audible](https://www.audible.com/pd/B0BP899QYT) · [Cover art](https://m.media-amazon.com/images/I/51UaUa5BNsL._SL500_.jpg) | 0:50 |
+| <a href="https://www.audible.com/pd/B0BP9KSD27"><img src="https://m.media-amazon.com/images/I/41ZKvZD6wRL._SL500_.jpg" alt="Operation Starshot cover" width="80" height="80"></a> | 3 | **Operation Starshot**<br>Craig A. Falconer<br><small>Science fiction</small> | [Audible](https://www.audible.com/pd/B0BP9KSD27) · [Cover art](https://m.media-amazon.com/images/I/41ZKvZD6wRL._SL500_.jpg) | 0:48 |
+
+
+<a id="group-14"></a>
 
 ## Exodus
 
@@ -253,11 +298,35 @@ Each library title is assigned one primary genre or subject. These are editorial
 | <a href="https://www.audible.com/pd/B0CTKSG1VB"><img src="https://m.media-amazon.com/images/I/51jr0Otb0HL._SL500_.jpg" alt="Exodus: The Archimedes Engine cover" width="80" height="80"></a> | 1 | **Exodus: The Archimedes Engine**<br>Peter F. Hamilton<br><small>Science fiction</small> | [Audible](https://www.audible.com/pd/B0CTKSG1VB) · [Cover art](https://m.media-amazon.com/images/I/51jr0Otb0HL._SL500_.jpg) | 0:12 |
 | <a href="https://www.audible.com/pd/B0FSLQJG39"><img src="https://m.media-amazon.com/images/I/51n9VluLLrL._SL500_.jpg" alt="Exodus: The Helium Sea cover" width="80" height="80"></a> | 2 | **Exodus: The Helium Sea**<br>Peter F. Hamilton<br><small>Science fiction</small> | [Audible](https://www.audible.com/pd/B0FSLQJG39) · [Cover art](https://m.media-amazon.com/images/I/51n9VluLLrL._SL500_.jpg) | 0:03 |
 
-<a id="group-14"></a>
+
+<a id="group-15"></a>
+
+## The Expanse
+
+9 titles.
+
+| Cover | Order | Book and author | Links | Video |
+|---|---:|---|---|---|
+| <a href="https://www.audible.com/pd/B073H9PF2D"><img src="https://m.media-amazon.com/images/I/51RE2p8RLML._SL500_.jpg" alt="Leviathan Wakes cover" width="80" height="80"></a> | 1 | **Leviathan Wakes**<br>James S. A. Corey<br><small>Science fiction</small> | [Audible](https://www.audible.com/pd/B073H9PF2D) · [Cover art](https://m.media-amazon.com/images/I/51RE2p8RLML._SL500_.jpg) | 1:12 |
+| <a href="https://www.audible.com/pd/B075DK95GS"><img src="https://m.media-amazon.com/images/I/51D0y8OuFJL._SL500_.jpg" alt="Caliban&#x27;s War cover" width="80" height="80"></a> | 2 | **Caliban&#x27;s War**<br>James S. A. Corey<br><small>Science fiction</small> | [Audible](https://www.audible.com/pd/B075DK95GS) · [Cover art](https://m.media-amazon.com/images/I/51D0y8OuFJL._SL500_.jpg) | 1:12 |
+| <a href="https://www.audible.com/pd/1549142194"><img src="https://m.media-amazon.com/images/I/51fOX1t9smL._SL500_.jpg" alt="Abaddon&#x27;s Gate cover" width="80" height="80"></a> | 3 | **Abaddon&#x27;s Gate**<br>James S. A. Corey<br><small>Science fiction</small> | [Audible](https://www.audible.com/pd/1549142194) · [Cover art](https://m.media-amazon.com/images/I/51fOX1t9smL._SL500_.jpg) | 1:11 |
+| <a href="https://www.audible.com/pd/B00K7PP15W"><img src="https://m.media-amazon.com/images/I/514jlt+nA1L._SL500_.jpg" alt="Cibola Burn cover" width="80" height="80"></a> | 4 | **Cibola Burn**<br>James S. A. Corey<br><small>Science fiction</small> | [Audible](https://www.audible.com/pd/B00K7PP15W) · [Cover art](https://m.media-amazon.com/images/I/514jlt+nA1L._SL500_.jpg) | 1:11 |
+| <a href="https://www.audible.com/pd/B00Y1O1FYG"><img src="https://m.media-amazon.com/images/I/61WRttCakxL._SL500_.jpg" alt="Nemesis Games cover" width="80" height="80"></a> | 5 | **Nemesis Games**<br>James S. A. Corey<br><small>Science fiction</small> | [Audible](https://www.audible.com/pd/B00Y1O1FYG) · [Cover art](https://m.media-amazon.com/images/I/61WRttCakxL._SL500_.jpg) | 1:11 |
+| <a href="https://www.audible.com/pd/B01D53NPLO"><img src="https://m.media-amazon.com/images/I/61J2kuefYaL._SL500_.jpg" alt="Babylon&#x27;s Ashes cover" width="80" height="80"></a> | 6 | **Babylon&#x27;s Ashes**<br>James S. A. Corey<br><small>Science fiction</small> | [Audible](https://www.audible.com/pd/B01D53NPLO) · [Cover art](https://m.media-amazon.com/images/I/61J2kuefYaL._SL500_.jpg) | 1:11 |
+| <a href="https://www.audible.com/pd/B074XM52YQ"><img src="https://m.media-amazon.com/images/I/6158iO8sCEL._SL500_.jpg" alt="Persepolis Rising cover" width="80" height="80"></a> | 7 | **Persepolis Rising**<br>James S. A. Corey<br><small>Science fiction</small> | [Audible](https://www.audible.com/pd/B074XM52YQ) · [Cover art](https://m.media-amazon.com/images/I/6158iO8sCEL._SL500_.jpg) | 1:10 |
+| <a href="https://www.audible.com/pd/1980006520"><img src="https://m.media-amazon.com/images/I/51QJFkl+7DL._SL500_.jpg" alt="Tiamat&#x27;s Wrath cover" width="80" height="80"></a> | 8 | **Tiamat&#x27;s Wrath**<br>James S. A. Corey<br><small>Science fiction</small> | [Audible](https://www.audible.com/pd/1980006520) · [Cover art](https://m.media-amazon.com/images/I/51QJFkl+7DL._SL500_.jpg) | 0:19 |
+| <a href="https://www.audible.com/pd/1980035962"><img src="https://m.media-amazon.com/images/I/51h23gNUoUL._SL500_.jpg" alt="Leviathan Falls cover" width="80" height="80"></a> | 9 | **Leviathan Falls**<br>James S. A. Corey<br><small>Science fiction</small> | [Audible](https://www.audible.com/pd/1980035962) · [Cover art](https://m.media-amazon.com/images/I/51h23gNUoUL._SL500_.jpg) | 1:00 |
+
+
+<a id="group-16"></a>
 
 ## Expeditionary Force
 
-21 titles.
+23 titles.
+
+Main-series books and the Mavericks spinoff each retain their own sequence. Spinoffs are kept together rather than interleaved with the main-series timeline.
+
+### Main series
 
 | Cover | Order | Book and author | Links | Video |
 |---|---:|---|---|---|
@@ -283,18 +352,15 @@ Each library title is assigned one primary genre or subject. These are editorial
 | <a href="https://www.audible.com/pd/B0DRPQFHHW"><img src="https://m.media-amazon.com/images/I/51lJw-V9g8L._SL500_.jpg" alt="Gateway cover" width="80" height="80"></a> | 18 | **Gateway**<br>Craig Alanson<br><small>Science fiction</small> | [Audible](https://www.audible.com/pd/B0DRPQFHHW) · [Cover art](https://m.media-amazon.com/images/I/51lJw-V9g8L._SL500_.jpg) | 0:19 |
 | <a href="https://www.audible.com/pd/B0FS2Z2SVC"><img src="https://m.media-amazon.com/images/I/51nNOcGqOtL._SL500_.jpg" alt="Ground State cover" width="80" height="80"></a> | 19 | **Ground State**<br>Craig Alanson<br><small>Science fiction</small> | [Audible](https://www.audible.com/pd/B0FS2Z2SVC) · [Cover art](https://m.media-amazon.com/images/I/51nNOcGqOtL._SL500_.jpg) | 0:06 |
 
-<a id="group-15"></a>
-
-## Expeditionary Force Mavericks
-
-2 titles.
+### Expeditionary Force Mavericks
 
 | Cover | Order | Book and author | Links | Video |
 |---|---:|---|---|---|
 | <a href="https://www.audible.com/pd/B07QXLT89C"><img src="https://m.media-amazon.com/images/I/510+rMBc+EL._SL500_.jpg" alt="Deathtrap cover" width="80" height="80"></a> | 1 | **Deathtrap**<br>Craig Alanson<br><small>Science fiction</small> | [Audible](https://www.audible.com/pd/B07QXLT89C) · [Cover art](https://m.media-amazon.com/images/I/510+rMBc+EL._SL500_.jpg) | 1:04 |
 | <a href="https://www.audible.com/pd/1774243318"><img src="https://m.media-amazon.com/images/I/51xJT7d1x1L._SL500_.jpg" alt="Freefall cover" width="80" height="80"></a> | 2 | **Freefall**<br>Craig Alanson<br><small>Science fiction</small> | [Audible](https://www.audible.com/pd/1774243318) · [Cover art](https://m.media-amazon.com/images/I/51xJT7d1x1L._SL500_.jpg) | 1:03 |
 
-<a id="group-16"></a>
+
+<a id="group-17"></a>
 
 ## Extreme Ownership
 
@@ -304,7 +370,32 @@ Each library title is assigned one primary genre or subject. These are editorial
 |---|---:|---|---|---|
 | <a href="https://www.audible.com/pd/B015TVHUA2"><img src="https://m.media-amazon.com/images/I/41IO3eCc9hL._SL500_.jpg" alt="Extreme Ownership cover" width="80" height="80"></a> | — | **Extreme Ownership**<br>Jocko Willink; Leif Babin<br><small>Business, leadership &amp; productivity</small> | [Audible](https://www.audible.com/pd/B015TVHUA2) · [Cover art](https://m.media-amazon.com/images/I/41IO3eCc9hL._SL500_.jpg) | 0:54 |
 
-<a id="group-17"></a>
+
+<a id="group-18"></a>
+
+## The Fear Saga
+
+3 titles.
+
+| Cover | Order | Book and author | Links | Video |
+|---|---:|---|---|---|
+| <a href="https://www.audible.com/pd/B00S8FDCTK"><img src="https://m.media-amazon.com/images/I/511fhm9PU5L._SL500_.jpg" alt="Fear the Sky cover" width="80" height="80"></a> | 1 | **Fear the Sky**<br>Stephen Moss<br><small>Science fiction</small> | [Audible](https://www.audible.com/pd/B00S8FDCTK) · [Cover art](https://m.media-amazon.com/images/I/511fhm9PU5L._SL500_.jpg) | 1:10 |
+| <a href="https://www.audible.com/pd/B01AGM2XME"><img src="https://m.media-amazon.com/images/I/51N1dEI7svL._SL500_.jpg" alt="Fear the Survivors cover" width="80" height="80"></a> | 2 | **Fear the Survivors**<br>Stephen Moss<br><small>Science fiction</small> | [Audible](https://www.audible.com/pd/B01AGM2XME) · [Cover art](https://m.media-amazon.com/images/I/51N1dEI7svL._SL500_.jpg) | 1:10 |
+| <a href="https://www.audible.com/pd/B01A9E8GJI"><img src="https://m.media-amazon.com/images/I/51+j4Y3J0fL._SL500_.jpg" alt="Fear The Future cover" width="80" height="80"></a> | 3 | **Fear The Future**<br>Stephen Moss<br><small>Science fiction</small> | [Audible](https://www.audible.com/pd/B01A9E8GJI) · [Cover art](https://m.media-amazon.com/images/I/51+j4Y3J0fL._SL500_.jpg) | 1:09 |
+
+
+<a id="group-19"></a>
+
+## The Final Architecture
+
+1 title.
+
+| Cover | Order | Book and author | Links | Video |
+|---|---:|---|---|---|
+| <a href="https://www.audible.com/pd/1549106392"><img src="https://m.media-amazon.com/images/I/51gkM687kNS._SL500_.jpg" alt="Shards of Earth cover" width="80" height="80"></a> | 1 | **Shards of Earth**<br>Adrian Tchaikovsky<br><small>Science fiction</small> | [Audible](https://www.audible.com/pd/1549106392) · [Cover art](https://m.media-amazon.com/images/I/51gkM687kNS._SL500_.jpg) | 0:31 |
+
+
+<a id="group-20"></a>
 
 ## Forgotten Vengeance
 
@@ -314,7 +405,19 @@ Each library title is assigned one primary genre or subject. These are editorial
 |---|---:|---|---|---|
 | <a href="https://www.audible.com/pd/1774241625"><img src="https://m.media-amazon.com/images/I/51Ag68+s18L._SL500_.jpg" alt="Invasion cover" width="80" height="80"></a> | 1 | **Invasion**<br>M.R. Forbes<br><small>Science fiction</small> | [Audible](https://www.audible.com/pd/1774241625) · [Cover art](https://m.media-amazon.com/images/I/51Ag68+s18L._SL500_.jpg) | 0:00 |
 
-<a id="group-18"></a>
+
+<a id="group-21"></a>
+
+## The Fourth Option
+
+1 title.
+
+| Cover | Order | Book and author | Links | Video |
+|---|---:|---|---|---|
+| <a href="https://www.audible.com/pd/B0FV3QTZM1"><img src="https://m.media-amazon.com/images/I/51tugdbCc8L._SL500_.jpg" alt="The Fourth Option cover" width="80" height="80"></a> | 1 | **The Fourth Option**<br>Jack Carr; M.P. Woodward<br><small>Thrillers, espionage &amp; mystery</small> | [Audible](https://www.audible.com/pd/B0FV3QTZM1) · [Cover art](https://m.media-amazon.com/images/I/51tugdbCc8L._SL500_.jpg) | 0:03 |
+
+
+<a id="group-22"></a>
 
 ## Freedom's Fire
 
@@ -324,7 +427,8 @@ Each library title is assigned one primary genre or subject. These are editorial
 |---|---:|---|---|---|
 | <a href="https://www.audible.com/pd/1982690917"><img src="https://m.media-amazon.com/images/I/51CfqZYvPfL._SL500_.jpg" alt="Freedom&#x27;s Fire Box Set, Books 1-6 cover" width="80" height="80"></a> | 1-6 | **Freedom&#x27;s Fire Box Set, Books 1-6**<br>Bobby Adair<br><small>Science fiction</small> | [Audible](https://www.audible.com/pd/1982690917) · [Cover art](https://m.media-amazon.com/images/I/51CfqZYvPfL._SL500_.jpg) | 0:47 |
 
-<a id="group-19"></a>
+
+<a id="group-23"></a>
 
 ## Galaxy's Edge
 
@@ -334,7 +438,8 @@ Each library title is assigned one primary genre or subject. These are editorial
 |---|---:|---|---|---|
 | <a href="https://www.audible.com/pd/B079LRSMNN"><img src="https://m.media-amazon.com/images/I/51eb9sBt7mL._SL500_.jpg" alt="Galaxy&#x27;s Edge cover" width="80" height="80"></a> | 1-2 | **Galaxy&#x27;s Edge**<br>Jason Anspach; Nick Cole<br><small>Science fiction</small> | [Audible](https://www.audible.com/pd/B079LRSMNN) · [Cover art](https://m.media-amazon.com/images/I/51eb9sBt7mL._SL500_.jpg) | 0:42 |
 
-<a id="group-20"></a>
+
+<a id="group-24"></a>
 
 ## Good to Great
 
@@ -347,7 +452,8 @@ Audible’s named collection. Its numbering is not publication order; *Good to G
 | <a href="https://www.audible.com/pd/0062346725"><img src="https://m.media-amazon.com/images/I/51mTDbNjwaL._SL500_.jpg" alt="Built to Last cover" width="80" height="80"></a> | 2 | **Built to Last**<br>Jim Collins<br><small>Business, leadership &amp; productivity</small> | [Audible](https://www.audible.com/pd/0062346725) · [Cover art](https://m.media-amazon.com/images/I/51mTDbNjwaL._SL500_.jpg) | 0:55 |
 | <a href="https://www.audible.com/pd/B003UDDK7O"><img src="https://m.media-amazon.com/images/I/41tCQsn8UGL._SL500_.jpg" alt="Good to Great cover" width="80" height="80"></a> | — | **Good to Great**<br>Jim Collins<br><small>Business, leadership &amp; productivity</small> | [Audible](https://www.audible.com/pd/B003UDDK7O) · [Cover art](https://m.media-amazon.com/images/I/41tCQsn8UGL._SL500_.jpg) | 0:55 |
 
-<a id="group-21"></a>
+
+<a id="group-25"></a>
 
 ## Gray Man
 
@@ -371,7 +477,8 @@ Audible’s named collection. Its numbering is not publication order; *Good to G
 | <a href="https://www.audible.com/pd/B0DJFY1GZ6"><img src="https://m.media-amazon.com/images/I/51joNguAA6L._SL500_.jpg" alt="Midnight Black cover" width="80" height="80"></a> | 14 | **Midnight Black**<br>Mark Greaney<br><small>Thrillers, espionage &amp; mystery</small> | [Audible](https://www.audible.com/pd/B0DJFY1GZ6) · [Cover art](https://m.media-amazon.com/images/I/51joNguAA6L._SL500_.jpg) | 0:07 |
 | <a href="https://www.audible.com/pd/B0FPJ3PT2Q"><img src="https://m.media-amazon.com/images/I/517iE4rafxL._SL500_.jpg" alt="The Hard Line cover" width="80" height="80"></a> | 15 | **The Hard Line**<br>Mark Greaney<br><small>Thrillers, espionage &amp; mystery</small> | [Audible](https://www.audible.com/pd/B0FPJ3PT2Q) · [Cover art](https://m.media-amazon.com/images/I/517iE4rafxL._SL500_.jpg) | 0:07 |
 
-<a id="group-22"></a>
+
+<a id="group-26"></a>
 
 ## Green Zone War
 
@@ -381,7 +488,22 @@ Audible’s named collection. Its numbering is not publication order; *Good to G
 |---|---:|---|---|---|
 | <a href="https://www.audible.com/pd/B07HJCDHP5"><img src="https://m.media-amazon.com/images/I/51VrmM5dWOL._SL500_.jpg" alt="Rumors of War cover" width="80" height="80"></a> | 1 | **Rumors of War**<br>Jake Elwood<br><small>Science fiction</small> | [Audible](https://www.audible.com/pd/B07HJCDHP5) · [Cover art](https://m.media-amazon.com/images/I/51VrmM5dWOL._SL500_.jpg) | 0:32 |
 
-<a id="group-23"></a>
+
+<a id="group-27"></a>
+
+## A History of the English-Speaking Peoples
+
+4 titles.
+
+| Cover | Order | Book and author | Links | Video |
+|---|---:|---|---|---|
+| <a href="https://www.audible.com/pd/B002V0QGTQ"><img src="https://m.media-amazon.com/images/I/51ETTdhmxpL._SL500_.jpg" alt="The Birth of Britain cover" width="80" height="80"></a> | 1 | **The Birth of Britain**<br>Sir Winston Churchill<br><small>History, military &amp; politics</small> | [Audible](https://www.audible.com/pd/B002V0QGTQ) · [Cover art](https://m.media-amazon.com/images/I/51ETTdhmxpL._SL500_.jpg) | 0:34 |
+| <a href="https://www.audible.com/pd/B002V0K7Y6"><img src="https://m.media-amazon.com/images/I/51-93O2HW3L._SL500_.jpg" alt="The New World cover" width="80" height="80"></a> | 2 | **The New World**<br>Sir Winston Churchill<br><small>History, military &amp; politics</small> | [Audible](https://www.audible.com/pd/B002V0K7Y6) · [Cover art](https://m.media-amazon.com/images/I/51-93O2HW3L._SL500_.jpg) | 0:37 |
+| <a href="https://www.audible.com/pd/B002V1LMSK"><img src="https://m.media-amazon.com/images/I/51+4xuNKwtL._SL500_.jpg" alt="The Age of Revolution cover" width="80" height="80"></a> | 3 | **The Age of Revolution**<br>Sir Winston Churchill<br><small>History, military &amp; politics</small> | [Audible](https://www.audible.com/pd/B002V1LMSK) · [Cover art](https://m.media-amazon.com/images/I/51+4xuNKwtL._SL500_.jpg) | 0:35 |
+| <a href="https://www.audible.com/pd/B002V1OIRW"><img src="https://m.media-amazon.com/images/I/51quMwEG+qL._SL500_.jpg" alt="The Great Democracies cover" width="80" height="80"></a> | 4 | **The Great Democracies**<br>Sir Winston Churchill<br><small>History, military &amp; politics</small> | [Audible](https://www.audible.com/pd/B002V1OIRW) · [Cover art](https://m.media-amazon.com/images/I/51quMwEG+qL._SL500_.jpg) | 0:34 |
+
+
+<a id="group-28"></a>
 
 ## Iliad & Odyssey
 
@@ -391,7 +513,8 @@ Audible’s named collection. Its numbering is not publication order; *Good to G
 |---|---:|---|---|---|
 | <a href="https://www.audible.com/pd/B002UZMV1Y"><img src="https://m.media-amazon.com/images/I/51fcNBxaXfL._SL500_.jpg" alt="The Iliad cover" width="80" height="80"></a> | 1 | **The Iliad**<br>Homer; Bernard Knox - introduction; Robert Fagles - translator<br><small>Literary classics &amp; mythology</small><br><em>Abridged Fagles translation with Bernard Knox introduction; 8h 44m in the recording matches this edition.</em> | [Audible](https://www.audible.com/pd/B002UZMV1Y) · [Cover art](https://m.media-amazon.com/images/I/51fcNBxaXfL._SL500_.jpg) | 0:24 |
 
-<a id="group-24"></a>
+
+<a id="group-29"></a>
 
 ## Infinite Timeline
 
@@ -404,7 +527,8 @@ Audible’s named collection. Its numbering is not publication order; *Good to G
 | <a href="https://www.audible.com/pd/B08WR1M9PL"><img src="https://m.media-amazon.com/images/I/516ZLprWeJL._SL500_.jpg" alt="Infinite 2 cover" width="80" height="80"></a> | 10 | **Infinite 2**<br>Jeremy Robinson<br><small>Science fiction</small> | [Audible](https://www.audible.com/pd/B08WR1M9PL) · [Cover art](https://m.media-amazon.com/images/I/516ZLprWeJL._SL500_.jpg) | 0:57 |
 | <a href="https://www.audible.com/pd/B09TN4R3QB"><img src="https://m.media-amazon.com/images/I/51FNOKmULtL._SL500_.jpg" alt="The Order cover" width="80" height="80"></a> | 11 | **The Order**<br>Jeremy Robinson<br><small>Science fiction</small> | [Audible](https://www.audible.com/pd/B09TN4R3QB) · [Cover art](https://m.media-amazon.com/images/I/51FNOKmULtL._SL500_.jpg) | 0:55 |
 
-<a id="group-25"></a>
+
+<a id="group-30"></a>
 
 ## Jason Bourne Series
 
@@ -414,7 +538,8 @@ Audible’s named collection. Its numbering is not publication order; *Good to G
 |---|---:|---|---|---|
 | <a href="https://www.audible.com/pd/B002V5BOO8"><img src="https://m.media-amazon.com/images/I/51Vs78l8T6L._SL500_.jpg" alt="Robert Ludlum&#x27;s (TM) The Bourne Betrayal cover" width="80" height="80"></a> | 5 | **Robert Ludlum&#x27;s (TM) The Bourne Betrayal**<br>Eric Van Lustbader<br><small>Thrillers, espionage &amp; mystery</small> | [Audible](https://www.audible.com/pd/B002V5BOO8) · [Cover art](https://m.media-amazon.com/images/I/51Vs78l8T6L._SL500_.jpg) | 1:21 |
 
-<a id="group-26"></a>
+
+<a id="group-31"></a>
 
 ## Lightbringer Saga
 
@@ -428,7 +553,8 @@ Audible’s named collection. Its numbering is not publication order; *Good to G
 | <a href="https://www.audible.com/pd/B01K8S3XDE"><img src="https://m.media-amazon.com/images/I/519teXBNWaL._SL500_.jpg" alt="The Blood Mirror cover" width="80" height="80"></a> | 4 | **The Blood Mirror**<br>Brent Weeks<br><small>Fantasy</small> | [Audible](https://www.audible.com/pd/B01K8S3XDE) · [Cover art](https://m.media-amazon.com/images/I/519teXBNWaL._SL500_.jpg) | 0:51 |
 | <a href="https://www.audible.com/pd/147897835X"><img src="https://m.media-amazon.com/images/I/51NJeelUoTL._SL500_.jpg" alt="The Burning White cover" width="80" height="80"></a> | 5 | **The Burning White**<br>Brent Weeks<br><small>Fantasy</small> | [Audible](https://www.audible.com/pd/147897835X) · [Cover art](https://m.media-amazon.com/images/I/51NJeelUoTL._SL500_.jpg) | 0:50 |
 
-<a id="group-27"></a>
+
+<a id="group-32"></a>
 
 ## Mitch Rapp
 
@@ -438,7 +564,8 @@ Audible’s named collection. Its numbering is not publication order; *Good to G
 |---|---:|---|---|---|
 | <a href="https://www.audible.com/pd/B002V1LAIM"><img src="https://m.media-amazon.com/images/I/6195W6IdrJL._SL500_.jpg" alt="Extreme Measures cover" width="80" height="80"></a> | 11 | **Extreme Measures**<br>Vince Flynn<br><small>Thrillers, espionage &amp; mystery</small> | [Audible](https://www.audible.com/pd/B002V1LAIM) · [Cover art](https://m.media-amazon.com/images/I/6195W6IdrJL._SL500_.jpg) | 1:22 |
 
-<a id="group-28"></a>
+
+<a id="group-33"></a>
 
 ## Murderbot Diaries
 
@@ -454,7 +581,8 @@ Audible’s named collection. Its numbering is not publication order; *Good to G
 | <a href="https://www.audible.com/pd/1980080631"><img src="https://m.media-amazon.com/images/I/51DugaJO10L._SL500_.jpg" alt="Fugitive Telemetry cover" width="80" height="80"></a> | 6 | **Fugitive Telemetry**<br>Martha Wells<br><small>Science fiction</small> | [Audible](https://www.audible.com/pd/1980080631) · [Cover art](https://m.media-amazon.com/images/I/51DugaJO10L._SL500_.jpg) | 0:15 |
 | <a href="https://www.audible.com/pd/B0C5N9FNB4"><img src="https://m.media-amazon.com/images/I/51C32iNr5YL._SL500_.jpg" alt="System Collapse cover" width="80" height="80"></a> | 7 | **System Collapse**<br>Martha Wells<br><small>Science fiction</small> | [Audible](https://www.audible.com/pd/B0C5N9FNB4) · [Cover art](https://m.media-amazon.com/images/I/51C32iNr5YL._SL500_.jpg) | 0:15 |
 
-<a id="group-29"></a>
+
+<a id="group-34"></a>
 
 ## Night Soldiers
 
@@ -465,7 +593,8 @@ Audible’s named collection. Its numbering is not publication order; *Good to G
 | <a href="https://www.audible.com/pd/B002UZL6C4"><img src="https://m.media-amazon.com/images/I/51TxcTCYYpL._SL500_.jpg" alt="Night Soldiers cover" width="80" height="80"></a> | 1 | **Night Soldiers**<br>Alan Furst<br><small>Thrillers, espionage &amp; mystery</small> | [Audible](https://www.audible.com/pd/B002UZL6C4) · [Cover art](https://m.media-amazon.com/images/I/51TxcTCYYpL._SL500_.jpg) | 1:23 |
 | <a href="https://www.audible.com/pd/B002V5GMZY"><img src="https://m.media-amazon.com/images/I/419ZYIrvhWL._SL500_.jpg" alt="Dark Star cover" width="80" height="80"></a> | 2 | **Dark Star**<br>Alan Furst<br><small>Thrillers, espionage &amp; mystery</small> | [Audible](https://www.audible.com/pd/B002V5GMZY) · [Cover art](https://m.media-amazon.com/images/I/419ZYIrvhWL._SL500_.jpg) | 1:23 |
 
-<a id="group-30"></a>
+
+<a id="group-35"></a>
 
 ## Not Alone
 
@@ -477,7 +606,8 @@ Audible’s named collection. Its numbering is not publication order; *Good to G
 | <a href="https://www.audible.com/pd/B07F786LK1"><img src="https://m.media-amazon.com/images/I/51QoxNf00GL._SL500_.jpg" alt="Not Alone: Second Contact cover" width="80" height="80"></a> | 2 | **Not Alone: Second Contact**<br>Craig A. Falconer<br><small>Science fiction</small> | [Audible](https://www.audible.com/pd/B07F786LK1) · [Cover art](https://m.media-amazon.com/images/I/51QoxNf00GL._SL500_.jpg) | 0:53 |
 | <a href="https://www.audible.com/pd/B086H2C5BJ"><img src="https://m.media-amazon.com/images/I/51BsYRT-uUL._SL500_.jpg" alt="Not Alone: Leap of Destiny cover" width="80" height="80"></a> | 5 | **Not Alone: Leap of Destiny**<br>Craig A. Falconer<br><small>Science fiction</small> | [Audible](https://www.audible.com/pd/B086H2C5BJ) · [Cover art](https://m.media-amazon.com/images/I/51BsYRT-uUL._SL500_.jpg) | 0:52 |
 
-<a id="group-31"></a>
+
+<a id="group-36"></a>
 
 ## Old Guns
 
@@ -487,7 +617,8 @@ Audible’s named collection. Its numbering is not publication order; *Good to G
 |---|---:|---|---|---|
 | <a href="https://www.audible.com/pd/B0G4XBLK78"><img src="https://m.media-amazon.com/images/I/511NiIPU0iL._SL500_.jpg" alt="Old Guns: A Military Sci-Fi Adventure cover" width="80" height="80"></a> | 1 | **Old Guns: A Military Sci-Fi Adventure**<br>J. N. Chaney; Nicholas Sansbury Smith<br><small>Science fiction</small> | [Audible](https://www.audible.com/pd/B0G4XBLK78) · [Cover art](https://m.media-amazon.com/images/I/511NiIPU0iL._SL500_.jpg) | 0:02 |
 
-<a id="group-32"></a>
+
+<a id="group-37"></a>
 
 ## Old Man's War
 
@@ -502,7 +633,8 @@ Audible’s named collection. Its numbering is not publication order; *Good to G
 | <a href="https://www.audible.com/pd/B00CPPQZJI"><img src="https://m.media-amazon.com/images/I/51Vnc0iAqaL._SL500_.jpg" alt="The Human Division cover" width="80" height="80"></a> | 5 | **The Human Division**<br>John Scalzi<br><small>Science fiction</small> | [Audible](https://www.audible.com/pd/B00CPPQZJI) · [Cover art](https://m.media-amazon.com/images/I/51Vnc0iAqaL._SL500_.jpg) | 0:59 |
 | <a href="https://www.audible.com/pd/B0118MY6JE"><img src="https://m.media-amazon.com/images/I/51x5ttgmwHL._SL500_.jpg" alt="The End of All Things cover" width="80" height="80"></a> | 6 | **The End of All Things**<br>John Scalzi<br><small>Science fiction</small> | [Audible](https://www.audible.com/pd/B0118MY6JE) · [Cover art](https://m.media-amazon.com/images/I/51x5ttgmwHL._SL500_.jpg) | 0:59 |
 
-<a id="group-33"></a>
+
+<a id="group-38"></a>
 
 ## Orphan X
 
@@ -518,7 +650,8 @@ Audible’s named collection. Its numbering is not publication order; *Good to G
 | <a href="https://www.audible.com/pd/1250787920"><img src="https://m.media-amazon.com/images/I/516PJ+4BvqL._SL500_.jpg" alt="Prodigal Son cover" width="80" height="80"></a> | 6 | **Prodigal Son**<br>Gregg Hurwitz<br><small>Thrillers, espionage &amp; mystery</small> | [Audible](https://www.audible.com/pd/1250787920) · [Cover art](https://m.media-amazon.com/images/I/516PJ+4BvqL._SL500_.jpg) | 0:13 |
 | <a href="https://www.audible.com/pd/1250787882"><img src="https://m.media-amazon.com/images/I/41xzDzZwiaL._SL500_.jpg" alt="Dark Horse cover" width="80" height="80"></a> | 7 | **Dark Horse**<br>Gregg Hurwitz<br><small>Thrillers, espionage &amp; mystery</small> | [Audible](https://www.audible.com/pd/1250787882) · [Cover art](https://m.media-amazon.com/images/I/41xzDzZwiaL._SL500_.jpg) | 0:13 |
 
-<a id="group-34"></a>
+
+<a id="group-39"></a>
 
 ## Planetside
 
@@ -531,154 +664,8 @@ Audible’s named collection. Its numbering is not publication order; *Good to G
 | <a href="https://www.audible.com/pd/0062980998"><img src="https://m.media-amazon.com/images/I/61Ne17ropAL._SL500_.jpg" alt="Colonyside cover" width="80" height="80"></a> | 3 | **Colonyside**<br>Michael Mammay<br><small>Science fiction</small> | [Audible](https://www.audible.com/pd/0062980998) · [Cover art](https://m.media-amazon.com/images/I/61Ne17ropAL._SL500_.jpg) | 0:57 |
 | <a href="https://www.audible.com/pd/B0CR4N3KKD"><img src="https://m.media-amazon.com/images/I/51AaXgdMRyL._SL500_.jpg" alt="Darkside cover" width="80" height="80"></a> | 4 | **Darkside**<br>Michael Mammay<br><small>Science fiction</small> | [Audible](https://www.audible.com/pd/B0CR4N3KKD) · [Cover art](https://m.media-amazon.com/images/I/51AaXgdMRyL._SL500_.jpg) | 0:00 |
 
-<a id="group-35"></a>
-
-## Red Rising
-
-6 titles.
-
-| Cover | Order | Book and author | Links | Video |
-|---|---:|---|---|---|
-| <a href="https://www.audible.com/pd/B00I2VWW5U"><img src="https://m.media-amazon.com/images/I/51IM+e-toYL._SL500_.jpg" alt="Red Rising cover" width="80" height="80"></a> | 1 | **Red Rising**<br>Pierce Brown<br><small>Science fiction</small> | [Audible](https://www.audible.com/pd/B00I2VWW5U) · [Cover art](https://m.media-amazon.com/images/I/51IM+e-toYL._SL500_.jpg) | 1:15 |
-| <a href="https://www.audible.com/pd/B00R6S1RCY"><img src="https://m.media-amazon.com/images/I/514G5+-hXEL._SL500_.jpg" alt="Golden Son cover" width="80" height="80"></a> | 2 | **Golden Son**<br>Pierce Brown<br><small>Science fiction</small> | [Audible](https://www.audible.com/pd/B00R6S1RCY) · [Cover art](https://m.media-amazon.com/images/I/514G5+-hXEL._SL500_.jpg) | 1:14 |
-| <a href="https://www.audible.com/pd/B019NMZ6FE"><img src="https://m.media-amazon.com/images/I/41uGVHtH2pL._SL500_.jpg" alt="Morning Star cover" width="80" height="80"></a> | 3 | **Morning Star**<br>Pierce Brown<br><small>Science fiction</small> | [Audible](https://www.audible.com/pd/B019NMZ6FE) · [Cover art](https://m.media-amazon.com/images/I/41uGVHtH2pL._SL500_.jpg) | 1:13 |
-| <a href="https://www.audible.com/pd/B074NBTRGL"><img src="https://m.media-amazon.com/images/I/51oKG4sAeqL._SL500_.jpg" alt="Iron Gold cover" width="80" height="80"></a> | 4 | **Iron Gold**<br>Pierce Brown<br><small>Science fiction</small> | [Audible](https://www.audible.com/pd/B074NBTRGL) · [Cover art](https://m.media-amazon.com/images/I/51oKG4sAeqL._SL500_.jpg) | 1:13 |
-| <a href="https://www.audible.com/pd/1980000174"><img src="https://m.media-amazon.com/images/I/51FGAP7DbxL._SL500_.jpg" alt="Dark Age cover" width="80" height="80"></a> | 5 | **Dark Age**<br>Pierce Brown<br><small>Science fiction</small> | [Audible](https://www.audible.com/pd/1980000174) · [Cover art](https://m.media-amazon.com/images/I/51FGAP7DbxL._SL500_.jpg) | 1:13 |
-| <a href="https://www.audible.com/pd/B0C28WLQP1"><img src="https://m.media-amazon.com/images/I/51uxvAxiknL._SL500_.jpg" alt="Light Bringer cover" width="80" height="80"></a> | 6 | **Light Bringer**<br>Pierce Brown<br><small>Science fiction</small> | [Audible](https://www.audible.com/pd/B0C28WLQP1) · [Cover art](https://m.media-amazon.com/images/I/51uxvAxiknL._SL500_.jpg) | 0:27 |
-
-<a id="group-36"></a>
-
-## Revelation Space
-
-7 titles.
-
-The Prefect Dreyfus books are grouped separately under **The Prefect Dreyfus Emergencies**. Audible’s sequence here is a catalog order, not a recommended chronological reading order.
-
-| Cover | Order | Book and author | Links | Video |
-|---|---:|---|---|---|
-| <a href="https://www.audible.com/pd/B002V5GYHA"><img src="https://m.media-amazon.com/images/I/51NbmYGYLvL._SL500_.jpg" alt="Revelation Space cover" width="80" height="80"></a> | 1 | **Revelation Space**<br>Alastair Reynolds<br><small>Science fiction</small> | [Audible](https://www.audible.com/pd/B002V5GYHA) · [Cover art](https://m.media-amazon.com/images/I/51NbmYGYLvL._SL500_.jpg) | 1:09 |
-| <a href="https://www.audible.com/pd/B0030MTMLS"><img src="https://m.media-amazon.com/images/I/41cvGfqhaiL._SL500_.jpg" alt="Chasm City cover" width="80" height="80"></a> | 2 | **Chasm City**<br>Alastair Reynolds<br><small>Science fiction</small> | [Audible](https://www.audible.com/pd/B0030MTMLS) · [Cover art](https://m.media-amazon.com/images/I/41cvGfqhaiL._SL500_.jpg) | 1:08 |
-| <a href="https://www.audible.com/pd/B002V1O58E"><img src="https://m.media-amazon.com/images/I/51b8vS5ettL._SL500_.jpg" alt="Redemption Ark cover" width="80" height="80"></a> | 3 | **Redemption Ark**<br>Alastair Reynolds<br><small>Science fiction</small> | [Audible](https://www.audible.com/pd/B002V1O58E) · [Cover art](https://m.media-amazon.com/images/I/51b8vS5ettL._SL500_.jpg) | 1:08 |
-| <a href="https://www.audible.com/pd/B002V5B3BW"><img src="https://m.media-amazon.com/images/I/51c-dj9khIL._SL500_.jpg" alt="Absolution Gap cover" width="80" height="80"></a> | 4 | **Absolution Gap**<br>Alastair Reynolds<br><small>Science fiction</small> | [Audible](https://www.audible.com/pd/B002V5B3BW) · [Cover art](https://m.media-amazon.com/images/I/51c-dj9khIL._SL500_.jpg) | 1:08 |
-| <a href="https://www.audible.com/pd/B0128481DI"><img src="https://m.media-amazon.com/images/I/51WLI+FkdvL._SL500_.jpg" alt="Diamond Dogs, Turquoise Days cover" width="80" height="80"></a> | 6 | **Diamond Dogs, Turquoise Days**<br>Alastair Reynolds<br><small>Science fiction</small> | [Audible](https://www.audible.com/pd/B0128481DI) · [Cover art](https://m.media-amazon.com/images/I/51WLI+FkdvL._SL500_.jpg) | 0:33 |
-| <a href="https://www.audible.com/pd/B09F8VYDVH"><img src="https://m.media-amazon.com/images/I/51E9KXEF+FL._SL500_.jpg" alt="Inhibitor Phase cover" width="80" height="80"></a> | 7 | **Inhibitor Phase**<br>Alastair Reynolds<br><small>Science fiction</small> | [Audible](https://www.audible.com/pd/B09F8VYDVH) · [Cover art](https://m.media-amazon.com/images/I/51E9KXEF+FL._SL500_.jpg) | 1:02 |
-| <a href="https://www.audible.com/pd/B002V8MRS2"><img src="https://m.media-amazon.com/images/I/51hHp34RRRL._SL500_.jpg" alt="Galactic North cover" width="80" height="80"></a> | — | **Galactic North**<br>Alastair Reynolds<br><small>Science fiction</small> | [Audible](https://www.audible.com/pd/B002V8MRS2) · [Cover art](https://m.media-amazon.com/images/I/51hHp34RRRL._SL500_.jpg) | 1:08 |
-
-<a id="group-37"></a>
-
-## Richard Rhodes' Nuclear Histories
-
-1 title.
-
-| Cover | Order | Book and author | Links | Video |
-|---|---:|---|---|---|
-| <a href="https://www.audible.com/pd/B01B1ZA7DM"><img src="https://m.media-amazon.com/images/I/41o+jcnMdJL._SL500_.jpg" alt="Making of the Atomic Bomb cover" width="80" height="80"></a> | — | **Making of the Atomic Bomb**<br>Richard Rhodes<br><small>History, military &amp; politics</small> | [Audible](https://www.audible.com/pd/B01B1ZA7DM) · [Cover art](https://m.media-amazon.com/images/I/41o+jcnMdJL._SL500_.jpg) | 0:44 |
-
-<a id="group-38"></a>
-
-## Start with Why
-
-1 title.
-
-| Cover | Order | Book and author | Links | Video |
-|---|---:|---|---|---|
-| <a href="https://www.audible.com/pd/B0F71ZM8YL"><img src="https://m.media-amazon.com/images/I/41U8k2KOgFL._SL500_.jpg" alt="Start with Why cover" width="80" height="80"></a> | 1 | **Start with Why**<br>Simon Sinek<br><small>Business, leadership &amp; productivity</small><br><em>The recording shows Start with Why without an anniversary label. The link and cover use the currently listed 15th Anniversary Edition; the original edition could not be verified.</em> | [Audible](https://www.audible.com/pd/B0F71ZM8YL) · [Cover art](https://m.media-amazon.com/images/I/41U8k2KOgFL._SL500_.jpg) | 0:57 |
-
-<a id="group-39"></a>
-
-## The Age of Madness
-
-1 title.
-
-| Cover | Order | Book and author | Links | Video |
-|---|---:|---|---|---|
-| <a href="https://www.audible.com/pd/1478916591"><img src="https://m.media-amazon.com/images/I/61u1vYY6gaL._SL500_.jpg" alt="A Little Hatred cover" width="80" height="80"></a> | 1 | **A Little Hatred**<br>Joe Abercrombie<br><small>Fantasy</small> | [Audible](https://www.audible.com/pd/1478916591) · [Cover art](https://m.media-amazon.com/images/I/61u1vYY6gaL._SL500_.jpg) | 0:43 |
 
 <a id="group-40"></a>
-
-## The Captive's War
-
-1 title.
-
-| Cover | Order | Book and author | Links | Video |
-|---|---:|---|---|---|
-| <a href="https://www.audible.com/pd/B0CQZ5167B"><img src="https://m.media-amazon.com/images/I/51n1QX6rs9L._SL500_.jpg" alt="The Mercy of Gods cover" width="80" height="80"></a> | 1 | **The Mercy of Gods**<br>James S. A. Corey<br><small>Science fiction</small> | [Audible](https://www.audible.com/pd/B0CQZ5167B) · [Cover art](https://m.media-amazon.com/images/I/51n1QX6rs9L._SL500_.jpg) | 0:07 |
-
-<a id="group-41"></a>
-
-## The Earthburst Saga
-
-3 titles.
-
-| Cover | Order | Book and author | Links | Video |
-|---|---:|---|---|---|
-| <a href="https://www.audible.com/pd/B0BHJJWW7R"><img src="https://m.media-amazon.com/images/I/51K7lmBHvOL._SL500_.jpg" alt="Last Man Standing cover" width="80" height="80"></a> | 1 | **Last Man Standing**<br>Craig A. Falconer<br><small>Science fiction</small> | [Audible](https://www.audible.com/pd/B0BHJJWW7R) · [Cover art](https://m.media-amazon.com/images/I/51K7lmBHvOL._SL500_.jpg) | 0:52 |
-| <a href="https://www.audible.com/pd/B0BP899QYT"><img src="https://m.media-amazon.com/images/I/51UaUa5BNsL._SL500_.jpg" alt="Into the Fire cover" width="80" height="80"></a> | 2 | **Into the Fire**<br>Craig A. Falconer<br><small>Science fiction</small> | [Audible](https://www.audible.com/pd/B0BP899QYT) · [Cover art](https://m.media-amazon.com/images/I/51UaUa5BNsL._SL500_.jpg) | 0:50 |
-| <a href="https://www.audible.com/pd/B0BP9KSD27"><img src="https://m.media-amazon.com/images/I/41ZKvZD6wRL._SL500_.jpg" alt="Operation Starshot cover" width="80" height="80"></a> | 3 | **Operation Starshot**<br>Craig A. Falconer<br><small>Science fiction</small> | [Audible](https://www.audible.com/pd/B0BP9KSD27) · [Cover art](https://m.media-amazon.com/images/I/41ZKvZD6wRL._SL500_.jpg) | 0:48 |
-
-<a id="group-42"></a>
-
-## The Expanse
-
-9 titles.
-
-| Cover | Order | Book and author | Links | Video |
-|---|---:|---|---|---|
-| <a href="https://www.audible.com/pd/B073H9PF2D"><img src="https://m.media-amazon.com/images/I/51RE2p8RLML._SL500_.jpg" alt="Leviathan Wakes cover" width="80" height="80"></a> | 1 | **Leviathan Wakes**<br>James S. A. Corey<br><small>Science fiction</small> | [Audible](https://www.audible.com/pd/B073H9PF2D) · [Cover art](https://m.media-amazon.com/images/I/51RE2p8RLML._SL500_.jpg) | 1:12 |
-| <a href="https://www.audible.com/pd/B075DK95GS"><img src="https://m.media-amazon.com/images/I/51D0y8OuFJL._SL500_.jpg" alt="Caliban&#x27;s War cover" width="80" height="80"></a> | 2 | **Caliban&#x27;s War**<br>James S. A. Corey<br><small>Science fiction</small> | [Audible](https://www.audible.com/pd/B075DK95GS) · [Cover art](https://m.media-amazon.com/images/I/51D0y8OuFJL._SL500_.jpg) | 1:12 |
-| <a href="https://www.audible.com/pd/1549142194"><img src="https://m.media-amazon.com/images/I/51fOX1t9smL._SL500_.jpg" alt="Abaddon&#x27;s Gate cover" width="80" height="80"></a> | 3 | **Abaddon&#x27;s Gate**<br>James S. A. Corey<br><small>Science fiction</small> | [Audible](https://www.audible.com/pd/1549142194) · [Cover art](https://m.media-amazon.com/images/I/51fOX1t9smL._SL500_.jpg) | 1:11 |
-| <a href="https://www.audible.com/pd/B00K7PP15W"><img src="https://m.media-amazon.com/images/I/514jlt+nA1L._SL500_.jpg" alt="Cibola Burn cover" width="80" height="80"></a> | 4 | **Cibola Burn**<br>James S. A. Corey<br><small>Science fiction</small> | [Audible](https://www.audible.com/pd/B00K7PP15W) · [Cover art](https://m.media-amazon.com/images/I/514jlt+nA1L._SL500_.jpg) | 1:11 |
-| <a href="https://www.audible.com/pd/B00Y1O1FYG"><img src="https://m.media-amazon.com/images/I/61WRttCakxL._SL500_.jpg" alt="Nemesis Games cover" width="80" height="80"></a> | 5 | **Nemesis Games**<br>James S. A. Corey<br><small>Science fiction</small> | [Audible](https://www.audible.com/pd/B00Y1O1FYG) · [Cover art](https://m.media-amazon.com/images/I/61WRttCakxL._SL500_.jpg) | 1:11 |
-| <a href="https://www.audible.com/pd/B01D53NPLO"><img src="https://m.media-amazon.com/images/I/61J2kuefYaL._SL500_.jpg" alt="Babylon&#x27;s Ashes cover" width="80" height="80"></a> | 6 | **Babylon&#x27;s Ashes**<br>James S. A. Corey<br><small>Science fiction</small> | [Audible](https://www.audible.com/pd/B01D53NPLO) · [Cover art](https://m.media-amazon.com/images/I/61J2kuefYaL._SL500_.jpg) | 1:11 |
-| <a href="https://www.audible.com/pd/B074XM52YQ"><img src="https://m.media-amazon.com/images/I/6158iO8sCEL._SL500_.jpg" alt="Persepolis Rising cover" width="80" height="80"></a> | 7 | **Persepolis Rising**<br>James S. A. Corey<br><small>Science fiction</small> | [Audible](https://www.audible.com/pd/B074XM52YQ) · [Cover art](https://m.media-amazon.com/images/I/6158iO8sCEL._SL500_.jpg) | 1:10 |
-| <a href="https://www.audible.com/pd/1980006520"><img src="https://m.media-amazon.com/images/I/51QJFkl+7DL._SL500_.jpg" alt="Tiamat&#x27;s Wrath cover" width="80" height="80"></a> | 8 | **Tiamat&#x27;s Wrath**<br>James S. A. Corey<br><small>Science fiction</small> | [Audible](https://www.audible.com/pd/1980006520) · [Cover art](https://m.media-amazon.com/images/I/51QJFkl+7DL._SL500_.jpg) | 0:19 |
-| <a href="https://www.audible.com/pd/1980035962"><img src="https://m.media-amazon.com/images/I/51h23gNUoUL._SL500_.jpg" alt="Leviathan Falls cover" width="80" height="80"></a> | 9 | **Leviathan Falls**<br>James S. A. Corey<br><small>Science fiction</small> | [Audible](https://www.audible.com/pd/1980035962) · [Cover art](https://m.media-amazon.com/images/I/51h23gNUoUL._SL500_.jpg) | 1:00 |
-
-<a id="group-43"></a>
-
-## The Expansion Wars Trilogy
-
-3 titles.
-
-| Cover | Order | Book and author | Links | Video |
-|---|---:|---|---|---|
-| <a href="https://www.audible.com/pd/B06XR59MLQ"><img src="https://m.media-amazon.com/images/I/51pu9pJIiEL._SL500_.jpg" alt="New Frontiers cover" width="80" height="80"></a> | 1 | **New Frontiers**<br>Joshua Dalzelle<br><small>Science fiction</small> | [Audible](https://www.audible.com/pd/B06XR59MLQ) · [Cover art](https://m.media-amazon.com/images/I/51pu9pJIiEL._SL500_.jpg) | 0:40 |
-| <a href="https://www.audible.com/pd/B072QFWDWL"><img src="https://m.media-amazon.com/images/I/51uQOmrnfvL._SL500_.jpg" alt="Iron and Blood cover" width="80" height="80"></a> | 2 | **Iron and Blood**<br>Joshua Dalzelle<br><small>Science fiction</small> | [Audible](https://www.audible.com/pd/B072QFWDWL) · [Cover art](https://m.media-amazon.com/images/I/51uQOmrnfvL._SL500_.jpg) | 0:40 |
-| <a href="https://www.audible.com/pd/B078P2HC19"><img src="https://m.media-amazon.com/images/I/51BlsLDdx9L._SL500_.jpg" alt="Destroyer cover" width="80" height="80"></a> | 3 | **Destroyer**<br>Joshua Dalzelle<br><small>Science fiction</small> | [Audible](https://www.audible.com/pd/B078P2HC19) · [Cover art](https://m.media-amazon.com/images/I/51BlsLDdx9L._SL500_.jpg) | 0:40 |
-
-<a id="group-44"></a>
-
-## The Fear Saga
-
-3 titles.
-
-| Cover | Order | Book and author | Links | Video |
-|---|---:|---|---|---|
-| <a href="https://www.audible.com/pd/B00S8FDCTK"><img src="https://m.media-amazon.com/images/I/511fhm9PU5L._SL500_.jpg" alt="Fear the Sky cover" width="80" height="80"></a> | 1 | **Fear the Sky**<br>Stephen Moss<br><small>Science fiction</small> | [Audible](https://www.audible.com/pd/B00S8FDCTK) · [Cover art](https://m.media-amazon.com/images/I/511fhm9PU5L._SL500_.jpg) | 1:10 |
-| <a href="https://www.audible.com/pd/B01AGM2XME"><img src="https://m.media-amazon.com/images/I/51N1dEI7svL._SL500_.jpg" alt="Fear the Survivors cover" width="80" height="80"></a> | 2 | **Fear the Survivors**<br>Stephen Moss<br><small>Science fiction</small> | [Audible](https://www.audible.com/pd/B01AGM2XME) · [Cover art](https://m.media-amazon.com/images/I/51N1dEI7svL._SL500_.jpg) | 1:10 |
-| <a href="https://www.audible.com/pd/B01A9E8GJI"><img src="https://m.media-amazon.com/images/I/51+j4Y3J0fL._SL500_.jpg" alt="Fear The Future cover" width="80" height="80"></a> | 3 | **Fear The Future**<br>Stephen Moss<br><small>Science fiction</small> | [Audible](https://www.audible.com/pd/B01A9E8GJI) · [Cover art](https://m.media-amazon.com/images/I/51+j4Y3J0fL._SL500_.jpg) | 1:09 |
-
-<a id="group-45"></a>
-
-## The Final Architecture
-
-1 title.
-
-| Cover | Order | Book and author | Links | Video |
-|---|---:|---|---|---|
-| <a href="https://www.audible.com/pd/1549106392"><img src="https://m.media-amazon.com/images/I/51gkM687kNS._SL500_.jpg" alt="Shards of Earth cover" width="80" height="80"></a> | 1 | **Shards of Earth**<br>Adrian Tchaikovsky<br><small>Science fiction</small> | [Audible](https://www.audible.com/pd/1549106392) · [Cover art](https://m.media-amazon.com/images/I/51gkM687kNS._SL500_.jpg) | 0:31 |
-
-<a id="group-46"></a>
-
-## The Fourth Option
-
-1 title.
-
-| Cover | Order | Book and author | Links | Video |
-|---|---:|---|---|---|
-| <a href="https://www.audible.com/pd/B0FV3QTZM1"><img src="https://m.media-amazon.com/images/I/51tugdbCc8L._SL500_.jpg" alt="The Fourth Option cover" width="80" height="80"></a> | 1 | **The Fourth Option**<br>Jack Carr; M.P. Woodward<br><small>Thrillers, espionage &amp; mystery</small> | [Audible](https://www.audible.com/pd/B0FV3QTZM1) · [Cover art](https://m.media-amazon.com/images/I/51tugdbCc8L._SL500_.jpg) | 0:03 |
-
-<a id="group-47"></a>
 
 ## The Plant Paradox
 
@@ -688,19 +675,33 @@ The Prefect Dreyfus books are grouped separately under **The Prefect Dreyfus Eme
 |---|---:|---|---|---|
 | <a href="https://www.audible.com/pd/B07KZQZQDT"><img src="https://m.media-amazon.com/images/I/51gmlERkVkL._SL500_.jpg" alt="The Plant Paradox Quick and Easy cover" width="80" height="80"></a> | — | **The Plant Paradox Quick and Easy**<br>Steven R. Gundry MD<br><small>Health, nutrition &amp; fitness</small> | [Audible](https://www.audible.com/pd/B07KZQZQDT) · [Cover art](https://m.media-amazon.com/images/I/51gmlERkVkL._SL500_.jpg) | 0:00 |
 
-<a id="group-48"></a>
 
-## The Prefect Dreyfus Emergencies
+<a id="group-41"></a>
 
-3 titles.
+## Red Rising
+
+6 titles.
+
+The original trilogy is separate from the sequel saga. The three sequel books owned here do not imply the sequel saga is a trilogy or complete.
+
+### Original Red Rising trilogy
 
 | Cover | Order | Book and author | Links | Video |
 |---|---:|---|---|---|
-| <a href="https://www.audible.com/pd/B004P7VGWU"><img src="https://m.media-amazon.com/images/I/612ctxaeBZL._SL500_.jpg" alt="The Prefect cover" width="80" height="80"></a> | 1 | **The Prefect**<br>Alastair Reynolds<br><small>Science fiction</small> | [Audible](https://www.audible.com/pd/B004P7VGWU) · [Cover art](https://m.media-amazon.com/images/I/612ctxaeBZL._SL500_.jpg) | 0:21 |
-| <a href="https://www.audible.com/pd/B077YXPBCC"><img src="https://m.media-amazon.com/images/I/51fieKqrYSL._SL500_.jpg" alt="Elysium Fire cover" width="80" height="80"></a> | 2 | **Elysium Fire**<br>Alastair Reynolds<br><small>Science fiction</small> | [Audible](https://www.audible.com/pd/B077YXPBCC) · [Cover art](https://m.media-amazon.com/images/I/51fieKqrYSL._SL500_.jpg) | 1:08 |
-| <a href="https://www.audible.com/pd/B0BWH5GVYS"><img src="https://m.media-amazon.com/images/I/51itDe2d1gL._SL500_.jpg" alt="Machine Vendetta cover" width="80" height="80"></a> | 3 | **Machine Vendetta**<br>Alastair Reynolds<br><small>Science fiction</small> | [Audible](https://www.audible.com/pd/B0BWH5GVYS) · [Cover art](https://m.media-amazon.com/images/I/51itDe2d1gL._SL500_.jpg) | 0:33 |
+| <a href="https://www.audible.com/pd/B00I2VWW5U"><img src="https://m.media-amazon.com/images/I/51IM+e-toYL._SL500_.jpg" alt="Red Rising cover" width="80" height="80"></a> | 1 | **Red Rising**<br>Pierce Brown<br><small>Science fiction</small> | [Audible](https://www.audible.com/pd/B00I2VWW5U) · [Cover art](https://m.media-amazon.com/images/I/51IM+e-toYL._SL500_.jpg) | 1:15 |
+| <a href="https://www.audible.com/pd/B00R6S1RCY"><img src="https://m.media-amazon.com/images/I/514G5+-hXEL._SL500_.jpg" alt="Golden Son cover" width="80" height="80"></a> | 2 | **Golden Son**<br>Pierce Brown<br><small>Science fiction</small> | [Audible](https://www.audible.com/pd/B00R6S1RCY) · [Cover art](https://m.media-amazon.com/images/I/514G5+-hXEL._SL500_.jpg) | 1:14 |
+| <a href="https://www.audible.com/pd/B019NMZ6FE"><img src="https://m.media-amazon.com/images/I/41uGVHtH2pL._SL500_.jpg" alt="Morning Star cover" width="80" height="80"></a> | 3 | **Morning Star**<br>Pierce Brown<br><small>Science fiction</small> | [Audible](https://www.audible.com/pd/B019NMZ6FE) · [Cover art](https://m.media-amazon.com/images/I/41uGVHtH2pL._SL500_.jpg) | 1:13 |
 
-<a id="group-49"></a>
+### Sequel saga
+
+| Cover | Order | Book and author | Links | Video |
+|---|---:|---|---|---|
+| <a href="https://www.audible.com/pd/B074NBTRGL"><img src="https://m.media-amazon.com/images/I/51oKG4sAeqL._SL500_.jpg" alt="Iron Gold cover" width="80" height="80"></a> | 1 | **Iron Gold**<br>Pierce Brown<br><small>Science fiction</small> | [Audible](https://www.audible.com/pd/B074NBTRGL) · [Cover art](https://m.media-amazon.com/images/I/51oKG4sAeqL._SL500_.jpg) | 1:13 |
+| <a href="https://www.audible.com/pd/1980000174"><img src="https://m.media-amazon.com/images/I/51FGAP7DbxL._SL500_.jpg" alt="Dark Age cover" width="80" height="80"></a> | 2 | **Dark Age**<br>Pierce Brown<br><small>Science fiction</small> | [Audible](https://www.audible.com/pd/1980000174) · [Cover art](https://m.media-amazon.com/images/I/51FGAP7DbxL._SL500_.jpg) | 1:13 |
+| <a href="https://www.audible.com/pd/B0C28WLQP1"><img src="https://m.media-amazon.com/images/I/51uxvAxiknL._SL500_.jpg" alt="Light Bringer cover" width="80" height="80"></a> | 3 | **Light Bringer**<br>Pierce Brown<br><small>Science fiction</small> | [Audible](https://www.audible.com/pd/B0C28WLQP1) · [Cover art](https://m.media-amazon.com/images/I/51uxvAxiknL._SL500_.jpg) | 0:27 |
+
+
+<a id="group-42"></a>
 
 ## The Remembrance of Earth's Past
 
@@ -712,7 +713,69 @@ The Prefect Dreyfus books are grouped separately under **The Prefect Dreyfus Eme
 | <a href="https://www.audible.com/pd/B010PKSKBA"><img src="https://m.media-amazon.com/images/I/51I5EI0XjyL._SL500_.jpg" alt="The Dark Forest cover" width="80" height="80"></a> | 2 | **The Dark Forest**<br>Cixin Liu; Joel Martinsen - translator<br><small>Science fiction</small> | [Audible](https://www.audible.com/pd/B010PKSKBA) · [Cover art](https://m.media-amazon.com/images/I/51I5EI0XjyL._SL500_.jpg) | 1:14 |
 | <a href="https://www.audible.com/pd/B01LW7OXWP"><img src="https://m.media-amazon.com/images/I/51X8-stMNAL._SL500_.jpg" alt="Death&#x27;s End cover" width="80" height="80"></a> | 3 | **Death&#x27;s End**<br>Cixin Liu; Ken Liu - translator<br><small>Science fiction</small> | [Audible](https://www.audible.com/pd/B01LW7OXWP) · [Cover art](https://m.media-amazon.com/images/I/51X8-stMNAL._SL500_.jpg) | 1:14 |
 
-<a id="group-50"></a>
+
+<a id="group-43"></a>
+
+## Revelation Space universe
+
+10 titles.
+
+The core sequence follows the author’s stated order. Companion works and the Prefect Dreyfus subseries have their own sections; their placement is not a required universe-wide chronology.
+
+### Original Inhibitor sequence
+
+| Cover | Order | Book and author | Links | Video |
+|---|---:|---|---|---|
+| <a href="https://www.audible.com/pd/B002V5GYHA"><img src="https://m.media-amazon.com/images/I/51NbmYGYLvL._SL500_.jpg" alt="Revelation Space cover" width="80" height="80"></a> | 1 | **Revelation Space**<br>Alastair Reynolds<br><small>Science fiction</small> | [Audible](https://www.audible.com/pd/B002V5GYHA) · [Cover art](https://m.media-amazon.com/images/I/51NbmYGYLvL._SL500_.jpg) | 1:09 |
+| <a href="https://www.audible.com/pd/B002V1O58E"><img src="https://m.media-amazon.com/images/I/51b8vS5ettL._SL500_.jpg" alt="Redemption Ark cover" width="80" height="80"></a> | 2 | **Redemption Ark**<br>Alastair Reynolds<br><small>Science fiction</small> | [Audible](https://www.audible.com/pd/B002V1O58E) · [Cover art](https://m.media-amazon.com/images/I/51b8vS5ettL._SL500_.jpg) | 1:08 |
+| <a href="https://www.audible.com/pd/B002V5B3BW"><img src="https://m.media-amazon.com/images/I/51c-dj9khIL._SL500_.jpg" alt="Absolution Gap cover" width="80" height="80"></a> | 3 | **Absolution Gap**<br>Alastair Reynolds<br><small>Science fiction</small> | [Audible](https://www.audible.com/pd/B002V5B3BW) · [Cover art](https://m.media-amazon.com/images/I/51c-dj9khIL._SL500_.jpg) | 1:08 |
+
+### Inhibitor sequel
+
+| Cover | Order | Book and author | Links | Video |
+|---|---:|---|---|---|
+| <a href="https://www.audible.com/pd/B09F8VYDVH"><img src="https://m.media-amazon.com/images/I/51E9KXEF+FL._SL500_.jpg" alt="Inhibitor Phase cover" width="80" height="80"></a> | 1 | **Inhibitor Phase**<br>Alastair Reynolds<br><small>Science fiction</small> | [Audible](https://www.audible.com/pd/B09F8VYDVH) · [Cover art](https://m.media-amazon.com/images/I/51E9KXEF+FL._SL500_.jpg) | 1:02 |
+
+### Companion novels and collections
+
+| Cover | Order | Book and author | Links | Video |
+|---|---:|---|---|---|
+| <a href="https://www.audible.com/pd/B0030MTMLS"><img src="https://m.media-amazon.com/images/I/41cvGfqhaiL._SL500_.jpg" alt="Chasm City cover" width="80" height="80"></a> | 1 | **Chasm City**<br>Alastair Reynolds<br><small>Science fiction</small> | [Audible](https://www.audible.com/pd/B0030MTMLS) · [Cover art](https://m.media-amazon.com/images/I/41cvGfqhaiL._SL500_.jpg) | 1:08 |
+| <a href="https://www.audible.com/pd/B0128481DI"><img src="https://m.media-amazon.com/images/I/51WLI+FkdvL._SL500_.jpg" alt="Diamond Dogs, Turquoise Days cover" width="80" height="80"></a> | 2 | **Diamond Dogs, Turquoise Days**<br>Alastair Reynolds<br><small>Science fiction</small> | [Audible](https://www.audible.com/pd/B0128481DI) · [Cover art](https://m.media-amazon.com/images/I/51WLI+FkdvL._SL500_.jpg) | 0:33 |
+| <a href="https://www.audible.com/pd/B002V8MRS2"><img src="https://m.media-amazon.com/images/I/51hHp34RRRL._SL500_.jpg" alt="Galactic North cover" width="80" height="80"></a> | 3 | **Galactic North**<br>Alastair Reynolds<br><small>Science fiction</small> | [Audible](https://www.audible.com/pd/B002V8MRS2) · [Cover art](https://m.media-amazon.com/images/I/51hHp34RRRL._SL500_.jpg) | 1:08 |
+
+### The Prefect Dreyfus Emergencies
+
+| Cover | Order | Book and author | Links | Video |
+|---|---:|---|---|---|
+| <a href="https://www.audible.com/pd/B004P7VGWU"><img src="https://m.media-amazon.com/images/I/612ctxaeBZL._SL500_.jpg" alt="The Prefect cover" width="80" height="80"></a> | 1 | **The Prefect**<br>Alastair Reynolds<br><small>Science fiction</small> | [Audible](https://www.audible.com/pd/B004P7VGWU) · [Cover art](https://m.media-amazon.com/images/I/612ctxaeBZL._SL500_.jpg) | 0:21 |
+| <a href="https://www.audible.com/pd/B077YXPBCC"><img src="https://m.media-amazon.com/images/I/51fieKqrYSL._SL500_.jpg" alt="Elysium Fire cover" width="80" height="80"></a> | 2 | **Elysium Fire**<br>Alastair Reynolds<br><small>Science fiction</small> | [Audible](https://www.audible.com/pd/B077YXPBCC) · [Cover art](https://m.media-amazon.com/images/I/51fieKqrYSL._SL500_.jpg) | 1:08 |
+| <a href="https://www.audible.com/pd/B0BWH5GVYS"><img src="https://m.media-amazon.com/images/I/51itDe2d1gL._SL500_.jpg" alt="Machine Vendetta cover" width="80" height="80"></a> | 3 | **Machine Vendetta**<br>Alastair Reynolds<br><small>Science fiction</small> | [Audible](https://www.audible.com/pd/B0BWH5GVYS) · [Cover art](https://m.media-amazon.com/images/I/51itDe2d1gL._SL500_.jpg) | 0:33 |
+
+
+<a id="group-44"></a>
+
+## Richard Rhodes' Nuclear Histories
+
+1 title.
+
+| Cover | Order | Book and author | Links | Video |
+|---|---:|---|---|---|
+| <a href="https://www.audible.com/pd/B01B1ZA7DM"><img src="https://m.media-amazon.com/images/I/41o+jcnMdJL._SL500_.jpg" alt="Making of the Atomic Bomb cover" width="80" height="80"></a> | — | **Making of the Atomic Bomb**<br>Richard Rhodes<br><small>History, military &amp; politics</small> | [Audible](https://www.audible.com/pd/B01B1ZA7DM) · [Cover art](https://m.media-amazon.com/images/I/41o+jcnMdJL._SL500_.jpg) | 0:44 |
+
+
+<a id="group-45"></a>
+
+## Start with Why
+
+1 title.
+
+| Cover | Order | Book and author | Links | Video |
+|---|---:|---|---|---|
+| <a href="https://www.audible.com/pd/B0F71ZM8YL"><img src="https://m.media-amazon.com/images/I/41U8k2KOgFL._SL500_.jpg" alt="Start with Why cover" width="80" height="80"></a> | 1 | **Start with Why**<br>Simon Sinek<br><small>Business, leadership &amp; productivity</small><br><em>The recording shows Start with Why without an anniversary label. The link and cover use the currently listed 15th Anniversary Edition; the original edition could not be verified.</em> | [Audible](https://www.audible.com/pd/B0F71ZM8YL) · [Cover art](https://m.media-amazon.com/images/I/41U8k2KOgFL._SL500_.jpg) | 0:57 |
+
+
+<a id="group-46"></a>
 
 ## The Terminal List
 
@@ -728,19 +791,44 @@ The Prefect Dreyfus books are grouped separately under **The Prefect Dreyfus Eme
 | <a href="https://www.audible.com/pd/B0BJ13SVSB"><img src="https://m.media-amazon.com/images/I/511zBmAjWLL._SL500_.jpg" alt="Only the Dead cover" width="80" height="80"></a> | 6 | **Only the Dead**<br>Jack Carr<br><small>Thrillers, espionage &amp; mystery</small> | [Audible](https://www.audible.com/pd/B0BJ13SVSB) · [Cover art](https://m.media-amazon.com/images/I/511zBmAjWLL._SL500_.jpg) | 0:22 |
 | <a href="https://www.audible.com/pd/B0CLGVVKS4"><img src="https://m.media-amazon.com/images/I/51QPQ2Y8EtL._SL500_.jpg" alt="Red Sky Mourning cover" width="80" height="80"></a> | 7 | **Red Sky Mourning**<br>Jack Carr<br><small>Thrillers, espionage &amp; mystery</small> | [Audible](https://www.audible.com/pd/B0CLGVVKS4) · [Cover art](https://m.media-amazon.com/images/I/51QPQ2Y8EtL._SL500_.jpg) | 0:21 |
 
-<a id="group-51"></a>
 
-## The Unification War Trilogy
+<a id="group-47"></a>
 
-3 titles.
+## A Tom Reece Thriller
+
+1 title.
 
 | Cover | Order | Book and author | Links | Video |
 |---|---:|---|---|---|
-| <a href="https://www.audible.com/pd/177424344X"><img src="https://m.media-amazon.com/images/I/51rVvwT3ZRL._SL500_.jpg" alt="Battleground cover" width="80" height="80"></a> | 1 | **Battleground**<br>Joshua Dalzelle<br><small>Science fiction</small> | [Audible](https://www.audible.com/pd/177424344X) · [Cover art](https://m.media-amazon.com/images/I/51rVvwT3ZRL._SL500_.jpg) | 0:39 |
-| <a href="https://www.audible.com/pd/B09LRM3SFN"><img src="https://m.media-amazon.com/images/I/51xyQehXd7L._SL500_.jpg" alt="No Quarter cover" width="80" height="80"></a> | 2 | **No Quarter**<br>Joshua Dalzelle<br><small>Science fiction</small> | [Audible](https://www.audible.com/pd/B09LRM3SFN) · [Cover art](https://m.media-amazon.com/images/I/51xyQehXd7L._SL500_.jpg) | 0:38 |
-| <a href="https://www.audible.com/pd/B09V98WX2B"><img src="https://m.media-amazon.com/images/I/51rxjgJSU9L._SL500_.jpg" alt="Empire cover" width="80" height="80"></a> | 3 | **Empire**<br>Joshua Dalzelle<br><small>Science fiction</small> | [Audible](https://www.audible.com/pd/B09V98WX2B) · [Cover art](https://m.media-amazon.com/images/I/51rxjgJSU9L._SL500_.jpg) | 0:38 |
+| <a href="https://www.audible.com/pd/B0DHY73W12"><img src="https://m.media-amazon.com/images/I/51ai8nwDN5L._SL500_.jpg" alt="Cry Havoc cover" width="80" height="80"></a> | 1 | **Cry Havoc**<br>Jack Carr<br><small>Thrillers, espionage &amp; mystery</small> | [Audible](https://www.audible.com/pd/B0DHY73W12) · [Cover art](https://m.media-amazon.com/images/I/51ai8nwDN5L._SL500_.jpg) | 0:08 |
 
-<a id="group-52"></a>
+
+<a id="group-48"></a>
+
+## Uplift Saga
+
+6 titles.
+
+The original three novels are followed by the separate Uplift Trilogy, with numbering restarted at 1 for *Brightness Reef*.
+
+### Original Uplift novels
+
+| Cover | Order | Book and author | Links | Video |
+|---|---:|---|---|---|
+| <a href="https://www.audible.com/pd/B002V5GV1O"><img src="https://m.media-amazon.com/images/I/519TgPtlZ0L._SL500_.jpg" alt="Sundiver cover" width="80" height="80"></a> | 1 | **Sundiver**<br>David Brin<br><small>Science fiction</small> | [Audible](https://www.audible.com/pd/B002V5GV1O) · [Cover art](https://m.media-amazon.com/images/I/519TgPtlZ0L._SL500_.jpg) | 1:22 |
+| <a href="https://www.audible.com/pd/B002VACDZ2"><img src="https://m.media-amazon.com/images/I/51UmiQbR8iL._SL500_.jpg" alt="Startide Rising cover" width="80" height="80"></a> | 2 | **Startide Rising**<br>David Brin<br><small>Science fiction</small> | [Audible](https://www.audible.com/pd/B002VACDZ2) · [Cover art](https://m.media-amazon.com/images/I/51UmiQbR8iL._SL500_.jpg) | 1:20 |
+| <a href="https://www.audible.com/pd/B002V5IUKE"><img src="https://m.media-amazon.com/images/I/51r9jRBuFgL._SL500_.jpg" alt="The Uplift War cover" width="80" height="80"></a> | 3 | **The Uplift War**<br>David Brin<br><small>Science fiction</small> | [Audible](https://www.audible.com/pd/B002V5IUKE) · [Cover art](https://m.media-amazon.com/images/I/51r9jRBuFgL._SL500_.jpg) | 1:22 |
+
+### Uplift Trilogy
+
+| Cover | Order | Book and author | Links | Video |
+|---|---:|---|---|---|
+| <a href="https://www.audible.com/pd/B002V8NAO2"><img src="https://m.media-amazon.com/images/I/51YWoFqSwVL._SL500_.jpg" alt="Brightness Reef cover" width="80" height="80"></a> | 1 | **Brightness Reef**<br>David Brin<br><small>Science fiction</small> | [Audible](https://www.audible.com/pd/B002V8NAO2) · [Cover art](https://m.media-amazon.com/images/I/51YWoFqSwVL._SL500_.jpg) | 1:17 |
+| <a href="https://www.audible.com/pd/B003159FTS"><img src="https://m.media-amazon.com/images/I/51Fz4Dk+ddL._SL500_.jpg" alt="Infinity&#x27;s Shore cover" width="80" height="80"></a> | 2 | **Infinity&#x27;s Shore**<br>David Brin<br><small>Science fiction</small> | [Audible](https://www.audible.com/pd/B003159FTS) · [Cover art](https://m.media-amazon.com/images/I/51Fz4Dk+ddL._SL500_.jpg) | 1:17 |
+| <a href="https://www.audible.com/pd/B0039LYOR2"><img src="https://m.media-amazon.com/images/I/51iI1s9JV7L._SL500_.jpg" alt="Heaven’s Reach cover" width="80" height="80"></a> | 3 | **Heaven’s Reach**<br>David Brin<br><small>Science fiction</small> | [Audible](https://www.audible.com/pd/B0039LYOR2) · [Cover art](https://m.media-amazon.com/images/I/51iI1s9JV7L._SL500_.jpg) | 1:16 |
+
+
+<a id="group-49"></a>
 
 ## The World Crisis
 
@@ -750,50 +838,27 @@ The Prefect Dreyfus books are grouped separately under **The Prefect Dreyfus Eme
 |---|---:|---|---|---|
 | <a href="https://www.audible.com/pd/1982673540"><img src="https://m.media-amazon.com/images/I/51kJZraYXmL._SL500_.jpg" alt="The World Crisis, Vol. 1 cover" width="80" height="80"></a> | 1 | **The World Crisis, Vol. 1**<br>Winston Churchill<br><small>History, military &amp; politics</small> | [Audible](https://www.audible.com/pd/1982673540) · [Cover art](https://m.media-amazon.com/images/I/51kJZraYXmL._SL500_.jpg) | 0:34 |
 
-<a id="group-53"></a>
 
-## Uplift Saga
-
-6 titles.
-
-*Brightness Reef*, *Infinity’s Shore*, and *Heaven’s Reach* also form the Uplift Trilogy (books 1–3), corresponding to Uplift Saga books 4–6.
-
-| Cover | Order | Book and author | Links | Video |
-|---|---:|---|---|---|
-| <a href="https://www.audible.com/pd/B002V5GV1O"><img src="https://m.media-amazon.com/images/I/519TgPtlZ0L._SL500_.jpg" alt="Sundiver cover" width="80" height="80"></a> | 1 | **Sundiver**<br>David Brin<br><small>Science fiction</small> | [Audible](https://www.audible.com/pd/B002V5GV1O) · [Cover art](https://m.media-amazon.com/images/I/519TgPtlZ0L._SL500_.jpg) | 1:22 |
-| <a href="https://www.audible.com/pd/B002VACDZ2"><img src="https://m.media-amazon.com/images/I/51UmiQbR8iL._SL500_.jpg" alt="Startide Rising cover" width="80" height="80"></a> | 2 | **Startide Rising**<br>David Brin<br><small>Science fiction</small> | [Audible](https://www.audible.com/pd/B002VACDZ2) · [Cover art](https://m.media-amazon.com/images/I/51UmiQbR8iL._SL500_.jpg) | 1:20 |
-| <a href="https://www.audible.com/pd/B002V5IUKE"><img src="https://m.media-amazon.com/images/I/51r9jRBuFgL._SL500_.jpg" alt="The Uplift War cover" width="80" height="80"></a> | 3 | **The Uplift War**<br>David Brin<br><small>Science fiction</small> | [Audible](https://www.audible.com/pd/B002V5IUKE) · [Cover art](https://m.media-amazon.com/images/I/51r9jRBuFgL._SL500_.jpg) | 1:22 |
-| <a href="https://www.audible.com/pd/B002V8NAO2"><img src="https://m.media-amazon.com/images/I/51YWoFqSwVL._SL500_.jpg" alt="Brightness Reef cover" width="80" height="80"></a> | 4 | **Brightness Reef**<br>David Brin<br><small>Science fiction</small> | [Audible](https://www.audible.com/pd/B002V8NAO2) · [Cover art](https://m.media-amazon.com/images/I/51YWoFqSwVL._SL500_.jpg) | 1:17 |
-| <a href="https://www.audible.com/pd/B003159FTS"><img src="https://m.media-amazon.com/images/I/51Fz4Dk+ddL._SL500_.jpg" alt="Infinity&#x27;s Shore cover" width="80" height="80"></a> | 5 | **Infinity&#x27;s Shore**<br>David Brin<br><small>Science fiction</small> | [Audible](https://www.audible.com/pd/B003159FTS) · [Cover art](https://m.media-amazon.com/images/I/51Fz4Dk+ddL._SL500_.jpg) | 1:17 |
-| <a href="https://www.audible.com/pd/B0039LYOR2"><img src="https://m.media-amazon.com/images/I/51iI1s9JV7L._SL500_.jpg" alt="Heaven’s Reach cover" width="80" height="80"></a> | 6 | **Heaven’s Reach**<br>David Brin<br><small>Science fiction</small> | [Audible](https://www.audible.com/pd/B0039LYOR2) · [Cover art](https://m.media-amazon.com/images/I/51iI1s9JV7L._SL500_.jpg) | 1:16 |
-
-<a id="group-54"></a>
-
-## Void Trilogy
-
-3 titles.
-
-| Cover | Order | Book and author | Links | Video |
-|---|---:|---|---|---|
-| <a href="https://www.audible.com/pd/B002V0PW2I"><img src="https://m.media-amazon.com/images/I/51OGb-Epy-L._SL500_.jpg" alt="The Dreaming Void cover" width="80" height="80"></a> | 1 | **The Dreaming Void**<br>Peter F. Hamilton<br><small>Science fiction</small> | [Audible](https://www.audible.com/pd/B002V0PW2I) · [Cover art](https://m.media-amazon.com/images/I/51OGb-Epy-L._SL500_.jpg) | 1:02 |
-| <a href="https://www.audible.com/pd/B002V59VPW"><img src="https://m.media-amazon.com/images/I/51lOOcyP1DL._SL500_.jpg" alt="The Temporal Void cover" width="80" height="80"></a> | 2 | **The Temporal Void**<br>Peter F. Hamilton<br><small>Science fiction</small> | [Audible](https://www.audible.com/pd/B002V59VPW) · [Cover art](https://m.media-amazon.com/images/I/51lOOcyP1DL._SL500_.jpg) | 1:01 |
-| <a href="https://www.audible.com/pd/B004287I7O"><img src="https://m.media-amazon.com/images/I/61qyxSLzIDL._SL500_.jpg" alt="The Evolutionary Void cover" width="80" height="80"></a> | 3 | **The Evolutionary Void**<br>Peter F. Hamilton<br><small>Science fiction</small> | [Audible](https://www.audible.com/pd/B004287I7O) · [Cover art](https://m.media-amazon.com/images/I/61qyxSLzIDL._SL500_.jpg) | 1:01 |
-
-<a id="group-55"></a>
+<a id="group-50"></a>
 
 ## Fiction — literary classics
 
 1 title.
 
+### Standalone titles
+
 | Cover | Order | Book and author | Links | Video |
 |---|---:|---|---|---|
 | <a href="https://www.audible.com/pd/B00546SXO0"><img src="https://m.media-amazon.com/images/I/51Tur5WAoAL._SL500_.jpg" alt="East of Eden cover" width="80" height="80"></a> | — | **East of Eden**<br>John Steinbeck<br><small>Literary classics &amp; mythology</small> | [Audible](https://www.audible.com/pd/B00546SXO0) · [Cover art](https://m.media-amazon.com/images/I/51Tur5WAoAL._SL500_.jpg) | 0:11 |
 
-<a id="group-56"></a>
+
+<a id="group-51"></a>
 
 ## Fiction — science fiction and thrillers
 
 8 titles.
+
+### Standalone titles
 
 | Cover | Order | Book and author | Links | Video |
 |---|---:|---|---|---|
@@ -806,11 +871,14 @@ The Prefect Dreyfus books are grouped separately under **The Prefect Dreyfus Eme
 | <a href="https://www.audible.com/pd/B07BHVWFSM"><img src="https://m.media-amazon.com/images/I/51JMOmwroIL._SL500_.jpg" alt="The Singularity Trap cover" width="80" height="80"></a> | — | **The Singularity Trap**<br>Dennis E. Taylor<br><small>Science fiction</small> | [Audible](https://www.audible.com/pd/B07BHVWFSM) · [Cover art](https://m.media-amazon.com/images/I/51JMOmwroIL._SL500_.jpg) | 0:26 |
 | <a href="https://www.audible.com/pd/B0B193J92Q"><img src="https://m.media-amazon.com/images/I/51+QbzL4KiL._SL500_.jpg" alt="The Weight of Command cover" width="80" height="80"></a> | — | **The Weight of Command**<br>Michael Mammay<br><small>Science fiction</small> | [Audible](https://www.audible.com/pd/B0B193J92Q) · [Cover art](https://m.media-amazon.com/images/I/51+QbzL4KiL._SL500_.jpg) | 0:53 |
 
-<a id="group-57"></a>
+
+<a id="group-52"></a>
 
 ## Nonfiction — biography, memoir and essays
 
 9 titles.
+
+### Standalone titles
 
 | Cover | Order | Book and author | Links | Video |
 |---|---:|---|---|---|
@@ -824,11 +892,14 @@ The Prefect Dreyfus books are grouped separately under **The Prefect Dreyfus Eme
 | <a href="https://www.audible.com/pd/1799700135"><img src="https://m.media-amazon.com/images/I/51L-pdN6j4L._SL500_.jpg" alt="Themes and Variations cover" width="80" height="80"></a> | — | **Themes and Variations**<br>David Sedaris<br><small>Biography, memoir &amp; personal essays</small> | [Audible](https://www.audible.com/pd/1799700135) · [Cover art](https://m.media-amazon.com/images/I/51L-pdN6j4L._SL500_.jpg) | 0:42 |
 | <a href="https://www.audible.com/pd/B015JHQJ26"><img src="https://m.media-amazon.com/images/I/51XvrvO12pL._SL500_.jpg" alt="Thoughts and Adventures cover" width="80" height="80"></a> | — | **Thoughts and Adventures**<br>Winston Churchill<br><small>Biography, memoir &amp; personal essays</small> | [Audible](https://www.audible.com/pd/B015JHQJ26) · [Cover art](https://m.media-amazon.com/images/I/51XvrvO12pL._SL500_.jpg) | 0:37 |
 
-<a id="group-58"></a>
+
+<a id="group-53"></a>
 
 ## Nonfiction — business, leadership and productivity
 
 12 titles.
+
+### Standalone titles
 
 | Cover | Order | Book and author | Links | Video |
 |---|---:|---|---|---|
@@ -845,11 +916,14 @@ The Prefect Dreyfus books are grouped separately under **The Prefect Dreyfus Eme
 | <a href="https://www.audible.com/pd/B01CIRT3V4"><img src="https://m.media-amazon.com/images/I/51TPOM+sBCL._SL500_.jpg" alt="The Third Wave cover" width="80" height="80"></a> | — | **The Third Wave**<br>Steve Case<br><small>Business, leadership &amp; productivity</small> | [Audible](https://www.audible.com/pd/B01CIRT3V4) · [Cover art](https://m.media-amazon.com/images/I/51TPOM+sBCL._SL500_.jpg) | 1:20 |
 | <a href="https://www.audible.com/pd/1639296239"><img src="https://m.media-amazon.com/images/I/514Z8v4scKL._SL500_.jpg" alt="Transforming Nokia cover" width="80" height="80"></a> | — | **Transforming Nokia**<br>Risto Siilasmaa<br><small>Business, leadership &amp; productivity</small> | [Audible](https://www.audible.com/pd/1639296239) · [Cover art](https://m.media-amazon.com/images/I/514Z8v4scKL._SL500_.jpg) | 1:16 |
 
-<a id="group-59"></a>
+
+<a id="group-54"></a>
 
 ## Nonfiction — data and personal finance
 
 3 titles.
+
+### Standalone titles
 
 | Cover | Order | Book and author | Links | Video |
 |---|---:|---|---|---|
@@ -857,11 +931,14 @@ The Prefect Dreyfus books are grouped separately under **The Prefect Dreyfus Eme
 | <a href="https://www.audible.com/pd/B002V5B8XU"><img src="https://m.media-amazon.com/images/I/51Tk-jhYBBL._SL500_.jpg" alt="Investing For Dummies 4th Edition cover" width="80" height="80"></a> | — | **Investing For Dummies 4th Edition**<br>Eric Tyson<br><small>Personal finance &amp; investing</small> | [Audible](https://www.audible.com/pd/B002V5B8XU) · [Cover art](https://m.media-amazon.com/images/I/51Tk-jhYBBL._SL500_.jpg) | 1:24 |
 | <a href="https://www.audible.com/pd/B002V1BNSY"><img src="https://m.media-amazon.com/images/I/61TAQvEi-RL._SL500_.jpg" alt="Super Crunchers cover" width="80" height="80"></a> | — | **Super Crunchers**<br>Ian Ayres<br><small>Educational — science, data &amp; learning</small> | [Audible](https://www.audible.com/pd/B002V1BNSY) · [Cover art](https://m.media-amazon.com/images/I/61TAQvEi-RL._SL500_.jpg) | 1:24 |
 
-<a id="group-60"></a>
+
+<a id="group-55"></a>
 
 ## Nonfiction — education, society and culture
 
 6 titles.
+
+### Standalone titles
 
 | Cover | Order | Book and author | Links | Video |
 |---|---:|---|---|---|
@@ -872,11 +949,14 @@ The Prefect Dreyfus books are grouped separately under **The Prefect Dreyfus Eme
 | <a href="https://www.audible.com/pd/179993165X"><img src="https://m.media-amazon.com/images/I/41jxUYUsSlL._SL500_.jpg" alt="The Parasitic Mind cover" width="80" height="80"></a> | — | **The Parasitic Mind**<br>Gad Saad<br><small>Society &amp; culture</small> | [Audible](https://www.audible.com/pd/179993165X) · [Cover art](https://m.media-amazon.com/images/I/41jxUYUsSlL._SL500_.jpg) | 0:43 |
 | <a href="https://www.audible.com/pd/B073SG4DLG"><img src="https://m.media-amazon.com/images/I/51PiW8HUKIL._SL500_.jpg" alt="The Revolt of the Elites and the Betrayal of Democracy cover" width="80" height="80"></a> | — | **The Revolt of the Elites and the Betrayal of Democracy**<br>Christopher Lasch<br><small>Society &amp; culture</small> | [Audible](https://www.audible.com/pd/B073SG4DLG) · [Cover art](https://m.media-amazon.com/images/I/51PiW8HUKIL._SL500_.jpg) | 0:10 |
 
-<a id="group-61"></a>
+
+<a id="group-56"></a>
 
 ## Nonfiction — health, parenting and relationships
 
 5 titles.
+
+### Standalone titles
 
 | Cover | Order | Book and author | Links | Video |
 |---|---:|---|---|---|
@@ -886,11 +966,14 @@ The Prefect Dreyfus books are grouped separately under **The Prefect Dreyfus Eme
 | <a href="https://www.audible.com/pd/B00BEVX2JU"><img src="https://m.media-amazon.com/images/I/51huJKh5JvL._SL500_.jpg" alt="Peaceful Parent, Happy Kids cover" width="80" height="80"></a> | — | **Peaceful Parent, Happy Kids**<br>Laura Markham<br><small>Parenting &amp; relationships</small> | [Audible](https://www.audible.com/pd/B00BEVX2JU) · [Cover art](https://m.media-amazon.com/images/I/51huJKh5JvL._SL500_.jpg) | 1:13 |
 | <a href="https://www.audible.com/pd/B00CYKDYBQ"><img src="https://m.media-amazon.com/images/I/51jK8rnRLrL._SL500_.jpg" alt="The Power of Vulnerability cover" width="80" height="80"></a> | — | **The Power of Vulnerability**<br>Brené Brown PhD LMSW<br><small>Personal development &amp; psychology</small> | [Audible](https://www.audible.com/pd/B00CYKDYBQ) · [Cover art](https://m.media-amazon.com/images/I/51jK8rnRLrL._SL500_.jpg) | 1:17 |
 
-<a id="group-62"></a>
+
+<a id="group-57"></a>
 
 ## Nonfiction — history, war and politics
 
 9 titles.
+
+### Standalone titles
 
 | Cover | Order | Book and author | Links | Video |
 |---|---:|---|---|---|
@@ -903,6 +986,7 @@ The Prefect Dreyfus books are grouped separately under **The Prefect Dreyfus Eme
 | <a href="https://www.audible.com/pd/B0CJDJHL87"><img src="https://m.media-amazon.com/images/I/51xM8RySZyL._SL500_.jpg" alt="The End of Everything cover" width="80" height="80"></a> | — | **The End of Everything**<br>Victor Davis Hanson<br><small>History, military &amp; politics</small> | [Audible](https://www.audible.com/pd/B0CJDJHL87) · [Cover art](https://m.media-amazon.com/images/I/51xM8RySZyL._SL500_.jpg) | 0:29 |
 | <a href="https://www.audible.com/pd/B006K38NHS"><img src="https://m.media-amazon.com/images/I/51rV2Eo4xxL._SL500_.jpg" alt="The Face of Battle cover" width="80" height="80"></a> | — | **The Face of Battle**<br>John Keegan<br><small>History, military &amp; politics</small> | [Audible](https://www.audible.com/pd/B006K38NHS) · [Cover art](https://m.media-amazon.com/images/I/51rV2Eo4xxL._SL500_.jpg) | 0:37 |
 | <a href="https://www.audible.com/pd/B00NMSJ49U"><img src="https://m.media-amazon.com/images/I/51C3sHbBD+L._SL500_.jpg" alt="Titan II cover" width="80" height="80"></a> | — | **Titan II**<br>David Stumpf<br><small>History, military &amp; politics</small> | [Audible](https://www.audible.com/pd/B00NMSJ49U) · [Cover art](https://m.media-amazon.com/images/I/51C3sHbBD+L._SL500_.jpg) | 1:18 |
+
 
 ## Sources
 

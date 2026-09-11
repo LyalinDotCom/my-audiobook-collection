@@ -37,48 +37,67 @@ def esc(s):
     return html.escape(str(s), quote=True).replace('|', '&#124;')
 
 def order(b):
-    match = re.match(r'\d+(?:\.\d+)?', b['sequence'])
+    match = re.match(r'\d+(?:\.\d+)?', b['reading_position'])
     return (float(match[0]) if match else 10000, b['title'].casefold())
+
+def name_order(name):
+    return re.sub(r'^(the|a|an) ', '', name.casefold())
+
+def sections(items):
+    result = collections.defaultdict(list)
+    for b in items:
+        result[(b['reading_section_order'], b['reading_section'])].append(b)
+    return [(name, sorted(result[(rank,name)], key=order)) for rank,name in sorted(result)]
 
 def timestamp(seconds):
     return f'{int(seconds)//60}:{int(seconds)%60:02d}'
 
 groups = collections.defaultdict(list)
 for book in books:
-    groups[(book['group_kind'], book['group'])].append(book)
-keys = sorted(groups, key=lambda k: (0 if k[0] == 'series' else 1, k[1].casefold()))
+    groups[(book['group_kind'], book['reading_family'])].append(book)
+keys = sorted(groups, key=lambda k: (0 if k[0] == 'series' else 1, name_order(k[1])))
 anchors = {key:f'group-{i+1:02d}' for i,key in enumerate(keys)}
-series_count = sum(key[0] == 'series' for key in keys)
+series_count = len({b['group'] for b in books if b['group_kind'] == 'series'})
 standalone_count = sum(b['group_kind'] == 'standalone' for b in books)
 lines = [
     '# My Audiobook Collection', '',
     f'**238 library titles · {series_count} series or named collections · {standalone_count} titles without a cataloged series**', '',
     'Cataloged from the supplied Audible library recording on **September 10, 2026**. The extracted total matches the **238 titles** displayed in the video. Box sets count as one library title.', '',
     'Click any cover or **Audible** link to open the product page. **Cover art** opens the full image. **Video** is the first observed timestamp in the source recording, rounded down to a whole second.', '',
-    'Series are sorted by Audible’s sequence, including novellas and omnibus ranges. This is a catalog of the books shown, not a claim that every series is complete. Books without a cataloged series are grouped by subject. See [verification and edition notes](VERIFICATION.md).', '',
+    'Browse by **series/universe → trilogy or subseries → book number**. Related trilogies stay together. Order numbers are local to each subsection; the original Audible sequence is retained in the JSON. Longer series are not artificially divided into trilogies. This catalog contains only the books shown, and does not imply every series is complete. See [verification and reading-order notes](VERIFICATION.md).', '',
     '**Edition exceptions:** *Start with Why* and *Getting Things Done* link to current editions that may differ from the recordings owned. The edition of *Intelligence in War* remains unconfirmed. *The Iliad* and *Team of Rivals* are matched to the abridged editions shown.', '',
     *category_summary(), '',
-    '## Index', '', '| Series / collection / category | Titles |', '|---|---:|'
+    '## Series and trilogy index', '', '| Series / universe / category | Trilogies and subseries | Titles |', '|---|---|---:|'
 ]
 for key in keys:
-    lines.append(f'| [{key[1]}](#{anchors[key]}) | {len(groups[key])} |')
+    names = [name for name,items in sections(groups[key])]
+    detail = ' → '.join(names) if names != [key[1]] else '—'
+    lines.append(f'| [{key[1]}](#{anchors[key]}) | {detail} | {len(groups[key])} |')
 for key in keys:
     kind,name = key
     lines += ['', f'<a id="{anchors[key]}"></a>', '', f'## {name}', '', f'{len(groups[key])} title'+('s' if len(groups[key]) != 1 else '')+'.', '']
     if name == 'Good to Great':
         lines += ['Audible’s named collection. Its numbering is not publication order; *Good to Great* has no sequence in its individual listing.', '']
-    if name == 'Revelation Space':
-        lines += ['The Prefect Dreyfus books are grouped separately under **The Prefect Dreyfus Emergencies**. Audible’s sequence here is a catalog order, not a recommended chronological reading order.', '']
+    if name == 'Revelation Space universe':
+        lines += ['The core sequence follows the author’s stated order. Companion works and the Prefect Dreyfus subseries have their own sections; their placement is not a required universe-wide chronology.', '']
     if name == 'Uplift Saga':
-        lines += ['*Brightness Reef*, *Infinity’s Shore*, and *Heaven’s Reach* also form the Uplift Trilogy (books 1–3), corresponding to Uplift Saga books 4–6.', '']
-    lines += ['| Cover | Order | Book and author | Links | Video |', '|---|---:|---|---|---|']
-    for b in sorted(groups[key], key=order):
+        lines += ['The original three novels are followed by the separate Uplift Trilogy, with numbering restarted at 1 for *Brightness Reef*.', '']
+    if name == 'Red Rising':
+        lines += ['The original trilogy is separate from the sequel saga. The three sequel books owned here do not imply the sequel saga is a trilogy or complete.', '']
+    if name == 'Expeditionary Force':
+        lines += ['Main-series books and the Mavericks spinoff each retain their own sequence. Spinoffs are kept together rather than interleaved with the main-series timeline.', '']
+    for section, section_books in sections(groups[key]):
+      if section != name:
+        lines += [f'### {section}', '']
+      lines += ['| Cover | Order | Book and author | Links | Video |', '|---|---:|---|---|---|']
+      for b in section_books:
         cover=f'<a href="{esc(b["audible_url"])}"><img src="{esc(b["cover_url"])}" alt="{esc(b["title"])} cover" width="80" height="80"></a>'
         description=f'**{esc(b["title"])}**<br>{esc("; ".join(b["authors"]))}<br><small>{esc(b["primary_category"])}</small>'
         if b['notes']:
             description += '<br><em>'+esc(b['notes'])+'</em>'
         links=f'[Audible]({b["audible_url"]}) · [Cover art]({b["cover_url"]})'
-        lines.append(f'| {cover} | {esc(b["sequence"] or "—")} | {description} | {links} | {timestamp(b["evidence_seconds"])} |')
+        lines.append(f'| {cover} | {esc(b["reading_position"] or "—")} | {description} | {links} | {timestamp(b["evidence_seconds"])} |')
+      lines += ['']
 lines += ['', '## Sources', '',
     'Book identities and timestamps come from the supplied screen recording. Authors, narrators, ASINs, series positions, and cover URLs come from Audible’s US catalog, retrieved September 10, 2026. Each title links directly to its Audible record; per-book catalog source URLs are retained in [data/library.json](data/library.json).', '',
     'The four volumes of *A History of the English-Speaking Peoples* are grouped using their Audible subtitles and the [publisher description for The Great Democracies](https://www.audible.com/pd/The-Great-Democracies-Audiobook/B002V1OIRW). The *Start with Why* grouping follows [Audible’s series index](https://www.audible.com/series/Start-with-Why-Series-Audiobooks/B0F79MT9ZX).', '',
@@ -94,13 +113,20 @@ for name in category_names:
     category_lines += [f'<a id="{category_anchors[name]}"></a>', '', f'## {name}', '',
         f'**{category_counts[name]} titles** · {category_definitions[name]["type"]}', '',
         category_definitions[name]['definition'], '',
-        '| Title | Author | Series / collection |', '|---|---|---|']
-    for b in sorted((b for b in books if b['primary_category'] == name), key=lambda b:b['title'].casefold()):
-        series = b['group'] if b['group_kind'] == 'series' else '—'
-        if b['group_kind'] == 'series' and b['sequence']:
-            series += ' · '+b['sequence']
-        category_lines.append(f'| [{esc(b["title"])}]({b["audible_url"]}) | {esc("; ".join(b["authors"]))} | {esc(series)} |')
-    category_lines += ['']
+        'Grouped by series/universe, then trilogy or subseries, then book number. Standalone titles follow the series.', '']
+    families = collections.defaultdict(list)
+    for b in books:
+        if b['primary_category'] == name:
+            families[b['reading_family'] if b['group_kind'] == 'series' else 'Standalone titles'].append(b)
+    for family in sorted(families,key=lambda f:(f == 'Standalone titles',name_order(f))):
+        category_lines += [f'### {family}', '']
+        for section, section_books in sections(families[family]):
+            if section != family:
+                category_lines += [f'#### {section}', '']
+            category_lines += ['| Order | Title | Author |', '|---:|---|---|']
+            for b in section_books:
+                category_lines.append(f'| {esc(b["reading_position"] or "—")} | [{esc(b["title"])}]({b["audible_url"]}) | {esc("; ".join(b["authors"]))} |')
+            category_lines += ['']
 (ROOT / 'CATEGORIES.md').write_text('\n'.join(category_lines))
 
 readme_path = ROOT / 'README.md'
